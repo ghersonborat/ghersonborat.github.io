@@ -35,7 +35,7 @@ async function readAsset(relative) {
   return bytes;
 }
 
-test('all fourteen supplied PDFs are audited exactly once, including books containing multiple tests', async () => {
+test('all fourteen exam PDFs and the companion are audited exactly once', async () => {
   assert.deepEqual(catalog.exams.map(e => e.id).sort(), [...Object.keys(fixtures), ...unofficialIds].sort());
   assert.equal(catalog.uniqueExamCount, 13);
   assert.equal(catalog.questionTotal, 857);
@@ -47,7 +47,8 @@ test('all fourteen supplied PDFs are audited exactly once, including books conta
   const sources = sourceDocuments.map(source => source.sourceFile);
   assert.equal(new Set(sources).size, sources.length, 'Each source document gets one audit record');
   const supplied = (await readdir(root)).filter(name => name.toLowerCase().endsWith('.pdf'));
-  assert.deepEqual([...sources].sort(), [...supplied].sort());
+  const companion = JSON.parse(await readFile(resolve(root, 'data/companion.json'), 'utf8'));
+  assert.deepEqual([...sources, companion.sourceFile].sort(), [...supplied].sort());
   for (const source of sourceDocuments) {
     const bytes = await readAsset(source.sourceFile);
     if (source.sourceSha256) assert.equal(createHash('sha256').update(bytes).digest('hex'), source.sourceSha256);

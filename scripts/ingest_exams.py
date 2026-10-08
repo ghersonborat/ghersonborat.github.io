@@ -64,7 +64,8 @@ def validate(catalog: dict) -> None:
     if documents:
         names = [doc['sourceFile'] for doc in documents]
         assert len(names) == len(set(names)) == catalog['sourceFileCount']
-        assert set(names) == {p.name for p in ROOT.glob('*.pdf')}
+        companion = json.loads((ROOT / 'data' / 'companion.json').read_text())
+        assert set(names) | {companion['sourceFile']} == {p.name for p in ROOT.glob('*.pdf')}
         for doc in documents:
             assert doc['examIds'] and set(doc['examIds']) <= set(reviewed)
     print(f'Validated {len(catalog["exams"])} exams, {len(paths)} questions, source coverage, and published scoring data.')

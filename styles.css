@@ -27,3 +27,7 @@ body.testing{display:flow-root}
 .source-annotation{font-size:10px;color:#87642e;line-height:1.6;margin:-9px 0 16px}
 .instructions .source-annotation{font-size:13px;margin:20px 0}
 .exam-category{scroll-margin-top:24px}
+.site-nav>a{text-decoration:none}
+.companion-promo{display:flex;justify-content:space-between;align-items:center;gap:24px;border:1px solid #cad5c3;border-radius:6px;padding:25px 27px;margin:5px 0 32px;background:#eef2e9}
+.companion-promo .eyebrow{font-size:9px;margin-bottom:12px}.companion-promo h2{font-family:var(--serif);font-weight:400;font-size:24px;margin-bottom:9px}.companion-promo p{font-size:11px;color:var(--muted);margin:0;line-height:1.7}.companion-promo .button{flex-shrink:0}
+@media(max-width:640px){.site-header{height:auto;min-height:83px;gap:10px;flex-wrap:wrap;padding-top:13px;padding-bottom:13px}.site-nav{gap:17px}.site-nav>a{font-size:11px}.companion-promo{display:block;padding:22px}.companion-promo h2{font-size:24px}.companion-promo .button{margin-top:18px}}

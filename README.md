@@ -10,6 +10,37 @@ python3 -m http.server 8000
 
 Open **http://localhost:8000**. You can also use `npm run serve`. Serve the files over HTTP; opening `index.html` directly can block the browser's data requests.
 
+## Study companion
+
+Open **Companion** in the main navigation, or visit `companion.html`. The supplied `GRE_Mathematics_Companion.pdf` is included as **316 concept entries and 1,647 interactive multiple-choice quizzes**, organized into ten chapters and the breadth supplement.
+
+The book reader has a left table of contents, concept-and-term search, previous/next links, and a collapsible mobile sidebar. Concept and problem URLs can be bookmarked, for example `companion.html#entry-030` and `companion.html#problem-030-1`. Use `/` to search and the left/right arrow keys to move between concepts when outside a form or scrollable formula.
+
+Each entry contains its original exposition and practice questions. Selecting **Check answer** immediately displays whether the choice was correct, the correct answer, and the PDF's worked solution. Retrying hides the solution again; completed problems also have a **Review solution** button. Both correct and incorrect submissions count as completed. Merely selecting an answer does not.
+
+The companion uses one cookie, `gre-companion-completed-v1`, with one completion bit per problem (412 hexadecimal characters for the whole book). It lasts up to one year, is scoped to the site's directory, uses `SameSite=Lax`, and uses `Secure` on HTTPS. It stores **only completed problem IDs**, not reading activity, selected answers, correctness, drafts, or timestamps. The reader does not use localStorage. Completion from other tabs is merged when saving. If cookies are blocked, immediate feedback still works and a notice explains that completion will be lost when the page closes. Existing full-exam attempts continue to use their separate localStorage data.
+
+Mathematics is displayed using high-resolution excerpts from the supplied PDF so radicals, fractions, diagrams, and other notation are preserved. Small screens can scroll individual excerpts horizontally. Expand **Text transcript** for selectable extracted text; the typeset version remains authoritative because PDF text extraction cannot fully represent mathematical layout. The original PDF is linked throughout. This is not a fully semantic, screen-reader-ready mathematics transcription.
+
+The ready-to-serve assets and per-entry JSON are included; only the selected entry's content is loaded. To validate or regenerate them:
+
+```sh
+python3 scripts/ingest_companion.py --check
+# Optional rebuild: requires Ghostscript and Pillow, no network.
+python3 scripts/ingest_companion.py
+```
+
+The importer pairs every numbered problem with the matching numbered solution and the PDF's answer letter, checks all 316 entries and 1,647 pairs, and records source pages, crop coordinates, and the source SHA-256. Keep problem IDs and their catalog order stable when updating content; changing their meaning requires a new cookie version.
+
+Companion behavior and data are included in `npm test`. Browser checks can also be run with a locally installed Firefox-family browser:
+
+```sh
+node scripts/companion-smoke.mjs /path/to/firefox-or-waterfox
+node scripts/companion-smoke.mjs /path/to/firefox-or-waterfox --mobile
+```
+
+These offline browser checks exercise actual DOM interactions, search, direct links, correct/incorrect feedback, retry, cookie restoration at startup, blocked storage, and responsive layout. They use JSON fixtures and an explicit cookie double because file URLs do not support normal HTTP cookies; native browser cookie persistence and HTTP delivery require checking a served site. Screenshots and temporary browser profiles are saved under the system temporary directory.
+
 ## GitHub Pages
 
 Push this directory to a GitHub repository. In **Settings → Pages → Build and deployment**, select **GitHub Actions**. The included `.github/workflows/pages.yml` tests and deploys pushes to `main`; it can also be run manually. Change its branch if your default branch has another name.
@@ -18,7 +49,7 @@ For other static hosts, run `python3 scripts/build_site.py` and publish `_site/`
 
 ## Included exams
 
-All **14 supplied PDFs** are accounted for by **13 distinct exams, totaling 857 questions**. The library has separate **Official ETS exams** and **Unofficial practice exams** categories, with quick links to each. Questions, diagrams, and choices come from the source books; original 65- or 66-question counts are preserved.
+All **14 exam-source PDFs** are accounted for by **13 distinct exams, totaling 857 questions**. The library has separate **Official ETS exams** and **Unofficial practice exams** categories, with quick links to each. Questions, diagrams, and choices come from the source books; original 65- or 66-question counts are preserved.
 
 | Category | Exam | Questions | Scoring shown |
 | --- | --- | --- | --- |

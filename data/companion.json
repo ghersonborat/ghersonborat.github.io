@@ -1,0 +1,6150 @@
+{
+  "version": 1,
+  "title": "GRE Mathematics Companion",
+  "sourceFile": "GRE_Mathematics_Companion.pdf",
+  "sourceSha256": "cdd64d70c154e4dbfd972d6a553f1ef025ea28572db43c0e1c00bdaf563efd61",
+  "sourcePages": 909,
+  "entryCount": 316,
+  "problemCount": 1647,
+  "chapters": [
+    {
+      "id": "chapter-1",
+      "title": "1. Precalculus",
+      "entries": [
+        "001",
+        "002",
+        "003",
+        "004",
+        "005",
+        "006",
+        "007",
+        "008",
+        "009",
+        "010",
+        "011",
+        "012",
+        "013",
+        "014",
+        "015",
+        "016",
+        "017",
+        "018",
+        "019",
+        "020",
+        "021",
+        "022",
+        "023",
+        "024",
+        "025",
+        "026",
+        "027",
+        "028",
+        "029"
+      ]
+    },
+    {
+      "id": "chapter-2",
+      "title": "2. Calculus I",
+      "entries": [
+        "030",
+        "031",
+        "032",
+        "033",
+        "034",
+        "035",
+        "036",
+        "037",
+        "038",
+        "039",
+        "040",
+        "041",
+        "042",
+        "043",
+        "044",
+        "045",
+        "046",
+        "047",
+        "048",
+        "049",
+        "050",
+        "051",
+        "052",
+        "053",
+        "054",
+        "055",
+        "056",
+        "057",
+        "058",
+        "059",
+        "060",
+        "061",
+        "062",
+        "063",
+        "064",
+        "065",
+        "066",
+        "067",
+        "068",
+        "069",
+        "070",
+        "071",
+        "072",
+        "073",
+        "074",
+        "075",
+        "076",
+        "077",
+        "078",
+        "079",
+        "080",
+        "081",
+        "082",
+        "083",
+        "084",
+        "085"
+      ]
+    },
+    {
+      "id": "chapter-3",
+      "title": "3. Calculus II",
+      "entries": [
+        "086",
+        "087",
+        "088",
+        "089",
+        "090",
+        "091",
+        "092",
+        "093",
+        "094",
+        "095",
+        "096",
+        "097",
+        "098",
+        "099",
+        "100",
+        "101",
+        "102",
+        "103",
+        "104",
+        "105",
+        "106",
+        "107",
+        "108",
+        "109",
+        "110",
+        "111",
+        "112",
+        "113",
+        "114",
+        "115",
+        "116",
+        "117"
+      ]
+    },
+    {
+      "id": "chapter-4",
+      "title": "4. Differential Equations",
+      "entries": [
+        "118",
+        "119",
+        "120",
+        "121",
+        "122",
+        "123",
+        "124",
+        "125",
+        "126",
+        "127",
+        "128",
+        "129",
+        "130",
+        "131",
+        "132",
+        "133"
+      ]
+    },
+    {
+      "id": "chapter-5",
+      "title": "5. Linear Algebra",
+      "entries": [
+        "134",
+        "135",
+        "136",
+        "137",
+        "138",
+        "139",
+        "140",
+        "141",
+        "142",
+        "143",
+        "144",
+        "145",
+        "146",
+        "147",
+        "148",
+        "149",
+        "150",
+        "151",
+        "152",
+        "153",
+        "154",
+        "155",
+        "156",
+        "157",
+        "158",
+        "159",
+        "160",
+        "161",
+        "162",
+        "163",
+        "164",
+        "165",
+        "166"
+      ]
+    },
+    {
+      "id": "chapter-6",
+      "title": "6. Number Theory and Abstract Algebra",
+      "entries": [
+        "167",
+        "168",
+        "169",
+        "170",
+        "171",
+        "172",
+        "173",
+        "174",
+        "175",
+        "176",
+        "177",
+        "178",
+        "179",
+        "180",
+        "181",
+        "182",
+        "183",
+        "184",
+        "185",
+        "186",
+        "187",
+        "188",
+        "189",
+        "190",
+        "191",
+        "192",
+        "193",
+        "194",
+        "195",
+        "196",
+        "197",
+        "198",
+        "199",
+        "200",
+        "201",
+        "202"
+      ]
+    },
+    {
+      "id": "chapter-7",
+      "title": "7. Additional Topics",
+      "entries": [
+        "203",
+        "204",
+        "205",
+        "206",
+        "207",
+        "208",
+        "209",
+        "210",
+        "211",
+        "212",
+        "213",
+        "214",
+        "215",
+        "216",
+        "217",
+        "218",
+        "219",
+        "220",
+        "221",
+        "222",
+        "223",
+        "224",
+        "225",
+        "226",
+        "227",
+        "228",
+        "229",
+        "230",
+        "231",
+        "232",
+        "233",
+        "234",
+        "235",
+        "236",
+        "237",
+        "238",
+        "239",
+        "240",
+        "241",
+        "242",
+        "243",
+        "244",
+        "245",
+        "246",
+        "247",
+        "248",
+        "249",
+        "250",
+        "251",
+        "252",
+        "253",
+        "254",
+        "255",
+        "256",
+        "257",
+        "258",
+        "259",
+        "260",
+        "261",
+        "262",
+        "263",
+        "264",
+        "265",
+        "266",
+        "267",
+        "268",
+        "269",
+        "270",
+        "271",
+        "272",
+        "273",
+        "274",
+        "275",
+        "276",
+        "277",
+        "278",
+        "279",
+        "280",
+        "281"
+      ]
+    },
+    {
+      "id": "chapter-8",
+      "title": "8. Solutions to the Chapter Review Questions",
+      "entries": [
+        "282",
+        "283"
+      ]
+    },
+    {
+      "id": "chapter-9",
+      "title": "9. Practice Test",
+      "entries": [
+        "284",
+        "285",
+        "286",
+        "287"
+      ]
+    },
+    {
+      "id": "chapter-10",
+      "title": "10. Practice Test Answers and Explanations",
+      "entries": [
+        "288"
+      ]
+    },
+    {
+      "id": "chapter-11",
+      "title": "Supplement. Breadth beyond the book",
+      "entries": [
+        "289",
+        "290",
+        "291",
+        "292",
+        "293",
+        "294",
+        "295",
+        "296",
+        "297",
+        "298",
+        "299",
+        "300",
+        "301",
+        "302",
+        "303",
+        "304",
+        "305",
+        "306",
+        "307",
+        "308",
+        "309",
+        "310",
+        "311",
+        "312",
+        "313",
+        "314",
+        "315",
+        "316"
+      ]
+    }
+  ],
+  "entries": [
+    {
+      "id": "001",
+      "title": "Exponents, radicals, and complex arithmetic",
+      "chapterTitle": "1. Precalculus",
+      "section": "Introduction ▷ Prerequisite algebra",
+      "terms": "exponent; radical; principal square root; complex number; imaginary unit; complex conjugate; modulus; absolute value.",
+      "reference": "Book pp. 5.",
+      "sourcePage": 26,
+      "chapterId": "chapter-1",
+      "problemIds": [
+        "001.1",
+        "001.2",
+        "001.3",
+        "001.4",
+        "001.5",
+        "001.6"
+      ],
+      "dataFile": "data/companion/001.json"
+    },
+    {
+      "id": "002",
+      "title": "Function, domain, codomain, range, and fixed point",
+      "chapterTitle": "1. Precalculus",
+      "section": "Functions ▷ Definition and domain",
+      "terms": "function; domain; codomain; range; image; fixed point; natural domain.",
+      "reference": "Book pp. 5-6.",
+      "sourcePage": 28,
+      "chapterId": "chapter-1",
+      "problemIds": [
+        "002.1",
+        "002.2",
+        "002.3",
+        "002.4",
+        "002.5",
+        "002.6"
+      ],
+      "dataFile": "data/companion/002.json"
+    },
+    {
+      "id": "003",
+      "title": "Composition and iteration of functions",
+      "chapterTitle": "1. Precalculus",
+      "section": "Functions ▷ Composition of Functions",
+      "terms": "composition; composite function; iteration; functional recurrence; identity function.",
+      "reference": "Book pp. 6-7; 30.",
+      "sourcePage": 30,
+      "chapterId": "chapter-1",
+      "problemIds": [
+        "003.1",
+        "003.2",
+        "003.3",
+        "003.4",
+        "003.5"
+      ],
+      "dataFile": "data/companion/003.json"
+    },
+    {
+      "id": "004",
+      "title": "Injectivity, surjectivity, bijectivity, and inverse functions",
+      "chapterTitle": "1. Precalculus",
+      "section": "Functions ▷ Inverse Functions",
+      "terms": "injective; one-to-one; surjective; onto; bijective; inverse function; reciprocal; restriction; rationalization.",
+      "reference": "Book pp. 7-9.",
+      "sourcePage": 31,
+      "chapterId": "chapter-1",
+      "problemIds": [
+        "004.1",
+        "004.2",
+        "004.3",
+        "004.4",
+        "004.5"
+      ],
+      "dataFile": "data/companion/004.json"
+    },
+    {
+      "id": "005",
+      "title": "Graphs, symmetry, coordinates, and intercepts",
+      "chapterTitle": "1. Precalculus",
+      "section": "Graphs in the xy-Plane ▷ Graphs and symmetry",
+      "terms": "graph; vertical-line test; horizontal-line test; abscissa; ordinate; intercept; even function; odd function; reflection.",
+      "reference": "Book pp. 9.",
+      "sourcePage": 33,
+      "chapterId": "chapter-1",
+      "problemIds": [
+        "005.1",
+        "005.2",
+        "005.3",
+        "005.4",
+        "005.5",
+        "005.6"
+      ],
+      "dataFile": "data/companion/005.json"
+    },
+    {
+      "id": "006",
+      "title": "Piecewise functions, absolute value, floor, and graph transformations",
+      "chapterTitle": "1. Precalculus",
+      "section": "Graphs in the xy-Plane ▷ Piecewise graphs",
+      "terms": "piecewise function; absolute value; greatest integer function; floor; step function; transla- tion; scaling.",
+      "reference": "Book pp. 10; 30.",
+      "sourcePage": 35,
+      "chapterId": "chapter-1",
+      "problemIds": [
+        "006.1",
+        "006.2",
+        "006.3",
+        "006.4",
+        "006.5",
+        "006.6"
+      ],
+      "dataFile": "data/companion/006.json"
+    },
+    {
+      "id": "007",
+      "title": "Conic sections, completing squares, rotations, and degeneracy",
+      "chapterTitle": "1. Precalculus",
+      "section": "Analytic Geometry ▷ General conic equation",
+      "terms": "analytic geometry; conic section; general second-degree equation; rotation of axes; degen- erate conic; completing the square.",
+      "reference": "Book pp. 11.",
+      "sourcePage": 37,
+      "chapterId": "chapter-1",
+      "problemIds": [
+        "007.1",
+        "007.2",
+        "007.3",
+        "007.4",
+        "007.5"
+      ],
+      "dataFile": "data/companion/007.json"
+    },
+    {
+      "id": "008",
+      "title": "Lines, slopes, distances, and perpendicular bisectors",
+      "chapterTitle": "1. Precalculus",
+      "section": "Analytic Geometry ▷ Lines",
+      "terms": "line; slope; point-slope formula; parallel; perpendicular; distance formula; midpoint; perpendicular bisector; locus.",
+      "reference": "Book pp. 11; 31.",
+      "sourcePage": 39,
+      "chapterId": "chapter-1",
+      "problemIds": [
+        "008.1",
+        "008.2",
+        "008.3",
+        "008.4",
+        "008.5"
+      ],
+      "dataFile": "data/companion/008.json"
+    },
+    {
+      "id": "009",
+      "title": "Parabola, focus, directrix, vertex, axis, and latus rectum",
+      "chapterTitle": "1. Precalculus",
+      "section": "Analytic Geometry ▷ Parabolas",
+      "terms": "parabola; focus; directrix; vertex; axis; latus rectum; focal width.",
+      "reference": "Book pp. 11-13.",
+      "sourcePage": 40,
+      "chapterId": "chapter-1",
+      "problemIds": [
+        "009.1",
+        "009.2",
+        "009.3",
+        "009.4",
+        "009.5"
+      ],
+      "dataFile": "data/companion/009.json"
+    },
+    {
+      "id": "010",
+      "title": "Circle, center, radius, diameter, chord, and tangent",
+      "chapterTitle": "1. Precalculus",
+      "section": "Analytic Geometry ▷ Circles",
+      "terms": "circle; center; radius; diameter; chord; tangent line.",
+      "reference": "Book pp. 13-14.",
+      "sourcePage": 42,
+      "chapterId": "chapter-1",
+      "problemIds": [
+        "010.1",
+        "010.2",
+        "010.3",
+        "010.4",
+        "010.5"
+      ],
+      "dataFile": "data/companion/010.json"
+    },
+    {
+      "id": "011",
+      "title": "Ellipse, foci, axes, eccentricity, and area scaling",
+      "chapterTitle": "1. Precalculus",
+      "section": "Analytic Geometry ▷ Ellipses",
+      "terms": "ellipse; major axis; minor axis; semiaxis; eccentricity; focal distance; area scaling.",
+      "reference": "Book pp. 14-15; 31.",
+      "sourcePage": 43,
+      "chapterId": "chapter-1",
+      "problemIds": [
+        "011.1",
+        "011.2",
+        "011.3",
+        "011.4",
+        "011.5"
+      ],
+      "dataFile": "data/companion/011.json"
+    },
+    {
+      "id": "012",
+      "title": "Hyperbola, branches, transverse axis, vertices, and asymptotes",
+      "chapterTitle": "1. Precalculus",
+      "section": "Analytic Geometry ▷ Hyperbolas",
+      "terms": "hyperbola; branch; focal axis; transverse axis; asymptote; hyperbola eccentricity.",
+      "reference": "Book pp. 15-17.",
+      "sourcePage": 44,
+      "chapterId": "chapter-1",
+      "problemIds": [
+        "012.1",
+        "012.2",
+        "012.3",
+        "012.4",
+        "012.5"
+      ],
+      "dataFile": "data/companion/012.json"
+    },
+    {
+      "id": "013",
+      "title": "Polynomial degree, coefficients, quadratic formula, and discriminant",
+      "chapterTitle": "1. Precalculus",
+      "section": "Polynomial Equations ▷ Polynomials and quadratics",
+      "terms": "polynomial; degree; leading coefficient; constant coefficient; quadratic polynomial; quadratic formula; discriminant; monic polynomial.",
+      "reference": "Book pp. 17.",
+      "sourcePage": 46,
+      "chapterId": "chapter-1",
+      "problemIds": [
+        "013.1",
+        "013.2",
+        "013.3",
+        "013.4",
+        "013.5"
+      ],
+      "dataFile": "data/companion/013.json"
+    },
+    {
+      "id": "014",
+      "title": "Polynomial division, remainders, and factors",
+      "chapterTitle": "1. Precalculus",
+      "section": "Polynomial Equations ▷ Division Algorithm, Remainder Theorem, and Factor Theorem",
+      "terms": "division algorithm; quotient; remainder; Remainder theorem; Factor theorem; polynomial divisibility.",
+      "reference": "Book pp. 17; 32.",
+      "sourcePage": 48,
+      "chapterId": "chapter-1",
+      "problemIds": [
+        "014.1",
+        "014.2",
+        "014.3",
+        "014.4",
+        "014.5"
+      ],
+      "dataFile": "data/companion/014.json"
+    },
+    {
+      "id": "015",
+      "title": "Fundamental Theorem of Algebra, multiplicity, and polynomial identity",
+      "chapterTitle": "1. Precalculus",
+      "section": "Polynomial Equations ▷ Fundamental Theorem of Algebra and Roots",
+      "terms": "Fundamental Theorem of Algebra; root; zero; linear factor; multiplicity; polynomial identity; distinct roots.",
+      "reference": "Book pp. 18; 32.",
+      "sourcePage": 49,
+      "chapterId": "chapter-1",
+      "problemIds": [
+        "015.1",
+        "015.2",
+        "015.3",
+        "015.4",
+        "015.5"
+      ],
+      "dataFile": "data/companion/015.json"
+    },
+    {
+      "id": "016",
+      "title": "Root location and sign changes",
+      "chapterTitle": "1. Precalculus",
+      "section": "Polynomial Equations ▷ Root Location Theorem",
+      "terms": "Root Location theorem; Intermediate Value theorem; sign change; root isolation.",
+      "reference": "Book pp. 18.",
+      "sourcePage": 51,
+      "chapterId": "chapter-1",
+      "problemIds": [
+        "016.1",
+        "016.2",
+        "016.3",
+        "016.4",
+        "016.5"
+      ],
+      "dataFile": "data/companion/016.json"
+    },
+    {
+      "id": "017",
+      "title": "Rational root theorem and root testing",
+      "chapterTitle": "1. Precalculus",
+      "section": "Polynomial Equations ▷ Rational Roots Theorem",
+      "terms": "Rational Roots theorem; integer coefficient; lowest terms; rational root.",
+      "reference": "Book pp. 18; 20.",
+      "sourcePage": 53,
+      "chapterId": "chapter-1",
+      "problemIds": [
+        "017.1",
+        "017.2",
+        "017.3",
+        "017.4",
+        "017.5"
+      ],
+      "dataFile": "data/companion/017.json"
+    },
+    {
+      "id": "018",
+      "title": "Radical and complex conjugate roots",
+      "chapterTitle": "1. Precalculus",
+      "section": "Polynomial Equations ▷ Conjugate Root Theorems",
+      "terms": "Conjugate Radical Roots theorem; Complex Conjugate Roots theorem; quadratic conju- gate; real coefficient; rational coefficient.",
+      "reference": "Book pp. 18-19; 31-32.",
+      "sourcePage": 55,
+      "chapterId": "chapter-1",
+      "problemIds": [
+        "018.1",
+        "018.2",
+        "018.3",
+        "018.4",
+        "018.5"
+      ],
+      "dataFile": "data/companion/018.json"
+    },
+    {
+      "id": "019",
+      "title": "Vieta formulas and symmetric expressions in roots",
+      "chapterTitle": "1. Precalculus",
+      "section": "Polynomial Equations ▷ Sum and Product of the Roots",
+      "terms": "Vieta formulas; sum of roots; product of roots; elementary symmetric sum; power sum.",
+      "reference": "Book pp. 19-20; 32.",
+      "sourcePage": 56,
+      "chapterId": "chapter-1",
+      "problemIds": [
+        "019.1",
+        "019.2",
+        "019.3",
+        "019.4",
+        "019.5"
+      ],
+      "dataFile": "data/companion/019.json"
+    },
+    {
+      "id": "020",
+      "title": "Logarithms, exponentials, laws, and change of base",
+      "chapterTitle": "1. Precalculus",
+      "section": "Logarithms ▷ Exponential and logarithmic functions",
+      "terms": "logarithm; base; exponential function; natural logarithm; Euler number; change-of-base formula; logarithmic equation; exponential equation.",
+      "reference": "Book pp. 20-22.",
+      "sourcePage": 57,
+      "chapterId": "chapter-1",
+      "problemIds": [
+        "020.1",
+        "020.2",
+        "020.3",
+        "020.4",
+        "020.5"
+      ],
+      "dataFile": "data/companion/020.json"
+    },
+    {
+      "id": "021",
+      "title": "Right-triangle trigonometry and special angles",
+      "chapterTitle": "1. Precalculus",
+      "section": "Trigonometry ▷ Trig Functions of Acute Angles",
+      "terms": "sine; cosine; tangent; cosecant; secant; cotangent; hypotenuse; complementary angles; cofunctions; special right triangle.",
+      "reference": "Book pp. 22-23.",
+      "sourcePage": 59,
+      "chapterId": "chapter-1",
+      "problemIds": [
+        "021.1",
+        "021.2",
+        "021.3",
+        "021.4",
+        "021.5",
+        "021.6"
+      ],
+      "dataFile": "data/companion/021.json"
+    },
+    {
+      "id": "022",
+      "title": "Unit circle, radian measure, quadrants, and directed angles",
+      "chapterTitle": "1. Precalculus",
+      "section": "Trigonometry ▷ Arbitrary Angles and Real Numbers",
+      "terms": "unit circle; radian; degree measure; initial side; terminal side; positive angle; negative angle; quadrant; arc length.",
+      "reference": "Book pp. 23-24.",
+      "sourcePage": 61,
+      "chapterId": "chapter-1",
+      "problemIds": [
+        "022.1",
+        "022.2",
+        "022.3",
+        "022.4",
+        "022.5"
+      ],
+      "dataFile": "data/companion/022.json"
+    },
+    {
+      "id": "023",
+      "title": "Reciprocal, opposite-angle, and Pythagorean identities",
+      "chapterTitle": "1. Precalculus",
+      "section": "Trigonometry ▷ Trig Identities and Formulas",
+      "terms": "trigonometric identity; reciprocal identity; opposite-angle identity; Pythagorean identity; trigonometric parity; reduction formula.",
+      "reference": "Book pp. 24-25.",
+      "sourcePage": 62,
+      "chapterId": "chapter-1",
+      "problemIds": [
+        "023.1",
+        "023.2",
+        "023.3",
+        "023.4",
+        "023.5"
+      ],
+      "dataFile": "data/companion/023.json"
+    },
+    {
+      "id": "024",
+      "title": "Addition, subtraction, double-angle, and half-angle formulas",
+      "chapterTitle": "1. Precalculus",
+      "section": "Trigonometry ▷ Trig Identities and Formulas",
+      "terms": "addition formula; subtraction formula; double-angle formula; half-angle formula; angle sum; angle difference.",
+      "reference": "Book pp. 25-26.",
+      "sourcePage": 64,
+      "chapterId": "chapter-1",
+      "problemIds": [
+        "024.1",
+        "024.2",
+        "024.3",
+        "024.4",
+        "024.5"
+      ],
+      "dataFile": "data/companion/024.json"
+    },
+    {
+      "id": "025",
+      "title": "Periodicity, fundamental period, and trigonometric domains and ranges",
+      "chapterTitle": "1. Precalculus",
+      "section": "Trigonometry ▷ Periodicity and Graphs of the Trig Functions",
+      "terms": "periodic function; period; fundamental period; amplitude; phase shift; trigonometric asymptote.",
+      "reference": "Book pp. 27.",
+      "sourcePage": 65,
+      "chapterId": "chapter-1",
+      "problemIds": [
+        "025.1",
+        "025.2",
+        "025.3",
+        "025.4",
+        "025.5"
+      ],
+      "dataFile": "data/companion/025.json"
+    },
+    {
+      "id": "026",
+      "title": "Inverse trigonometric functions and principal branches",
+      "chapterTitle": "1. Precalculus",
+      "section": "Trigonometry ▷ The Inverse Trig Functions",
+      "terms": "arcsine; arccosine; arctangent; arccosecant; arcsecant; arccotangent; principal branch; inverse trigonometric function.",
+      "reference": "Book pp. 28-29; 33-34.",
+      "sourcePage": 67,
+      "chapterId": "chapter-1",
+      "problemIds": [
+        "026.1",
+        "026.2",
+        "026.3",
+        "026.4",
+        "026.5"
+      ],
+      "dataFile": "data/companion/026.json"
+    },
+    {
+      "id": "027",
+      "title": "Radical equations and extraneous roots",
+      "chapterTitle": "1. Precalculus",
+      "section": "Chapter 1 Review Questions ▷ Radical equations",
+      "terms": "radical equation; extraneous root; squaring an equation; equivalent transformation.",
+      "reference": "Book pp. 30; 332.",
+      "sourcePage": 69,
+      "chapterId": "chapter-1",
+      "problemIds": [
+        "027.1",
+        "027.2",
+        "027.3",
+        "027.4",
+        "027.5"
+      ],
+      "dataFile": "data/companion/027.json"
+    },
+    {
+      "id": "028",
+      "title": "Rational inequalities and sign charts",
+      "chapterTitle": "1. Precalculus",
+      "section": "Chapter 1 Review Questions ▷ Rational inequalities",
+      "terms": "rational inequality; sign chart; critical endpoint; strict inequality; interval notation.",
+      "reference": "Book pp. 30; 332.",
+      "sourcePage": 70,
+      "chapterId": "chapter-1",
+      "problemIds": [
+        "028.1",
+        "028.2",
+        "028.3",
+        "028.4",
+        "028.5"
+      ],
+      "dataFile": "data/companion/028.json"
+    },
+    {
+      "id": "029",
+      "title": "Hyperbolic sine, cosine, tangent, and their inverses",
+      "chapterTitle": "1. Precalculus",
+      "section": "Chapter 1 Review Questions ▷ Hyperbolic functions",
+      "terms": "hyperbolic sine; hyperbolic cosine; hyperbolic tangent; inverse hyperbolic sine; inverse hyperbolic tangent; inverse hyperbolic cosine.",
+      "reference": "Book pp. 33; 336-337.",
+      "sourcePage": 72,
+      "chapterId": "chapter-1",
+      "problemIds": [
+        "029.1",
+        "029.2",
+        "029.3",
+        "029.4",
+        "029.5"
+      ],
+      "dataFile": "data/companion/029.json"
+    },
+    {
+      "id": "030",
+      "title": "Sequences, convergence, and divergence",
+      "chapterTitle": "2. Calculus I",
+      "section": "Limits of Sequences ▷ Definitions",
+      "terms": "sequence; limit of a sequence; epsilon–N definition; convergent sequence; divergent se- quence; divergence to infinity; oscillation.",
+      "reference": "Book pp. 35-36.",
+      "sourcePage": 73,
+      "chapterId": "chapter-2",
+      "problemIds": [
+        "030.1",
+        "030.2",
+        "030.3",
+        "030.4",
+        "030.5"
+      ],
+      "dataFile": "data/companion/030.json"
+    },
+    {
+      "id": "031",
+      "title": "Boundedness, monotonicity, and recursive limits",
+      "chapterTitle": "2. Calculus I",
+      "section": "Limits of Sequences ▷ Monotone convergence",
+      "terms": "bounded sequence; monotone sequence; eventually monotone; monotone convergence theorem; recursive sequence.",
+      "reference": "Book pp. 36-38.",
+      "sourcePage": 75,
+      "chapterId": "chapter-2",
+      "problemIds": [
+        "031.1",
+        "031.2",
+        "031.3",
+        "031.4",
+        "031.5"
+      ],
+      "dataFile": "data/companion/031.json"
+    },
+    {
+      "id": "032",
+      "title": "Limit laws and the squeeze theorem",
+      "chapterTitle": "2. Calculus I",
+      "section": "Limits of Sequences ▷ Algebra and estimates",
+      "terms": "sum law; product law; quotient law; squeeze theorem; sandwich theorem; bounded factor times null sequence; growth comparison.",
+      "reference": "Book pp. 36-38.",
+      "sourcePage": 77,
+      "chapterId": "chapter-2",
+      "problemIds": [
+        "032.1",
+        "032.2",
+        "032.3",
+        "032.4",
+        "032.5",
+        "032.6"
+      ],
+      "dataFile": "data/companion/032.json"
+    },
+    {
+      "id": "033",
+      "title": "Function limits, one-sided limits, and epsilon–delta reasoning",
+      "chapterTitle": "2. Calculus I",
+      "section": "Limits of Functions ▷ Definitions and calculations",
+      "terms": "limit of a function; epsilon–delta definition; punctured neighborhood; sequential criterion; left-hand limit; right-hand limit.",
+      "reference": "Book pp. 38-40.",
+      "sourcePage": 79,
+      "chapterId": "chapter-2",
+      "problemIds": [
+        "033.1",
+        "033.2",
+        "033.3",
+        "033.4",
+        "033.5"
+      ],
+      "dataFile": "data/companion/033.json"
+    },
+    {
+      "id": "034",
+      "title": "Limits at infinity and asymptotes",
+      "chapterTitle": "2. Calculus I",
+      "section": "Limits of Functions as x → ±∞ ▷ End behavior",
+      "terms": "limit at infinity; horizontal asymptote; vertical asymptote; slant asymptote; oblique asymptote.",
+      "reference": "Book pp. 40-41, 95.",
+      "sourcePage": 81,
+      "chapterId": "chapter-2",
+      "problemIds": [
+        "034.1",
+        "034.2",
+        "034.3",
+        "034.4",
+        "034.5"
+      ],
+      "dataFile": "data/companion/034.json"
+    },
+    {
+      "id": "035",
+      "title": "Continuity and types of discontinuity",
+      "chapterTitle": "2. Calculus I",
+      "section": "Continuous Functions ▷ Definition and closure properties",
+      "terms": "continuity at a point; continuous function; one-sided endpoint continuity; removable discontinuity; jump discontinuity; infinite discontinuity; continuity of a composition.",
+      "reference": "Book pp. 41-43.",
+      "sourcePage": 83,
+      "chapterId": "chapter-2",
+      "problemIds": [
+        "035.1",
+        "035.2",
+        "035.3",
+        "035.4",
+        "035.5",
+        "035.6"
+      ],
+      "dataFile": "data/companion/035.json"
+    },
+    {
+      "id": "036",
+      "title": "Rational–irrational constructions and Thomae’s function",
+      "chapterTitle": "2. Calculus I",
+      "section": "Continuous Functions ▷ A nontrivial continuity example",
+      "terms": "Thomae function; rational–irrational function; dense set; continuity via bounded denomi- nators; Dirichlet function.",
+      "reference": "Book pp. 43-44.",
+      "sourcePage": 85,
+      "chapterId": "chapter-2",
+      "problemIds": [
+        "036.1",
+        "036.2",
+        "036.3",
+        "036.4",
+        "036.5"
+      ],
+      "dataFile": "data/companion/036.json"
+    },
+    {
+      "id": "037",
+      "title": "Extreme value theorem and attainment",
+      "chapterTitle": "2. Calculus I",
+      "section": "Theorems Concerning Continuous Functions ▷ Extreme value theorem",
+      "terms": "extreme value theorem; absolute maximum; absolute minimum; attainment; closed bounded interval.",
+      "reference": "Book pp. 44.",
+      "sourcePage": 87,
+      "chapterId": "chapter-2",
+      "problemIds": [
+        "037.1",
+        "037.2",
+        "037.3",
+        "037.4",
+        "037.5"
+      ],
+      "dataFile": "data/companion/037.json"
+    },
+    {
+      "id": "038",
+      "title": "Intermediate values, zeros, and fixed points",
+      "chapterTitle": "2. Calculus I",
+      "section": "Theorems Concerning Continuous Functions ▷ Bolzano and intermediate value theorems",
+      "terms": "Bolzano theorem; intermediate value theorem; fixed-point theorem on an interval; sign change.",
+      "reference": "Book pp. 44-45.",
+      "sourcePage": 89,
+      "chapterId": "chapter-2",
+      "problemIds": [
+        "038.1",
+        "038.2",
+        "038.3",
+        "038.4",
+        "038.5"
+      ],
+      "dataFile": "data/companion/038.json"
+    },
+    {
+      "id": "039",
+      "title": "Derivative, differentiability, tangent, and normal",
+      "chapterTitle": "2. Calculus I",
+      "section": "The Derivative ▷ Definition and geometry",
+      "terms": "derivative; difference quotient; secant line; tangent line; normal line; differentiability; corner; cusp; vertical tangent; Leibniz notation.",
+      "reference": "Book pp. 45-47, 49-50.",
+      "sourcePage": 91,
+      "chapterId": "chapter-2",
+      "problemIds": [
+        "039.1",
+        "039.2",
+        "039.3",
+        "039.4",
+        "039.5",
+        "039.6"
+      ],
+      "dataFile": "data/companion/039.json"
+    },
+    {
+      "id": "040",
+      "title": "Differentiation rules and the chain rule",
+      "chapterTitle": "2. Calculus I",
+      "section": "The Derivative ▷ Rules of differentiation",
+      "terms": "sum rule; constant multiple rule; product rule; quotient rule; chain rule; composite derivative.",
+      "reference": "Book pp. 47-49.",
+      "sourcePage": 93,
+      "chapterId": "chapter-2",
+      "problemIds": [
+        "040.1",
+        "040.2",
+        "040.3",
+        "040.4",
+        "040.5"
+      ],
+      "dataFile": "data/companion/040.json"
+    },
+    {
+      "id": "041",
+      "title": "Derivative of an inverse function",
+      "chapterTitle": "2. Calculus I",
+      "section": "The Derivative ▷ Inverse-function rule",
+      "terms": "inverse-function derivative; local inverse; reciprocal slope.",
+      "reference": "Book pp. 48.",
+      "sourcePage": 95,
+      "chapterId": "chapter-2",
+      "problemIds": [
+        "041.1",
+        "041.2",
+        "041.3",
+        "041.4",
+        "041.5"
+      ],
+      "dataFile": "data/companion/041.json"
+    },
+    {
+      "id": "042",
+      "title": "Elementary derivatives and differentials",
+      "chapterTitle": "2. Calculus I",
+      "section": "The Derivative ▷ Table of differentials",
+      "terms": "power rule; exponential derivative; logarithmic derivative; trigonometric derivatives; inverse trigonometric derivatives; differential.",
+      "reference": "Book pp. 48-49, 97.",
+      "sourcePage": 97,
+      "chapterId": "chapter-2",
+      "problemIds": [
+        "042.1",
+        "042.2",
+        "042.3",
+        "042.4",
+        "042.5",
+        "042.6",
+        "042.7"
+      ],
+      "dataFile": "data/companion/042.json"
+    },
+    {
+      "id": "043",
+      "title": "Linearization, differentials, and approximation error",
+      "chapterTitle": "2. Calculus I",
+      "section": "Linear Approximations Using Differentials ▷ Local approximation",
+      "terms": "linear approximation; linearization; differential approximation; relative error; tangent approximation.",
+      "reference": "Book pp. 50.",
+      "sourcePage": 99,
+      "chapterId": "chapter-2",
+      "problemIds": [
+        "043.1",
+        "043.2",
+        "043.3",
+        "043.4",
+        "043.5"
+      ],
+      "dataFile": "data/companion/043.json"
+    },
+    {
+      "id": "044",
+      "title": "Implicit differentiation and the implicit function theorem",
+      "chapterTitle": "2. Calculus I",
+      "section": "Implicit Differentiation ▷ Local implicit functions",
+      "terms": "implicit equation; implicit differentiation; implicit function theorem; dependent variable; independent variable.",
+      "reference": "Book pp. 51.",
+      "sourcePage": 101,
+      "chapterId": "chapter-2",
+      "problemIds": [
+        "044.1",
+        "044.2",
+        "044.3",
+        "044.4",
+        "044.5"
+      ],
+      "dataFile": "data/companion/044.json"
+    },
+    {
+      "id": "045",
+      "title": "Higher-order derivatives",
+      "chapterTitle": "2. Calculus I",
+      "section": "Higher-Order Derivatives ▷ Repeated differentiation",
+      "terms": "second derivative; higher-order derivative; nth derivative; Leibniz product formula.",
+      "reference": "Book pp. 51-52.",
+      "sourcePage": 103,
+      "chapterId": "chapter-2",
+      "problemIds": [
+        "045.1",
+        "045.2",
+        "045.3",
+        "045.4",
+        "045.5"
+      ],
+      "dataFile": "data/companion/045.json"
+    },
+    {
+      "id": "046",
+      "title": "Critical points, stationary points, and monotonicity",
+      "chapterTitle": "2. Calculus I",
+      "section": "Curve Sketching ▷ Properties of the first derivative",
+      "terms": "critical point; stationary point; increasing function; decreasing function; first-derivative test.",
+      "reference": "Book pp. 52-54.",
+      "sourcePage": 104,
+      "chapterId": "chapter-2",
+      "problemIds": [
+        "046.1",
+        "046.2",
+        "046.3",
+        "046.4",
+        "046.5"
+      ],
+      "dataFile": "data/companion/046.json"
+    },
+    {
+      "id": "047",
+      "title": "Concavity, convexity, and inflection points",
+      "chapterTitle": "2. Calculus I",
+      "section": "Curve Sketching ▷ Properties of the second derivative",
+      "terms": "concave up; convex function; concave down; inflection point; second-derivative sign.",
+      "reference": "Book pp. 52-53.",
+      "sourcePage": 106,
+      "chapterId": "chapter-2",
+      "problemIds": [
+        "047.1",
+        "047.2",
+        "047.3",
+        "047.4",
+        "047.5"
+      ],
+      "dataFile": "data/companion/047.json"
+    },
+    {
+      "id": "048",
+      "title": "Second-derivative and higher-derivative tests",
+      "chapterTitle": "2. Calculus I",
+      "section": "Curve Sketching ▷ Classifying critical points",
+      "terms": "second-derivative test; higher-derivative test; degenerate critical point; local maximum; local minimum.",
+      "reference": "Book pp. 54.",
+      "sourcePage": 108,
+      "chapterId": "chapter-2",
+      "problemIds": [
+        "048.1",
+        "048.2",
+        "048.3",
+        "048.4",
+        "048.5"
+      ],
+      "dataFile": "data/companion/048.json"
+    },
+    {
+      "id": "049",
+      "title": "Rolle’s theorem and repeated zeros",
+      "chapterTitle": "2. Calculus I",
+      "section": "Theorems Concerning Differentiable Functions ▷ Rolle’s theorem",
+      "terms": "Rolle theorem; horizontal tangent; zero counting.",
+      "reference": "Book pp. 54.",
+      "sourcePage": 110,
+      "chapterId": "chapter-2",
+      "problemIds": [
+        "049.1",
+        "049.2",
+        "049.3",
+        "049.4",
+        "049.5"
+      ],
+      "dataFile": "data/companion/049.json"
+    },
+    {
+      "id": "050",
+      "title": "Mean value theorem and derivative bounds",
+      "chapterTitle": "2. Calculus I",
+      "section": "Theorems Concerning Differentiable Functions ▷ Mean value theorem",
+      "terms": "mean value theorem; secant slope; constant derivative theorem; Lipschitz bound; mono- tonicity from derivative.",
+      "reference": "Book pp. 55.",
+      "sourcePage": 112,
+      "chapterId": "chapter-2",
+      "problemIds": [
+        "050.1",
+        "050.2",
+        "050.3",
+        "050.4",
+        "050.5"
+      ],
+      "dataFile": "data/companion/050.json"
+    },
+    {
+      "id": "051",
+      "title": "Optimization and constrained extrema",
+      "chapterTitle": "2. Calculus I",
+      "section": "Max/Min Problems ▷ Finding extrema",
+      "terms": "optimization; max/min problem; local extremum; absolute extremum; endpoint test; constraint reduction.",
+      "reference": "Book pp. 55-57.",
+      "sourcePage": 114,
+      "chapterId": "chapter-2",
+      "problemIds": [
+        "051.1",
+        "051.2",
+        "051.3",
+        "051.4",
+        "051.5",
+        "051.6"
+      ],
+      "dataFile": "data/companion/051.json"
+    },
+    {
+      "id": "052",
+      "title": "Related rates and time differentiation",
+      "chapterTitle": "2. Calculus I",
+      "section": "Related Rates ▷ Differentiating a geometric constraint",
+      "terms": "related rates; instantaneous rate; time derivative; rate of change.",
+      "reference": "Book pp. 57-58.",
+      "sourcePage": 116,
+      "chapterId": "chapter-2",
+      "problemIds": [
+        "052.1",
+        "052.2",
+        "052.3",
+        "052.4",
+        "052.5",
+        "052.6"
+      ],
+      "dataFile": "data/companion/052.json"
+    },
+    {
+      "id": "053",
+      "title": "Antiderivatives and indefinite integration",
+      "chapterTitle": "2. Calculus I",
+      "section": "Indefinite Integration (Antidifferentiation) ▷ Definitions and elementary formulas",
+      "terms": "antiderivative; indefinite integral; integrand; constant of integration; variable of integra- tion; power integration rule.",
+      "reference": "Book pp. 59-60.",
+      "sourcePage": 118,
+      "chapterId": "chapter-2",
+      "problemIds": [
+        "053.1",
+        "053.2",
+        "053.3",
+        "053.4",
+        "053.5"
+      ],
+      "dataFile": "data/companion/053.json"
+    },
+    {
+      "id": "054",
+      "title": "Integration by substitution",
+      "chapterTitle": "2. Calculus I",
+      "section": "Techniques of Integration ▷ Integration by Substitution",
+      "terms": "u-substitution; change of variable; reverse chain rule; transformed limits.",
+      "reference": "Book pp. 59-61.",
+      "sourcePage": 120,
+      "chapterId": "chapter-2",
+      "problemIds": [
+        "054.1",
+        "054.2",
+        "054.3",
+        "054.4",
+        "054.5"
+      ],
+      "dataFile": "data/companion/054.json"
+    },
+    {
+      "id": "055",
+      "title": "Integration by parts",
+      "chapterTitle": "2. Calculus I",
+      "section": "Techniques of Integration ▷ Integration by Parts",
+      "terms": "integration by parts; reverse product rule; reduction formula; cyclic integral.",
+      "reference": "Book pp. 61-62.",
+      "sourcePage": 122,
+      "chapterId": "chapter-2",
+      "problemIds": [
+        "055.1",
+        "055.2",
+        "055.3",
+        "055.4",
+        "055.5"
+      ],
+      "dataFile": "data/companion/055.json"
+    },
+    {
+      "id": "056",
+      "title": "Trigonometric substitutions and radical integrals",
+      "chapterTitle": "2. Calculus I",
+      "section": "Techniques of Integration ▷ Trig Substitutions",
+      "terms": "trigonometric substitution; Pythagorean substitution; radical integral; power-reduction identity.",
+      "reference": "Book pp. 61-63.",
+      "sourcePage": 124,
+      "chapterId": "chapter-2",
+      "problemIds": [
+        "056.1",
+        "056.2",
+        "056.3",
+        "056.4",
+        "056.5"
+      ],
+      "dataFile": "data/companion/056.json"
+    },
+    {
+      "id": "057",
+      "title": "Partial fractions and rational integration",
+      "chapterTitle": "2. Calculus I",
+      "section": "Techniques of Integration ▷ The Method of Partial Fractions",
+      "terms": "partial-fraction decomposition; proper rational function; polynomial division; repeated linear factor; irreducible quadratic factor.",
+      "reference": "Book pp. 63-64.",
+      "sourcePage": 126,
+      "chapterId": "chapter-2",
+      "problemIds": [
+        "057.1",
+        "057.2",
+        "057.3",
+        "057.4",
+        "057.5",
+        "057.6"
+      ],
+      "dataFile": "data/companion/057.json"
+    },
+    {
+      "id": "058",
+      "title": "Riemann sums and definite integrals",
+      "chapterTitle": "2. Calculus I",
+      "section": "Definite Integration ▷ Area as a limit of sums",
+      "terms": "Riemann sum; partition; mesh; tagged partition; definite integral; Riemann integrability; sum of squares.",
+      "reference": "Book pp. 64-66.",
+      "sourcePage": 128,
+      "chapterId": "chapter-2",
+      "problemIds": [
+        "058.1",
+        "058.2",
+        "058.3",
+        "058.4",
+        "058.5"
+      ],
+      "dataFile": "data/companion/058.json"
+    },
+    {
+      "id": "059",
+      "title": "Fundamental theorem of calculus and variable limits",
+      "chapterTitle": "2. Calculus I",
+      "section": "The Fundamental Theorem of Calculus ▷ Integration and differentiation",
+      "terms": "fundamental theorem of calculus; accumulation function; evaluation theorem; dummy variable; variable limits; Leibniz rule for endpoints.",
+      "reference": "Book pp. 66-68.",
+      "sourcePage": 130,
+      "chapterId": "chapter-2",
+      "problemIds": [
+        "059.1",
+        "059.2",
+        "059.3",
+        "059.4",
+        "059.5"
+      ],
+      "dataFile": "data/companion/059.json"
+    },
+    {
+      "id": "060",
+      "title": "Integral properties, signed area, and piecewise integration",
+      "chapterTitle": "2. Calculus I",
+      "section": "The Fundamental Theorem of Calculus ▷ Properties of definite integrals",
+      "terms": "linearity of the integral; reversal of limits; additivity over intervals; integral comparison; signed area; geometric area; piecewise integral; floor-function integral.",
+      "reference": "Book pp. 67, 99.",
+      "sourcePage": 132,
+      "chapterId": "chapter-2",
+      "problemIds": [
+        "060.1",
+        "060.2",
+        "060.3",
+        "060.4",
+        "060.5",
+        "060.6"
+      ],
+      "dataFile": "data/companion/060.json"
+    },
+    {
+      "id": "061",
+      "title": "Average value and the integral mean value theorem",
+      "chapterTitle": "2. Calculus I",
+      "section": "The Average Value of a Function ▷ Integral averages",
+      "terms": "average value of a function; mean value theorem for integrals; average rate.",
+      "reference": "Book pp. 68-69.",
+      "sourcePage": 134,
+      "chapterId": "chapter-2",
+      "problemIds": [
+        "061.1",
+        "061.2",
+        "061.3",
+        "061.4",
+        "061.5",
+        "061.6"
+      ],
+      "dataFile": "data/companion/061.json"
+    },
+    {
+      "id": "062",
+      "title": "Area between curves",
+      "chapterTitle": "2. Calculus I",
+      "section": "Finding the Area Between Two Curves ▷ Choosing the integration variable",
+      "terms": "area between curves; upper minus lower; right minus left; intersection bounds; horizontal slicing.",
+      "reference": "Book pp. 69-71.",
+      "sourcePage": 136,
+      "chapterId": "chapter-2",
+      "problemIds": [
+        "062.1",
+        "062.2",
+        "062.3",
+        "062.4",
+        "062.5"
+      ],
+      "dataFile": "data/companion/062.json"
+    },
+    {
+      "id": "063",
+      "title": "Polar coordinates and standard polar curves",
+      "chapterTitle": "2. Calculus I",
+      "section": "Polar Coordinates ▷ Coordinates and curves",
+      "terms": "polar coordinates; Cartesian coordinates; negative radius; polar circle; cardioid; polar-to- Cartesian conversion.",
+      "reference": "Book pp. 71-72.",
+      "sourcePage": 137,
+      "chapterId": "chapter-2",
+      "problemIds": [
+        "063.1",
+        "063.2",
+        "063.3",
+        "063.4",
+        "063.5",
+        "063.6"
+      ],
+      "dataFile": "data/companion/063.json"
+    },
+    {
+      "id": "064",
+      "title": "Polar area and overlap regions",
+      "chapterTitle": "2. Calculus I",
+      "section": "Polar Coordinates ▷ Area in polar coordinates",
+      "terms": "polar area formula; sector area; radial bounds; overlap of polar regions; rose curve; lem- niscate.",
+      "reference": "Book pp. 72-73, 100.",
+      "sourcePage": 139,
+      "chapterId": "chapter-2",
+      "problemIds": [
+        "064.1",
+        "064.2",
+        "064.3",
+        "064.4",
+        "064.5",
+        "064.6"
+      ],
+      "dataFile": "data/companion/064.json"
+    },
+    {
+      "id": "065",
+      "title": "Volumes of revolution: disks and washers",
+      "chapterTitle": "2. Calculus I",
+      "section": "Volumes of Solids of Revolution ▷ Disks and washers",
+      "terms": "solid of revolution; disk method; washer method; outer radius; inner radius; cross- sectional area.",
+      "reference": "Book pp. 73-75.",
+      "sourcePage": 141,
+      "chapterId": "chapter-2",
+      "problemIds": [
+        "065.1",
+        "065.2",
+        "065.3",
+        "065.4",
+        "065.5"
+      ],
+      "dataFile": "data/companion/065.json"
+    },
+    {
+      "id": "066",
+      "title": "Arc length",
+      "chapterTitle": "2. Calculus I",
+      "section": "Arc Length ▷ Length by integration",
+      "terms": "arc length; smooth curve; line element; rectifiable curve; parametric arc length.",
+      "reference": "Book pp. 75-76, 101.",
+      "sourcePage": 142,
+      "chapterId": "chapter-2",
+      "problemIds": [
+        "066.1",
+        "066.2",
+        "066.3",
+        "066.4",
+        "066.5",
+        "066.6"
+      ],
+      "dataFile": "data/companion/066.json"
+    },
+    {
+      "id": "067",
+      "title": "The natural exponential, logarithm, and the number e",
+      "chapterTitle": "2. Calculus I",
+      "section": "The Natural Exponential and Logarithm Functions ▷ Definitions and calculus",
+      "terms": "natural exponential; natural logarithm; Euler number e; exponential limit; integral defini- tion of logarithm; transcendental number.",
+      "reference": "Book pp. 76-78.",
+      "sourcePage": 144,
+      "chapterId": "chapter-2",
+      "problemIds": [
+        "067.1",
+        "067.2",
+        "067.3",
+        "067.4",
+        "067.5"
+      ],
+      "dataFile": "data/companion/067.json"
+    },
+    {
+      "id": "068",
+      "title": "Logarithmic differentiation and variable powers",
+      "chapterTitle": "2. Calculus I",
+      "section": "The Natural Exponential and Logarithm Functions ▷ Variable exponents",
+      "terms": "logarithmic differentiation; variable exponent; logarithmic derivative; exponential rewrit- ing.",
+      "reference": "Book pp. 79.",
+      "sourcePage": 146,
+      "chapterId": "chapter-2",
+      "problemIds": [
+        "068.1",
+        "068.2",
+        "068.3",
+        "068.4",
+        "068.5"
+      ],
+      "dataFile": "data/companion/068.json"
+    },
+    {
+      "id": "069",
+      "title": "L’Hopital’s rule and indeterminate forms",
+      "chapterTitle": "2. Calculus I",
+      "section": "L’Hopital’s Rule ▷ Limits by differentiation",
+      "terms": "L’Hopital rule; indeterminate form; zero over zero; infinity over infinity; indeterminate product; indeterminate power; growth hierarchy.",
+      "reference": "Book pp. 79-81.",
+      "sourcePage": 148,
+      "chapterId": "chapter-2",
+      "problemIds": [
+        "069.1",
+        "069.2",
+        "069.3",
+        "069.4",
+        "069.5",
+        "069.6"
+      ],
+      "dataFile": "data/companion/069.json"
+    },
+    {
+      "id": "070",
+      "title": "Improper integrals and independent limiting operations",
+      "chapterTitle": "2. Calculus I",
+      "section": "Improper Integrals ▷ Definition and evaluation",
+      "terms": "improper integral; unbounded interval; endpoint singularity; interior singularity; con- vergent improper integral; divergent improper integral; Cauchy principal value; improper integral of the first kind; improper integral of the second kind; absolute convergence of an improper integral; conditional convergence of an improper integral.",
+      "reference": "Book pp. 81-84.",
+      "sourcePage": 150,
+      "chapterId": "chapter-2",
+      "problemIds": [
+        "070.1",
+        "070.2",
+        "070.3",
+        "070.4",
+        "070.5"
+      ],
+      "dataFile": "data/companion/070.json"
+    },
+    {
+      "id": "071",
+      "title": "Improper p-integrals and comparison near singularities",
+      "chapterTitle": "2. Calculus I",
+      "section": "Improper Integrals ▷ Convergence criteria",
+      "terms": "p-integral; comparison test for integrals; limit comparison for integrals; logarithmic singularity; endpoint convergence.",
+      "reference": "Book pp. 81-84, 101-102.",
+      "sourcePage": 152,
+      "chapterId": "chapter-2",
+      "problemIds": [
+        "071.1",
+        "071.2",
+        "071.3",
+        "071.4",
+        "071.5"
+      ],
+      "dataFile": "data/companion/071.json"
+    },
+    {
+      "id": "072",
+      "title": "Infinite series, partial sums, geometric and telescoping sums",
+      "chapterTitle": "2. Calculus I",
+      "section": "Infinite Series ▷ Definitions and exact sums",
+      "terms": "infinite series; partial sum; sum of a series; geometric series; common ratio; telescoping series.",
+      "reference": "Book pp. 84-85.",
+      "sourcePage": 154,
+      "chapterId": "chapter-2",
+      "problemIds": [
+        "072.1",
+        "072.2",
+        "072.3",
+        "072.4",
+        "072.5"
+      ],
+      "dataFile": "data/companion/072.json"
+    },
+    {
+      "id": "073",
+      "title": "The term test, harmonic series, and p-series",
+      "chapterTitle": "2. Calculus I",
+      "section": "Infinite Series ▷ Basic convergence tests",
+      "terms": "nth-term test; necessary condition for series convergence; harmonic series; p-series.",
+      "reference": "Book pp. 85.",
+      "sourcePage": 156,
+      "chapterId": "chapter-2",
+      "problemIds": [
+        "073.1",
+        "073.2",
+        "073.3",
+        "073.4",
+        "073.5"
+      ],
+      "dataFile": "data/companion/073.json"
+    },
+    {
+      "id": "074",
+      "title": "Direct and limit comparison for series",
+      "chapterTitle": "2. Calculus I",
+      "section": "Infinite Series ▷ The comparison test",
+      "terms": "comparison test; direct comparison; limit comparison; nonnegative series; eventual in- equalities.",
+      "reference": "Book pp. 86-87.",
+      "sourcePage": 158,
+      "chapterId": "chapter-2",
+      "problemIds": [
+        "074.1",
+        "074.2",
+        "074.3",
+        "074.4",
+        "074.5"
+      ],
+      "dataFile": "data/companion/074.json"
+    },
+    {
+      "id": "075",
+      "title": "Ratio test",
+      "chapterTitle": "2. Calculus I",
+      "section": "Infinite Series ▷ The ratio test",
+      "terms": "ratio test; factorial series; absolute ratio; inconclusive ratio.",
+      "reference": "Book pp. 86-87.",
+      "sourcePage": 160,
+      "chapterId": "chapter-2",
+      "problemIds": [
+        "075.1",
+        "075.2",
+        "075.3",
+        "075.4",
+        "075.5"
+      ],
+      "dataFile": "data/companion/075.json"
+    },
+    {
+      "id": "076",
+      "title": "Root test and limsup formulation",
+      "chapterTitle": "2. Calculus I",
+      "section": "Infinite Series ▷ The root test",
+      "terms": "root test; nth root; limsup root test; absolute convergence test.",
+      "reference": "Book pp. 86-87.",
+      "sourcePage": 162,
+      "chapterId": "chapter-2",
+      "problemIds": [
+        "076.1",
+        "076.2",
+        "076.3",
+        "076.4",
+        "076.5"
+      ],
+      "dataFile": "data/companion/076.json"
+    },
+    {
+      "id": "077",
+      "title": "Integral test and remainder bounds",
+      "chapterTitle": "2. Calculus I",
+      "section": "Infinite Series ▷ The integral test",
+      "terms": "integral test; eventually decreasing terms; integral remainder estimate; logarithmic series.",
+      "reference": "Book pp. 86-88.",
+      "sourcePage": 164,
+      "chapterId": "chapter-2",
+      "problemIds": [
+        "077.1",
+        "077.2",
+        "077.3",
+        "077.4",
+        "077.5"
+      ],
+      "dataFile": "data/companion/077.json"
+    },
+    {
+      "id": "078",
+      "title": "Alternating series and their error estimates",
+      "chapterTitle": "2. Calculus I",
+      "section": "Alternating Series ▷ Alternating-series test",
+      "terms": "alternating series; Leibniz alternating-series test; alternating remainder bound; eventual monotonicity.",
+      "reference": "Book pp. 88.",
+      "sourcePage": 166,
+      "chapterId": "chapter-2",
+      "problemIds": [
+        "078.1",
+        "078.2",
+        "078.3",
+        "078.4",
+        "078.5"
+      ],
+      "dataFile": "data/companion/078.json"
+    },
+    {
+      "id": "079",
+      "title": "Absolute and conditional convergence",
+      "chapterTitle": "2. Calculus I",
+      "section": "Alternating Series ▷ Absolute versus conditional convergence",
+      "terms": "absolute convergence; conditional convergence; absolute convergence implies convergence; signed series.",
+      "reference": "Book pp. 88-89.",
+      "sourcePage": 168,
+      "chapterId": "chapter-2",
+      "problemIds": [
+        "079.1",
+        "079.2",
+        "079.3",
+        "079.4",
+        "079.5"
+      ],
+      "dataFile": "data/companion/079.json"
+    },
+    {
+      "id": "080",
+      "title": "Power series, radius, and interval of convergence",
+      "chapterTitle": "2. Calculus I",
+      "section": "Power Series ▷ Convergence sets",
+      "terms": "power series; center of a power series; radius of convergence; interval of convergence; endpoint testing; Cauchy–Hadamard formula.",
+      "reference": "Book pp. 89-90.",
+      "sourcePage": 170,
+      "chapterId": "chapter-2",
+      "problemIds": [
+        "080.1",
+        "080.2",
+        "080.3",
+        "080.4",
+        "080.5",
+        "080.6"
+      ],
+      "dataFile": "data/companion/080.json"
+    },
+    {
+      "id": "081",
+      "title": "Termwise differentiation and integration of power series",
+      "chapterTitle": "2. Calculus I",
+      "section": "Power Series ▷ Functions Defined by Power Series",
+      "terms": "termwise differentiation; termwise integration; unchanged radius; endpoint caution; power-series regularity.",
+      "reference": "Book pp. 90-91.",
+      "sourcePage": 172,
+      "chapterId": "chapter-2",
+      "problemIds": [
+        "081.1",
+        "081.2",
+        "081.3",
+        "081.4",
+        "081.5"
+      ],
+      "dataFile": "data/companion/081.json"
+    },
+    {
+      "id": "082",
+      "title": "Power-series algebra, substitution, and coefficient extraction",
+      "chapterTitle": "2. Calculus I",
+      "section": "Power Series ▷ Operations on series",
+      "terms": "power-series substitution; Cauchy product; coefficient extraction; power-series multiplica- tion; power-series division; geometric-series transformation.",
+      "reference": "Book pp. 91.",
+      "sourcePage": 174,
+      "chapterId": "chapter-2",
+      "problemIds": [
+        "082.1",
+        "082.2",
+        "082.3",
+        "082.4",
+        "082.5"
+      ],
+      "dataFile": "data/companion/082.json"
+    },
+    {
+      "id": "083",
+      "title": "Taylor coefficients, Taylor series, and analyticity",
+      "chapterTitle": "2. Calculus I",
+      "section": "Taylor Series ▷ Coefficients and centers",
+      "terms": "Taylor coefficient; Taylor series; Maclaurin series; expansion center; analytic function; smooth nonanalytic function.",
+      "reference": "Book pp. 92, 94.",
+      "sourcePage": 176,
+      "chapterId": "chapter-2",
+      "problemIds": [
+        "083.1",
+        "083.2",
+        "083.3",
+        "083.4",
+        "083.5"
+      ],
+      "dataFile": "data/companion/083.json"
+    },
+    {
+      "id": "084",
+      "title": "Standard Maclaurin expansions and leading-order limits",
+      "chapterTitle": "2. Calculus I",
+      "section": "Taylor Series ▷ Standard expansions",
+      "terms": "exponential series; sine series; cosine series; logarithm series; arctangent series; leading nonzero term; order of vanishing.",
+      "reference": "Book pp. 92-93, 104.",
+      "sourcePage": 178,
+      "chapterId": "chapter-2",
+      "problemIds": [
+        "084.1",
+        "084.2",
+        "084.3",
+        "084.4",
+        "084.5"
+      ],
+      "dataFile": "data/companion/084.json"
+    },
+    {
+      "id": "085",
+      "title": "Taylor polynomials and rigorous remainder bounds",
+      "chapterTitle": "2. Calculus I",
+      "section": "Taylor Polynomials ▷ Approximation and error",
+      "terms": "Taylor polynomial; Taylor theorem; Lagrange remainder; truncation error; error bound; degree versus number of terms.",
+      "reference": "Book pp. 93-94, 104.",
+      "sourcePage": 180,
+      "chapterId": "chapter-2",
+      "problemIds": [
+        "085.1",
+        "085.2",
+        "085.3",
+        "085.4",
+        "085.5"
+      ],
+      "dataFile": "data/companion/085.json"
+    },
+    {
+      "id": "086",
+      "title": "Euclidean space, vectors, norm, and distance",
+      "chapterTitle": "3. Calculus II",
+      "section": "Analytic Geometry of R3 ▷ Coordinates and Vectors",
+      "terms": "Euclidean space; Cartesian coordinates; octant; first octant; standard unit vectors; vector components; scalar multiplication; norm; unit vector; distance.",
+      "reference": "Book pp. 105-107.",
+      "sourcePage": 182,
+      "chapterId": "chapter-3",
+      "problemIds": [
+        "086.1",
+        "086.2",
+        "086.3",
+        "086.4",
+        "086.5"
+      ],
+      "dataFile": "data/companion/086.json"
+    },
+    {
+      "id": "087",
+      "title": "Dot product, angle, and orthogonality",
+      "chapterTitle": "3. Calculus II",
+      "section": "Analytic Geometry of R3 ▷ The Dot Product",
+      "terms": "dot product; scalar product; angle between vectors; orthogonal vectors; perpendicular vectors.",
+      "reference": "Book pp. 107-108.",
+      "sourcePage": 183,
+      "chapterId": "chapter-3",
+      "problemIds": [
+        "087.1",
+        "087.2",
+        "087.3",
+        "087.4",
+        "087.5"
+      ],
+      "dataFile": "data/companion/087.json"
+    },
+    {
+      "id": "088",
+      "title": "Scalar and vector projection",
+      "chapterTitle": "3. Calculus II",
+      "section": "Analytic Geometry of R3 ▷ The Dot Product",
+      "terms": "scalar projection; vector projection; orthogonal decomposition.",
+      "reference": "Book pp. 107-108.",
+      "sourcePage": 185,
+      "chapterId": "chapter-3",
+      "problemIds": [
+        "088.1",
+        "088.2",
+        "088.3",
+        "088.4",
+        "088.5"
+      ],
+      "dataFile": "data/companion/088.json"
+    },
+    {
+      "id": "089",
+      "title": "Cross product, orientation, and area",
+      "chapterTitle": "3. Calculus II",
+      "section": "Analytic Geometry of R3 ▷ The Cross Product",
+      "terms": "cross product; vector product; right-hand rule; normal vector; parallelogram area; trian- gle area; vector triple-product identity.",
+      "reference": "Book pp. 109-110.",
+      "sourcePage": 187,
+      "chapterId": "chapter-3",
+      "problemIds": [
+        "089.1",
+        "089.2",
+        "089.3",
+        "089.4",
+        "089.5"
+      ],
+      "dataFile": "data/companion/089.json"
+    },
+    {
+      "id": "090",
+      "title": "Scalar triple product and volume",
+      "chapterTitle": "3. Calculus II",
+      "section": "Analytic Geometry of R3 ▷ The Triple Scalar Product",
+      "terms": "scalar triple product; parallelepiped; coplanarity; oriented volume; tetrahedron volume; Gram determinant.",
+      "reference": "Book pp. 110-111.",
+      "sourcePage": 189,
+      "chapterId": "chapter-3",
+      "problemIds": [
+        "090.1",
+        "090.2",
+        "090.3",
+        "090.4",
+        "090.5"
+      ],
+      "dataFile": "data/companion/090.json"
+    },
+    {
+      "id": "091",
+      "title": "Parametric and symmetric equations of lines",
+      "chapterTitle": "3. Calculus II",
+      "section": "Analytic Geometry of R3 ▷ Lines in 3-Space",
+      "terms": "line in space; direction vector; parametric equations; symmetric equations; skew lines.",
+      "reference": "Book pp. 112-113.",
+      "sourcePage": 190,
+      "chapterId": "chapter-3",
+      "problemIds": [
+        "091.1",
+        "091.2",
+        "091.3",
+        "091.4",
+        "091.5"
+      ],
+      "dataFile": "data/companion/091.json"
+    },
+    {
+      "id": "092",
+      "title": "Planes and normal equations",
+      "chapterTitle": "3. Calculus II",
+      "section": "Analytic Geometry of R3 ▷ Planes in 3-Space",
+      "terms": "plane; normal equation; coordinate plane; parallel planes; angle between planes.",
+      "reference": "Book pp. 113-114.",
+      "sourcePage": 192,
+      "chapterId": "chapter-3",
+      "problemIds": [
+        "092.1",
+        "092.2",
+        "092.3",
+        "092.4",
+        "092.5"
+      ],
+      "dataFile": "data/companion/092.json"
+    },
+    {
+      "id": "093",
+      "title": "Cylindrical surfaces and generators",
+      "chapterTitle": "3. Calculus II",
+      "section": "Analytic Geometry of R3 ▷ Cylinders",
+      "terms": "cylinder; right circular cylinder; elliptic cylinder; parabolic cylinder; generator; element of a cylinder.",
+      "reference": "Book pp. 115-116.",
+      "sourcePage": 194,
+      "chapterId": "chapter-3",
+      "problemIds": [
+        "093.1",
+        "093.2",
+        "093.3",
+        "093.4",
+        "093.5"
+      ],
+      "dataFile": "data/companion/093.json"
+    },
+    {
+      "id": "094",
+      "title": "Surfaces of revolution",
+      "chapterTitle": "3. Calculus II",
+      "section": "Analytic Geometry of R3 ▷ Surfaces of Revolution",
+      "terms": "surface of revolution; axis of revolution; radial distance; ellipsoid of revolution.",
+      "reference": "Book pp. 117-118.",
+      "sourcePage": 196,
+      "chapterId": "chapter-3",
+      "problemIds": [
+        "094.1",
+        "094.2",
+        "094.3",
+        "094.4",
+        "094.5"
+      ],
+      "dataFile": "data/companion/094.json"
+    },
+    {
+      "id": "095",
+      "title": "Level sets, contours, and quadric surfaces",
+      "chapterTitle": "3. Calculus II",
+      "section": "Analytic Geometry of R3 ▷ Level Curves and Level Surfaces",
+      "terms": "level curve; level surface; contour curve; cross-section; circular paraboloid; elliptic paraboloid; hyperboloid of one sheet.",
+      "reference": "Book pp. 119-120.",
+      "sourcePage": 198,
+      "chapterId": "chapter-3",
+      "problemIds": [
+        "095.1",
+        "095.2",
+        "095.3",
+        "095.4",
+        "095.5",
+        "095.6"
+      ],
+      "dataFile": "data/companion/095.json"
+    },
+    {
+      "id": "096",
+      "title": "Cylindrical coordinates",
+      "chapterTitle": "3. Calculus II",
+      "section": "Analytic Geometry of R3 ▷ Cylindrical Coordinates",
+      "terms": "cylindrical coordinates; cylindrical radius; azimuthal angle; coordinate surface.",
+      "reference": "Book pp. 121.",
+      "sourcePage": 200,
+      "chapterId": "chapter-3",
+      "problemIds": [
+        "096.1",
+        "096.2",
+        "096.3",
+        "096.4",
+        "096.5"
+      ],
+      "dataFile": "data/companion/096.json"
+    },
+    {
+      "id": "097",
+      "title": "Spherical coordinates",
+      "chapterTitle": "3. Calculus II",
+      "section": "Analytic Geometry of R3 ▷ Spherical Coordinates",
+      "terms": "spherical coordinates; radial distance; polar angle; azimuth; sphere; cone.",
+      "reference": "Book pp. 121-122.",
+      "sourcePage": 202,
+      "chapterId": "chapter-3",
+      "problemIds": [
+        "097.1",
+        "097.2",
+        "097.3",
+        "097.4",
+        "097.5"
+      ],
+      "dataFile": "data/companion/097.json"
+    },
+    {
+      "id": "098",
+      "title": "Partial derivatives and coordinate traces",
+      "chapterTitle": "3. Calculus II",
+      "section": "Partial Derivatives ▷ Definition and Geometric Interpretation",
+      "terms": "partial derivative; independent variable; coordinate trace; partial derivative as slope.",
+      "reference": "Book pp. 122-124.",
+      "sourcePage": 204,
+      "chapterId": "chapter-3",
+      "problemIds": [
+        "098.1",
+        "098.2",
+        "098.3",
+        "098.4",
+        "098.5"
+      ],
+      "dataFile": "data/companion/098.json"
+    },
+    {
+      "id": "099",
+      "title": "Mixed partials and equality of differentiation orders",
+      "chapterTitle": "3. Calculus II",
+      "section": "Partial Derivatives ▷ Higher-Order Partial Derivatives",
+      "terms": "higher-order partial derivative; mixed partial derivative; Clairaut theorem; Schwarz theorem.",
+      "reference": "Book pp. 124-125.",
+      "sourcePage": 206,
+      "chapterId": "chapter-3",
+      "problemIds": [
+        "099.1",
+        "099.2",
+        "099.3",
+        "099.4",
+        "099.5"
+      ],
+      "dataFile": "data/companion/099.json"
+    },
+    {
+      "id": "100",
+      "title": "Tangent planes and implicit partial differentiation",
+      "chapterTitle": "3. Calculus II",
+      "section": "Partial Derivatives ▷ The Tangent Plane to a Surface",
+      "terms": "tangent plane; implicit differentiation; implicit function condition; regular level surface.",
+      "reference": "Book pp. 126-127.",
+      "sourcePage": 208,
+      "chapterId": "chapter-3",
+      "problemIds": [
+        "100.1",
+        "100.2",
+        "100.3",
+        "100.4",
+        "100.5"
+      ],
+      "dataFile": "data/companion/100.json"
+    },
+    {
+      "id": "101",
+      "title": "Total differential and linear approximation",
+      "chapterTitle": "3. Calculus II",
+      "section": "Partial Derivatives ▷ Linear Approximations",
+      "terms": "linear approximation; linearization; total differential; differentiability; first-order error.",
+      "reference": "Book pp. 127-128.",
+      "sourcePage": 210,
+      "chapterId": "chapter-3",
+      "problemIds": [
+        "101.1",
+        "101.2",
+        "101.3",
+        "101.4",
+        "101.5"
+      ],
+      "dataFile": "data/companion/101.json"
+    },
+    {
+      "id": "102",
+      "title": "Multivariable chain rule and held-fixed variables",
+      "chapterTitle": "3. Calculus II",
+      "section": "Partial Derivatives ▷ The Chain Rule for Partial Derivatives",
+      "terms": "multivariable chain rule; dependent variable; intermediate variable; independent variable; total derivative; cyclic partial derivative identity.",
+      "reference": "Book pp. 128-131.",
+      "sourcePage": 212,
+      "chapterId": "chapter-3",
+      "problemIds": [
+        "102.1",
+        "102.2",
+        "102.3",
+        "102.4",
+        "102.5"
+      ],
+      "dataFile": "data/companion/102.json"
+    },
+    {
+      "id": "103",
+      "title": "Directional derivative and steepest ascent",
+      "chapterTitle": "3. Calculus II",
+      "section": "Directional Derivatives and the Gradient ▷ Rates of Change",
+      "terms": "directional derivative; gradient; del operator; steepest ascent; steepest descent; maximum rate of change.",
+      "reference": "Book pp. 132-133.",
+      "sourcePage": 214,
+      "chapterId": "chapter-3",
+      "problemIds": [
+        "103.1",
+        "103.2",
+        "103.3",
+        "103.4",
+        "103.5"
+      ],
+      "dataFile": "data/companion/103.json"
+    },
+    {
+      "id": "104",
+      "title": "Gradient normals and tangent directions",
+      "chapterTitle": "3. Calculus II",
+      "section": "Directional Derivatives and the Gradient ▷ Normals to Level Sets",
+      "terms": "normal to a level set; tangent vector; normal line; intersection of level surfaces.",
+      "reference": "Book pp. 134.",
+      "sourcePage": 216,
+      "chapterId": "chapter-3",
+      "problemIds": [
+        "104.1",
+        "104.2",
+        "104.3",
+        "104.4",
+        "104.5"
+      ],
+      "dataFile": "data/companion/104.json"
+    },
+    {
+      "id": "105",
+      "title": "Critical points, Hessian, and saddle points",
+      "chapterTitle": "3. Calculus II",
+      "section": "Max/Min Problems ▷ Critical Points and the Second-Derivative Test",
+      "terms": "critical point; stationary point; local maximum; local minimum; saddle point; Hessian matrix; second-derivative test.",
+      "reference": "Book pp. 135-136.",
+      "sourcePage": 218,
+      "chapterId": "chapter-3",
+      "problemIds": [
+        "105.1",
+        "105.2",
+        "105.3",
+        "105.4",
+        "105.5",
+        "105.6"
+      ],
+      "dataFile": "data/companion/105.json"
+    },
+    {
+      "id": "106",
+      "title": "Absolute extrema and boundary analysis",
+      "chapterTitle": "3. Calculus II",
+      "section": "Max/Min Problems ▷ Absolute Extrema on a Closed Region",
+      "terms": "absolute maximum; absolute minimum; closed and bounded region; compact region; extreme value theorem; boundary critical point.",
+      "reference": "Book pp. 136-137.",
+      "sourcePage": 220,
+      "chapterId": "chapter-3",
+      "problemIds": [
+        "106.1",
+        "106.2",
+        "106.3",
+        "106.4",
+        "106.5"
+      ],
+      "dataFile": "data/companion/106.json"
+    },
+    {
+      "id": "107",
+      "title": "Constrained extrema and Lagrange multipliers",
+      "chapterTitle": "3. Calculus II",
+      "section": "Max/Min Problems ▷ Max/Min with a Constraint; Lagrange Multipliers",
+      "terms": "constraint; constrained extremum; Lagrange multiplier; regular constraint; elimination method.",
+      "reference": "Book pp. 137-139.",
+      "sourcePage": 222,
+      "chapterId": "chapter-3",
+      "problemIds": [
+        "107.1",
+        "107.2",
+        "107.3",
+        "107.4",
+        "107.5"
+      ],
+      "dataFile": "data/companion/107.json"
+    },
+    {
+      "id": "108",
+      "title": "Smooth curves, arc length, and scalar line integrals",
+      "chapterTitle": "3. Calculus II",
+      "section": "Line Integrals ▷ Line Integrals with Respect to Arc Length",
+      "terms": "parameterized curve; smooth curve; piecewise smooth curve; arc length element; scalar line integral; curve integral; contour integral; path integral; linear density; mass of a wire.",
+      "reference": "Book pp. 139-143.",
+      "sourcePage": 224,
+      "chapterId": "chapter-3",
+      "problemIds": [
+        "108.1",
+        "108.2",
+        "108.3",
+        "108.4",
+        "108.5"
+      ],
+      "dataFile": "data/companion/108.json"
+    },
+    {
+      "id": "109",
+      "title": "Vector fields, work, and oriented line integrals",
+      "chapterTitle": "3. Calculus II",
+      "section": "Line Integrals ▷ The Line Integral of a Vector Field",
+      "terms": "vector field; vector-valued function; work integral; orientation; differential one-form; circulation.",
+      "reference": "Book pp. 143-147.",
+      "sourcePage": 226,
+      "chapterId": "chapter-3",
+      "problemIds": [
+        "109.1",
+        "109.2",
+        "109.3",
+        "109.4",
+        "109.5"
+      ],
+      "dataFile": "data/companion/109.json"
+    },
+    {
+      "id": "110",
+      "title": "Potential functions and conservative fields",
+      "chapterTitle": "3. Calculus II",
+      "section": "Line Integrals ▷ The Fundamental Theorem of Calculus for Line Integrals",
+      "terms": "scalar field; gradient field; potential function; conservative field; path independence; fundamental theorem for line integrals; closed curve.",
+      "reference": "Book pp. 147-150.",
+      "sourcePage": 228,
+      "chapterId": "chapter-3",
+      "problemIds": [
+        "110.1",
+        "110.2",
+        "110.3",
+        "110.4",
+        "110.5"
+      ],
+      "dataFile": "data/companion/110.json"
+    },
+    {
+      "id": "111",
+      "title": "Double integrals, Fubini, and region bounds",
+      "chapterTitle": "3. Calculus II",
+      "section": "Double Integrals ▷ Iterated Integrals and Reversing Order",
+      "terms": "double integral; area element; Riemann sum; signed volume; iterated integral; order of integration; Fubini theorem.",
+      "reference": "Book pp. 150-154.",
+      "sourcePage": 230,
+      "chapterId": "chapter-3",
+      "problemIds": [
+        "111.1",
+        "111.2",
+        "111.3",
+        "111.4",
+        "111.5",
+        "111.6"
+      ],
+      "dataFile": "data/companion/111.json"
+    },
+    {
+      "id": "112",
+      "title": "Polar area element and radial integration",
+      "chapterTitle": "3. Calculus II",
+      "section": "Double Integrals ▷ Double Integrals in Polar Coordinates",
+      "terms": "polar double integral; polar area element; radial bound; polar substitution.",
+      "reference": "Book pp. 154-155.",
+      "sourcePage": 232,
+      "chapterId": "chapter-3",
+      "problemIds": [
+        "112.1",
+        "112.2",
+        "112.3",
+        "112.4",
+        "112.5",
+        "112.6"
+      ],
+      "dataFile": "data/companion/112.json"
+    },
+    {
+      "id": "113",
+      "title": "Green’s theorem, positive orientation, and area",
+      "chapterTitle": "3. Calculus II",
+      "section": "Green’s Theorem ▷ Circulation and Area",
+      "terms": "simple closed curve; positive orientation; boundary orientation; Green theorem; area from a line integral.",
+      "reference": "Book pp. 156-158.",
+      "sourcePage": 234,
+      "chapterId": "chapter-3",
+      "problemIds": [
+        "113.1",
+        "113.2",
+        "113.3",
+        "113.4",
+        "113.5"
+      ],
+      "dataFile": "data/companion/113.json"
+    },
+    {
+      "id": "114",
+      "title": "Convexity, simple connectivity, and the hole obstruction",
+      "chapterTitle": "3. Calculus II",
+      "section": "Green’s Theorem ▷ Path Independence and Gradient Fields",
+      "terms": "convex region; simply connected region; curl-free planar field; closed-path criterion; hole obstruction.",
+      "reference": "Book pp. 158-159.",
+      "sourcePage": 236,
+      "chapterId": "chapter-3",
+      "problemIds": [
+        "114.1",
+        "114.2",
+        "114.3",
+        "114.4",
+        "114.5"
+      ],
+      "dataFile": "data/companion/114.json"
+    },
+    {
+      "id": "115",
+      "title": "Vector triple product and cross-product equations",
+      "chapterTitle": "3. Calculus II",
+      "section": "Chapter 3 Review Questions ▷ Vector Identities",
+      "terms": "vector triple product; BAC-CAB identity; cross-product equation.",
+      "reference": "Book pp. 160.",
+      "sourcePage": 238,
+      "chapterId": "chapter-3",
+      "problemIds": [
+        "115.1",
+        "115.2",
+        "115.3",
+        "115.4",
+        "115.5"
+      ],
+      "dataFile": "data/companion/115.json"
+    },
+    {
+      "id": "116",
+      "title": "Perpendicular distance to a plane",
+      "chapterTitle": "3. Calculus II",
+      "section": "Chapter 3 Review Questions ▷ Distance to a Plane",
+      "terms": "point-to-plane distance; orthogonal foot; distance between parallel planes.",
+      "reference": "Book pp. 161.",
+      "sourcePage": 240,
+      "chapterId": "chapter-3",
+      "problemIds": [
+        "116.1",
+        "116.2",
+        "116.3",
+        "116.4",
+        "116.5"
+      ],
+      "dataFile": "data/companion/116.json"
+    },
+    {
+      "id": "117",
+      "title": "Multivariable limits and continuity",
+      "chapterTitle": "3. Calculus II",
+      "section": "Chapter 3 Review Questions ▷ Continuity at the Origin",
+      "terms": "multivariable limit; path test; continuity in several variables; polar estimate; squeeze theorem.",
+      "reference": "Book pp. 162.",
+      "sourcePage": 241,
+      "chapterId": "chapter-3",
+      "problemIds": [
+        "117.1",
+        "117.2",
+        "117.3",
+        "117.4",
+        "117.5"
+      ],
+      "dataFile": "data/companion/117.json"
+    },
+    {
+      "id": "118",
+      "title": "Differential equations, order, solutions, integral curves, and IVPs",
+      "chapterTitle": "4. Differential Equations",
+      "section": "Introduction ▷ Differential equations and initial conditions",
+      "terms": "differential equation; ordinary differential equation; partial differential equation; order; solution; general solution; particular solution; integral curve; initial condition; initial value problem.",
+      "reference": "Book pp. 167-169.",
+      "sourcePage": 243,
+      "chapterId": "chapter-4",
+      "problemIds": [
+        "118.1",
+        "118.2",
+        "118.3",
+        "118.4",
+        "118.5"
+      ],
+      "dataFile": "data/companion/118.json"
+    },
+    {
+      "id": "119",
+      "title": "Separable ODEs, equilibrium solutions, and maximal intervals",
+      "chapterTitle": "4. Differential Equations",
+      "section": "Separable Equations ▷ Separation of variables",
+      "terms": "separable equation; separation of variables; equilibrium solution; constant solution; maxi- mal interval; finite-time blow-up.",
+      "reference": "Book pp. 169.",
+      "sourcePage": 245,
+      "chapterId": "chapter-4",
+      "problemIds": [
+        "119.1",
+        "119.2",
+        "119.3",
+        "119.4",
+        "119.5"
+      ],
+      "dataFile": "data/companion/119.json"
+    },
+    {
+      "id": "120",
+      "title": "Homogeneous functions and first-order homogeneous equations",
+      "chapterTitle": "4. Differential Equations",
+      "section": "Homogeneous Equations ▷ Scaling and the substitution y=xv",
+      "terms": "homogeneous function; homogeneous degree; homogeneous first-order equation; substitu- tion y=xv; scale invariance; Euler identity for homogeneous functions.",
+      "reference": "Book pp. 170.",
+      "sourcePage": 247,
+      "chapterId": "chapter-4",
+      "problemIds": [
+        "120.1",
+        "120.2",
+        "120.3",
+        "120.4",
+        "120.5"
+      ],
+      "dataFile": "data/companion/120.json"
+    },
+    {
+      "id": "121",
+      "title": "Exact equations, total differentials, and potential functions",
+      "chapterTitle": "4. Differential Equations",
+      "section": "Exact Equations ▷ Total differentials and potentials",
+      "terms": "total differential; exact differential; exact equation; potential function; mixed partial derivatives; level curve; simply connected domain.",
+      "reference": "Book pp. 170-171.",
+      "sourcePage": 249,
+      "chapterId": "chapter-4",
+      "problemIds": [
+        "121.1",
+        "121.2",
+        "121.3",
+        "121.4",
+        "121.5",
+        "121.6"
+      ],
+      "dataFile": "data/companion/121.json"
+    },
+    {
+      "id": "122",
+      "title": "Integrating factors for nonexact equations",
+      "chapterTitle": "4. Differential Equations",
+      "section": "Nonexact Equations and Integrating Factors ▷ Factors depending on one variable",
+      "terms": "nonexact equation; integrating factor; one-variable integrating factor; equivalent differen- tial equation.",
+      "reference": "Book pp. 172-173.",
+      "sourcePage": 251,
+      "chapterId": "chapter-4",
+      "problemIds": [
+        "122.1",
+        "122.2",
+        "122.3",
+        "122.4",
+        "122.5"
+      ],
+      "dataFile": "data/companion/122.json"
+    },
+    {
+      "id": "123",
+      "title": "First-order linear ODEs and the product-derivative method",
+      "chapterTitle": "4. Differential Equations",
+      "section": "First-Order Linear Equations ▷ Standard form and integrating factor",
+      "terms": "first-order linear equation; standard form; linear integrating factor; inhomogeneous term; variation of constants.",
+      "reference": "Book pp. 174-175.",
+      "sourcePage": 252,
+      "chapterId": "chapter-4",
+      "problemIds": [
+        "123.1",
+        "123.2",
+        "123.3",
+        "123.4",
+        "123.5"
+      ],
+      "dataFile": "data/companion/123.json"
+    },
+    {
+      "id": "124",
+      "title": "Linear differential operators, superposition, and solution spaces",
+      "chapterTitle": "4. Differential Equations",
+      "section": "Higher-Order Linear Equations with Constant Coefficients ▷ Linear structure and general solutions",
+      "terms": "linear differential equation; constant coefficient; homogeneous linear equation; nonhomo- geneous linear equation; superposition; complementary solution; particular solution; linear independence; fundamental set.",
+      "reference": "Book pp. 175-177.",
+      "sourcePage": 254,
+      "chapterId": "chapter-4",
+      "problemIds": [
+        "124.1",
+        "124.2",
+        "124.3",
+        "124.4",
+        "124.5"
+      ],
+      "dataFile": "data/companion/124.json"
+    },
+    {
+      "id": "125",
+      "title": "Characteristic polynomial and distinct exponential modes",
+      "chapterTitle": "4. Differential Equations",
+      "section": "Higher-Order Linear Equations with Constant Coefficients ▷ Auxiliary equation: distinct real roots",
+      "terms": "auxiliary equation; characteristic equation; characteristic polynomial; exponential mode; distinct characteristic roots.",
+      "reference": "Book pp. 175-177.",
+      "sourcePage": 256,
+      "chapterId": "chapter-4",
+      "problemIds": [
+        "125.1",
+        "125.2",
+        "125.3",
+        "125.4",
+        "125.5"
+      ],
+      "dataFile": "data/companion/125.json"
+    },
+    {
+      "id": "126",
+      "title": "Repeated characteristic roots and polynomial factors",
+      "chapterTitle": "4. Differential Equations",
+      "section": "Higher-Order Linear Equations with Constant Coefficients ▷ Auxiliary equation: repeated roots",
+      "terms": "repeated characteristic root; root multiplicity; polynomial-exponential solution; zero characteristic root.",
+      "reference": "Book pp. 176-177; 179.",
+      "sourcePage": 257,
+      "chapterId": "chapter-4",
+      "problemIds": [
+        "126.1",
+        "126.2",
+        "126.3",
+        "126.4",
+        "126.5"
+      ],
+      "dataFile": "data/companion/126.json"
+    },
+    {
+      "id": "127",
+      "title": "Complex characteristic roots, oscillation, and damping",
+      "chapterTitle": "4. Differential Equations",
+      "section": "Higher-Order Linear Equations with Constant Coefficients ▷ Auxiliary equation: nonreal roots",
+      "terms": "complex characteristic root; oscillatory solution; angular frequency; damped oscillation; complex exponential; real solution basis.",
+      "reference": "Book pp. 176-177.",
+      "sourcePage": 259,
+      "chapterId": "chapter-4",
+      "problemIds": [
+        "127.1",
+        "127.2",
+        "127.3",
+        "127.4",
+        "127.5"
+      ],
+      "dataFile": "data/companion/127.json"
+    },
+    {
+      "id": "128",
+      "title": "Particular-solution guessing, undetermined coefficients, and resonance",
+      "chapterTitle": "4. Differential Equations",
+      "section": "Higher-Order Linear Equations with Constant Coefficients ▷ Particular solutions of nonhomogeneous equa-",
+      "terms": "undetermined coefficients; forcing term; resonance; particular-solution ansatz; verification by substitution.",
+      "reference": "Book pp. 177; 179.",
+      "sourcePage": 261,
+      "chapterId": "chapter-4",
+      "problemIds": [
+        "128.1",
+        "128.2",
+        "128.3",
+        "128.4",
+        "128.5",
+        "128.6"
+      ],
+      "dataFile": "data/companion/128.json"
+    },
+    {
+      "id": "129",
+      "title": "Exponential growth, decay, doubling time, and half-life",
+      "chapterTitle": "4. Differential Equations",
+      "section": "Chapter 4 Review Questions ▷ Growth proportional to population",
+      "terms": "exponential growth; exponential decay; proportional rate; growth constant; doubling time; half-life.",
+      "reference": "Book pp. 178; 376.",
+      "sourcePage": 263,
+      "chapterId": "chapter-4",
+      "problemIds": [
+        "129.1",
+        "129.2",
+        "129.3",
+        "129.4",
+        "129.5"
+      ],
+      "dataFile": "data/companion/129.json"
+    },
+    {
+      "id": "130",
+      "title": "Converting integral or geometric conditions into ODEs",
+      "chapterTitle": "4. Differential Equations",
+      "section": "Chapter 4 Review Questions ▷ Area conditions and differential modeling",
+      "terms": "integral equation; differential modeling; area condition; Fundamental Theorem of Calcu- lus; boundary consistency.",
+      "reference": "Book pp. 178; 376-377.",
+      "sourcePage": 265,
+      "chapterId": "chapter-4",
+      "problemIds": [
+        "130.1",
+        "130.2",
+        "130.3",
+        "130.4",
+        "130.5"
+      ],
+      "dataFile": "data/companion/130.json"
+    },
+    {
+      "id": "131",
+      "title": "Monomial integrating factors and coefficient matching",
+      "chapterTitle": "4. Differential Equations",
+      "section": "Chapter 4 Review Questions ▷ Power-product integrating factors",
+      "terms": "monomial integrating factor; power-product integrating factor; coefficient matching; singular axis.",
+      "reference": "Book pp. 179; 380.",
+      "sourcePage": 267,
+      "chapterId": "chapter-4",
+      "problemIds": [
+        "131.1",
+        "131.2",
+        "131.3",
+        "131.4",
+        "131.5"
+      ],
+      "dataFile": "data/companion/131.json"
+    },
+    {
+      "id": "132",
+      "title": "Orthogonal trajectories and eliminating a family parameter",
+      "chapterTitle": "4. Differential Equations",
+      "section": "Chapter 4 Review Questions ▷ Orthogonal trajectories",
+      "terms": "orthogonal trajectory; orthogonal family; negative reciprocal slope; parameter elimina- tion; tangent direction.",
+      "reference": "Book pp. 180; 382.",
+      "sourcePage": 269,
+      "chapterId": "chapter-4",
+      "problemIds": [
+        "132.1",
+        "132.2",
+        "132.3",
+        "132.4",
+        "132.5"
+      ],
+      "dataFile": "data/companion/132.json"
+    },
+    {
+      "id": "133",
+      "title": "Linear first-order PDEs, characteristic directions, and level curves",
+      "chapterTitle": "4. Differential Equations",
+      "section": "Chapter 4 Review Questions ▷ First-order partial differential equations",
+      "terms": "first-order PDE; transport equation; characteristic curve; directional derivative; gradient; level curve.",
+      "reference": "Book pp. 180; 383.",
+      "sourcePage": 271,
+      "chapterId": "chapter-4",
+      "problemIds": [
+        "133.1",
+        "133.2",
+        "133.3",
+        "133.4",
+        "133.5"
+      ],
+      "dataFile": "data/companion/133.json"
+    },
+    {
+      "id": "134",
+      "title": "Linear equations and consistent systems",
+      "chapterTitle": "5. Linear Algebra",
+      "section": "Solutions of Linear Systems ▷ Consistency and Number of Solutions",
+      "terms": "linear equation; linear system; coefficient; unknown; solution; consistent system; inconsis- tent system.",
+      "reference": "Book pp. 181-182.",
+      "sourcePage": 273,
+      "chapterId": "chapter-5",
+      "problemIds": [
+        "134.1",
+        "134.2",
+        "134.3",
+        "134.4",
+        "134.5"
+      ],
+      "dataFile": "data/companion/134.json"
+    },
+    {
+      "id": "135",
+      "title": "Matrices, entries, and triangular form",
+      "chapterTitle": "5. Linear Algebra",
+      "section": "Matrices and Matrix Algebra ▷ Dimensions and Matrix Operations",
+      "terms": "matrix; matrix dimensions; matrix entry; row; column; diagonal entry; main diagonal; square matrix; upper triangular matrix; lower triangular matrix; zero matrix; matrix addition; scalar multiple; diagonal matrix.",
+      "reference": "Book pp. 183-184.",
+      "sourcePage": 275,
+      "chapterId": "chapter-5",
+      "problemIds": [
+        "135.1",
+        "135.2",
+        "135.3",
+        "135.4",
+        "135.5"
+      ],
+      "dataFile": "data/companion/135.json"
+    },
+    {
+      "id": "136",
+      "title": "Transpose and row-column duality",
+      "chapterTitle": "5. Linear Algebra",
+      "section": "Matrices and Matrix Algebra ▷ The Transpose",
+      "terms": "transpose; row vector; column vector; transpose of a product.",
+      "reference": "Book pp. 184.",
+      "sourcePage": 277,
+      "chapterId": "chapter-5",
+      "problemIds": [
+        "136.1",
+        "136.2",
+        "136.3",
+        "136.4",
+        "136.5"
+      ],
+      "dataFile": "data/companion/136.json"
+    },
+    {
+      "id": "137",
+      "title": "Matrix multiplication and noncommutativity",
+      "chapterTitle": "5. Linear Algebra",
+      "section": "Matrices and Matrix Algebra ▷ Matrix Multiplication",
+      "terms": "matrix product; compatible dimensions; commuting matrices; associativity; distributivity; noncommutativity.",
+      "reference": "Book pp. 184-186.",
+      "sourcePage": 279,
+      "chapterId": "chapter-5",
+      "problemIds": [
+        "137.1",
+        "137.2",
+        "137.3",
+        "137.4",
+        "137.5"
+      ],
+      "dataFile": "data/companion/137.json"
+    },
+    {
+      "id": "138",
+      "title": "Identity matrices and one-sided inverses",
+      "chapterTitle": "5. Linear Algebra",
+      "section": "Matrices and Matrix Algebra ▷ Identity Matrices and Inverses",
+      "terms": "identity matrix; Kronecker delta; left inverse; right inverse; inverse matrix; invertible matrix; singular matrix; nonsingular matrix.",
+      "reference": "Book pp. 186-188.",
+      "sourcePage": 281,
+      "chapterId": "chapter-5",
+      "problemIds": [
+        "138.1",
+        "138.2",
+        "138.3",
+        "138.4",
+        "138.5"
+      ],
+      "dataFile": "data/companion/138.json"
+    },
+    {
+      "id": "139",
+      "title": "Matrix powers and polynomial identities",
+      "chapterTitle": "5. Linear Algebra",
+      "section": "Matrices and Matrix Algebra ▷ Matrix Powers and Polynomial Identities",
+      "terms": "matrix power; matrix polynomial; polynomial identity; inverse from a polynomial iden- tity.",
+      "reference": "Book pp. 187-188.",
+      "sourcePage": 283,
+      "chapterId": "chapter-5",
+      "problemIds": [
+        "139.1",
+        "139.2",
+        "139.3",
+        "139.4",
+        "139.5"
+      ],
+      "dataFile": "data/companion/139.json"
+    },
+    {
+      "id": "140",
+      "title": "Gaussian elimination and echelon form",
+      "chapterTitle": "5. Linear Algebra",
+      "section": "Gaussian Elimination ▷ Row Operations and Echelon Form",
+      "terms": "coefficient matrix; augmented matrix; Gaussian elimination; elementary row operation; row equivalence; echelon form; pivot; back-substitution; reduced row echelon form.",
+      "reference": "Book pp. 188-190.",
+      "sourcePage": 285,
+      "chapterId": "chapter-5",
+      "problemIds": [
+        "140.1",
+        "140.2",
+        "140.3",
+        "140.4",
+        "140.5"
+      ],
+      "dataFile": "data/companion/140.json"
+    },
+    {
+      "id": "141",
+      "title": "Homogeneous systems and affine solution spaces",
+      "chapterTitle": "5. Linear Algebra",
+      "section": "Gaussian Elimination ▷ Free Variables and Homogeneous Systems",
+      "terms": "free variable; parameter; homogeneous system; nonhomogeneous system; trivial solution; particular solution; general solution; affine solution space.",
+      "reference": "Book pp. 191-193.",
+      "sourcePage": 287,
+      "chapterId": "chapter-5",
+      "problemIds": [
+        "141.1",
+        "141.2",
+        "141.3",
+        "141.4",
+        "141.5"
+      ],
+      "dataFile": "data/companion/141.json"
+    },
+    {
+      "id": "142",
+      "title": "Inverse solution formula and the two-by-two inverse",
+      "chapterTitle": "5. Linear Algebra",
+      "section": "Solving Matrix Equations Using an Inverse ▷ The Two-by-Two Formula",
+      "terms": "matrix equation; inverse solution formula; two-by-two inverse; unique solvability.",
+      "reference": "Book pp. 193-194.",
+      "sourcePage": 289,
+      "chapterId": "chapter-5",
+      "problemIds": [
+        "142.1",
+        "142.2",
+        "142.3",
+        "142.4",
+        "142.5"
+      ],
+      "dataFile": "data/companion/142.json"
+    },
+    {
+      "id": "143",
+      "title": "Vector space axioms and the subspace test",
+      "chapterTitle": "5. Linear Algebra",
+      "section": "Vector Spaces ▷ Vector Spaces and Subspaces",
+      "terms": "real vector space; vector space; scalar field; closure; subspace; zero vector; trivial sub- space; proper subspace.",
+      "reference": "Book pp. 195.",
+      "sourcePage": 291,
+      "chapterId": "chapter-5",
+      "problemIds": [
+        "143.1",
+        "143.2",
+        "143.3",
+        "143.4",
+        "143.5",
+        "143.6"
+      ],
+      "dataFile": "data/companion/143.json"
+    },
+    {
+      "id": "144",
+      "title": "Nullspace and homogeneous directions",
+      "chapterTitle": "5. Linear Algebra",
+      "section": "Vector Spaces ▷ The Nullspace",
+      "terms": "nullspace; null space; kernel of a matrix; nullity of a matrix.",
+      "reference": "Book pp. 196.",
+      "sourcePage": 293,
+      "chapterId": "chapter-5",
+      "problemIds": [
+        "144.1",
+        "144.2",
+        "144.3",
+        "144.4",
+        "144.5"
+      ],
+      "dataFile": "data/companion/144.json"
+    },
+    {
+      "id": "145",
+      "title": "Linear combinations and span",
+      "chapterTitle": "5. Linear Algebra",
+      "section": "Vector Spaces ▷ Linear Combinations",
+      "terms": "linear combination; span; spanning set; trivial linear combination.",
+      "reference": "Book pp. 196-197.",
+      "sourcePage": 295,
+      "chapterId": "chapter-5",
+      "problemIds": [
+        "145.1",
+        "145.2",
+        "145.3",
+        "145.4",
+        "145.5"
+      ],
+      "dataFile": "data/companion/145.json"
+    },
+    {
+      "id": "146",
+      "title": "Linear independence and dependence",
+      "chapterTitle": "5. Linear Algebra",
+      "section": "Vector Spaces ▷ Linear Independence",
+      "terms": "linearly independent; linearly dependent; dependence relation; redundant vector.",
+      "reference": "Book pp. 196-197.",
+      "sourcePage": 297,
+      "chapterId": "chapter-5",
+      "problemIds": [
+        "146.1",
+        "146.2",
+        "146.3",
+        "146.4",
+        "146.5"
+      ],
+      "dataFile": "data/companion/146.json"
+    },
+    {
+      "id": "147",
+      "title": "Basis, dimension, and minimal spanning sets",
+      "chapterTitle": "5. Linear Algebra",
+      "section": "Vector Spaces ▷ Bases and Dimension",
+      "terms": "basis; minimal spanning set; dimension; finite-dimensional space; infinite-dimensional space; basis extension.",
+      "reference": "Book pp. 197-198.",
+      "sourcePage": 299,
+      "chapterId": "chapter-5",
+      "problemIds": [
+        "147.1",
+        "147.2",
+        "147.3",
+        "147.4",
+        "147.5"
+      ],
+      "dataFile": "data/companion/147.json"
+    },
+    {
+      "id": "148",
+      "title": "Rank, column space, and row space",
+      "chapterTitle": "5. Linear Algebra",
+      "section": "Vector Spaces ▷ The Rank, Column Space, and Row Space",
+      "terms": "rank; row rank; column rank; row space; column space; pivot column; full rank.",
+      "reference": "Book pp. 198-200.",
+      "sourcePage": 301,
+      "chapterId": "chapter-5",
+      "problemIds": [
+        "148.1",
+        "148.2",
+        "148.3",
+        "148.4",
+        "148.5"
+      ],
+      "dataFile": "data/companion/148.json"
+    },
+    {
+      "id": "149",
+      "title": "Polynomial, function, and matrix spaces",
+      "chapterTitle": "5. Linear Algebra",
+      "section": "Vector Spaces ▷ Other Vector Spaces",
+      "terms": "polynomial space; function space; bounded functions; continuous functions; differentiable functions; matrix vector space; matrix units.",
+      "reference": "Book pp. 200.",
+      "sourcePage": 303,
+      "chapterId": "chapter-5",
+      "problemIds": [
+        "149.1",
+        "149.2",
+        "149.3",
+        "149.4",
+        "149.5",
+        "149.6"
+      ],
+      "dataFile": "data/companion/149.json"
+    },
+    {
+      "id": "150",
+      "title": "Permutation signs and determinant definition",
+      "chapterTitle": "5. Linear Algebra",
+      "section": "Determinants ▷ Permutations and the Defining Formula",
+      "terms": "determinant; permutation; transposition; even permutation; odd permutation; sign of a permutation; Leibniz determinant formula.",
+      "reference": "Book pp. 200-202.",
+      "sourcePage": 305,
+      "chapterId": "chapter-5",
+      "problemIds": [
+        "150.1",
+        "150.2",
+        "150.3",
+        "150.4",
+        "150.5"
+      ],
+      "dataFile": "data/companion/150.json"
+    },
+    {
+      "id": "151",
+      "title": "Determinant laws and row operations",
+      "chapterTitle": "5. Linear Algebra",
+      "section": "Determinants ▷ Properties and Elimination",
+      "terms": "determinant multilinearity; alternating determinant; determinant row operations; trian- gular determinant; determinant of a product; determinant scaling; determinant of a transpose.",
+      "reference": "Book pp. 202-204.",
+      "sourcePage": 307,
+      "chapterId": "chapter-5",
+      "problemIds": [
+        "151.1",
+        "151.2",
+        "151.3",
+        "151.4",
+        "151.5"
+      ],
+      "dataFile": "data/companion/151.json"
+    },
+    {
+      "id": "152",
+      "title": "Minors, cofactors, and Laplace expansion",
+      "chapterTitle": "5. Linear Algebra",
+      "section": "Determinants ▷ Laplace Expansions",
+      "terms": "minor; cofactor; Laplace expansion; cofactor expansion; determinant test for collinearity.",
+      "reference": "Book pp. 204-205; 217.",
+      "sourcePage": 309,
+      "chapterId": "chapter-5",
+      "problemIds": [
+        "152.1",
+        "152.2",
+        "152.3",
+        "152.4",
+        "152.5",
+        "152.6"
+      ],
+      "dataFile": "data/companion/152.json"
+    },
+    {
+      "id": "153",
+      "title": "Adjugate and the invertibility criterion",
+      "chapterTitle": "5. Linear Algebra",
+      "section": "Determinants ▷ The Adjugate Matrix",
+      "terms": "adjugate; classical adjoint; cofactor matrix; adjugate inverse formula; determinant crite- rion for invertibility.",
+      "reference": "Book pp. 205-206.",
+      "sourcePage": 311,
+      "chapterId": "chapter-5",
+      "problemIds": [
+        "153.1",
+        "153.2",
+        "153.3",
+        "153.4",
+        "153.5"
+      ],
+      "dataFile": "data/companion/153.json"
+    },
+    {
+      "id": "154",
+      "title": "Cramer’s rule and a selected unknown",
+      "chapterTitle": "5. Linear Algebra",
+      "section": "Determinants ▷ Cramer’s Rule",
+      "terms": "Cramer rule; column replacement determinant.",
+      "reference": "Book pp. 206-207.",
+      "sourcePage": 313,
+      "chapterId": "chapter-5",
+      "problemIds": [
+        "154.1",
+        "154.2",
+        "154.3",
+        "154.4",
+        "154.5"
+      ],
+      "dataFile": "data/companion/154.json"
+    },
+    {
+      "id": "155",
+      "title": "Linear transformations and coordinates in a basis",
+      "chapterTitle": "5. Linear Algebra",
+      "section": "Linear Transformations ▷ Linearity and Component Vectors",
+      "terms": "linear transformation; linear map; linear operator; component vector; coordinate vector; image of a basis.",
+      "reference": "Book pp. 207-208.",
+      "sourcePage": 315,
+      "chapterId": "chapter-5",
+      "problemIds": [
+        "155.1",
+        "155.2",
+        "155.3",
+        "155.4",
+        "155.5"
+      ],
+      "dataFile": "data/companion/155.json"
+    },
+    {
+      "id": "156",
+      "title": "Matrix representation of a linear map",
+      "chapterTitle": "5. Linear Algebra",
+      "section": "Linear Transformations ▷ Standard Matrix Representative",
+      "terms": "standard basis; standard matrix; matrix representative; column image rule.",
+      "reference": "Book pp. 208.",
+      "sourcePage": 317,
+      "chapterId": "chapter-5",
+      "problemIds": [
+        "156.1",
+        "156.2",
+        "156.3",
+        "156.4",
+        "156.5",
+        "156.6"
+      ],
+      "dataFile": "data/companion/156.json"
+    },
+    {
+      "id": "157",
+      "title": "Kernel, image, and rank-nullity",
+      "chapterTitle": "5. Linear Algebra",
+      "section": "Linear Transformations ▷ The Rank Plus Nullity Theorem",
+      "terms": "kernel; range; image; nullity; rank-nullity theorem; injective linear map; surjective linear map; isomorphism.",
+      "reference": "Book pp. 208-209.",
+      "sourcePage": 319,
+      "chapterId": "chapter-5",
+      "problemIds": [
+        "157.1",
+        "157.2",
+        "157.3",
+        "157.4",
+        "157.5"
+      ],
+      "dataFile": "data/companion/157.json"
+    },
+    {
+      "id": "158",
+      "title": "Composition and inverse transformations",
+      "chapterTitle": "5. Linear Algebra",
+      "section": "Linear Transformations ▷ A Note on Inverses and Compositions",
+      "terms": "composition of linear maps; inverse linear transformation; matrix order in composition.",
+      "reference": "Book pp. 209.",
+      "sourcePage": 321,
+      "chapterId": "chapter-5",
+      "problemIds": [
+        "158.1",
+        "158.2",
+        "158.3",
+        "158.4",
+        "158.5"
+      ],
+      "dataFile": "data/companion/158.json"
+    },
+    {
+      "id": "159",
+      "title": "Eigenvalues, eigenvectors, and characteristic polynomial",
+      "chapterTitle": "5. Linear Algebra",
+      "section": "Eigenvalues and Eigenvectors ▷ Characteristic Equation",
+      "terms": "eigenvalue; characteristic value; eigenvector; characteristic vector; characteristic polyno- mial; characteristic equation.",
+      "reference": "Book pp. 209-210.",
+      "sourcePage": 323,
+      "chapterId": "chapter-5",
+      "problemIds": [
+        "159.1",
+        "159.2",
+        "159.3",
+        "159.4",
+        "159.5"
+      ],
+      "dataFile": "data/companion/159.json"
+    },
+    {
+      "id": "160",
+      "title": "Trace and eigenvalue sums and products",
+      "chapterTitle": "5. Linear Algebra",
+      "section": "Eigenvalues and Eigenvectors ▷ Trace and Determinant",
+      "terms": "trace; sum of eigenvalues; product of eigenvalues; algebraic multiplicity; two-by-two characteristic polynomial.",
+      "reference": "Book pp. 211.",
+      "sourcePage": 325,
+      "chapterId": "chapter-5",
+      "problemIds": [
+        "160.1",
+        "160.2",
+        "160.3",
+        "160.4",
+        "160.5"
+      ],
+      "dataFile": "data/companion/160.json"
+    },
+    {
+      "id": "161",
+      "title": "Eigenspaces and geometric multiplicity",
+      "chapterTitle": "5. Linear Algebra",
+      "section": "Eigenvalues and Eigenvectors ▷ Eigenspaces",
+      "terms": "eigenspace; geometric multiplicity; zero eigenspace; independent eigenvectors.",
+      "reference": "Book pp. 212.",
+      "sourcePage": 327,
+      "chapterId": "chapter-5",
+      "problemIds": [
+        "161.1",
+        "161.2",
+        "161.3",
+        "161.4",
+        "161.5"
+      ],
+      "dataFile": "data/companion/161.json"
+    },
+    {
+      "id": "162",
+      "title": "Cayley–Hamilton theorem",
+      "chapterTitle": "5. Linear Algebra",
+      "section": "The Cayley-Hamilton Theorem ▷ Reducing Matrix Powers",
+      "terms": "Cayley-Hamilton theorem; characteristic identity; reduction of matrix powers.",
+      "reference": "Book pp. 213.",
+      "sourcePage": 329,
+      "chapterId": "chapter-5",
+      "problemIds": [
+        "162.1",
+        "162.2",
+        "162.3",
+        "162.4",
+        "162.5"
+      ],
+      "dataFile": "data/companion/162.json"
+    },
+    {
+      "id": "163",
+      "title": "Nilpotent and involutory matrices",
+      "chapterTitle": "5. Linear Algebra",
+      "section": "Chapter 5 Review Questions ▷ Counterexamples to Scalar Rules",
+      "terms": "nilpotent matrix; nilpotency index; involutory matrix; matrix cancellation failure; zero divisor.",
+      "reference": "Book pp. 214.",
+      "sourcePage": 331,
+      "chapterId": "chapter-5",
+      "problemIds": [
+        "163.1",
+        "163.2",
+        "163.3",
+        "163.4",
+        "163.5",
+        "163.6"
+      ],
+      "dataFile": "data/companion/163.json"
+    },
+    {
+      "id": "164",
+      "title": "Symmetric and skew-symmetric matrices",
+      "chapterTitle": "5. Linear Algebra",
+      "section": "Chapter 5 Review Questions ▷ Symmetric Matrix Spaces",
+      "terms": "symmetric matrix; skew-symmetric matrix; symmetric matrix space; dimension of sym- metric matrices.",
+      "reference": "Book pp. 216.",
+      "sourcePage": 333,
+      "chapterId": "chapter-5",
+      "problemIds": [
+        "164.1",
+        "164.2",
+        "164.3",
+        "164.4",
+        "164.5",
+        "164.6"
+      ],
+      "dataFile": "data/companion/164.json"
+    },
+    {
+      "id": "165",
+      "title": "Rotation and reflection operators",
+      "chapterTitle": "5. Linear Algebra",
+      "section": "Chapter 5 Review Questions ▷ Rotations and Reflections",
+      "terms": "rotation matrix; reflection matrix; orthogonal transformation; orientation-preserving map; orientation-reversing map.",
+      "reference": "Book pp. 217.",
+      "sourcePage": 335,
+      "chapterId": "chapter-5",
+      "problemIds": [
+        "165.1",
+        "165.2",
+        "165.3",
+        "165.4",
+        "165.5"
+      ],
+      "dataFile": "data/companion/165.json"
+    },
+    {
+      "id": "166",
+      "title": "Cross-product linear operators",
+      "chapterTitle": "5. Linear Algebra",
+      "section": "Chapter 5 Review Questions ▷ The Cross Product as a Linear Map",
+      "terms": "cross-product matrix; cross-product linear map; skew-symmetric operator.",
+      "reference": "Book pp. 218.",
+      "sourcePage": 337,
+      "chapterId": "chapter-5",
+      "problemIds": [
+        "166.1",
+        "166.2",
+        "166.3",
+        "166.4",
+        "166.5",
+        "166.6"
+      ],
+      "dataFile": "data/companion/166.json"
+    },
+    {
+      "id": "167",
+      "title": "Divisibility, parity, primes, and coprimality",
+      "chapterTitle": "6. Number Theory and Abstract Algebra",
+      "section": "Part A: Number Theory ▷ Divisibility",
+      "terms": "divides; divisor; factor; multiple; even; odd; prime; composite; relatively prime; pairwise relatively prime; divisibility tests; square-free integer.",
+      "reference": "Book pp. 220-221.",
+      "sourcePage": 339,
+      "chapterId": "chapter-6",
+      "problemIds": [
+        "167.1",
+        "167.2",
+        "167.3",
+        "167.4",
+        "167.5"
+      ],
+      "dataFile": "data/companion/167.json"
+    },
+    {
+      "id": "168",
+      "title": "Quotient and remainder",
+      "chapterTitle": "6. Number Theory and Abstract Algebra",
+      "section": "Part A: Number Theory ▷ The Division Algorithm",
+      "terms": "division algorithm; quotient; remainder; floor function.",
+      "reference": "Book pp. 221.",
+      "sourcePage": 341,
+      "chapterId": "chapter-6",
+      "problemIds": [
+        "168.1",
+        "168.2",
+        "168.3",
+        "168.4",
+        "168.5"
+      ],
+      "dataFile": "data/companion/168.json"
+    },
+    {
+      "id": "169",
+      "title": "Prime factorization and the distribution of primes",
+      "chapterTitle": "6. Number Theory and Abstract Algebra",
+      "section": "Part A: Number Theory ▷ Primes",
+      "terms": "fundamental theorem of arithmetic; prime factorization; prime-counting function; prime number theorem; Bertrand postulate; prime gaps; prime-adic valuation; factorial trailing zeros.",
+      "reference": "Book pp. 221.",
+      "sourcePage": 342,
+      "chapterId": "chapter-6",
+      "problemIds": [
+        "169.1",
+        "169.2",
+        "169.3",
+        "169.4",
+        "169.5",
+        "169.6",
+        "169.7"
+      ],
+      "dataFile": "data/companion/169.json"
+    },
+    {
+      "id": "170",
+      "title": "GCD, LCM, Euclid, and Bezout",
+      "chapterTitle": "6. Number Theory and Abstract Algebra",
+      "section": "Part A: Number Theory ▷ The Greatest Common Divisor and the Least Common Multiple; The Euclidean",
+      "terms": "greatest common divisor; least common multiple; Euclidean algorithm; Bezout identity; extended Euclidean algorithm.",
+      "reference": "Book pp. 221-223.",
+      "sourcePage": 344,
+      "chapterId": "chapter-6",
+      "problemIds": [
+        "170.1",
+        "170.2",
+        "170.3",
+        "170.4",
+        "170.5"
+      ],
+      "dataFile": "data/companion/170.json"
+    },
+    {
+      "id": "171",
+      "title": "Linear Diophantine equations",
+      "chapterTitle": "6. Number Theory and Abstract Algebra",
+      "section": "Part A: Number Theory ▷ The Diophantine Equation ax + by = c",
+      "terms": "Diophantine equation; integer solution; linear Diophantine equation; Fermat last theo- rem.",
+      "reference": "Book pp. 223-224.",
+      "sourcePage": 346,
+      "chapterId": "chapter-6",
+      "problemIds": [
+        "171.1",
+        "171.2",
+        "171.3",
+        "171.4",
+        "171.5",
+        "171.6"
+      ],
+      "dataFile": "data/companion/171.json"
+    },
+    {
+      "id": "172",
+      "title": "Congruence arithmetic and valid cancellation",
+      "chapterTitle": "6. Number Theory and Abstract Algebra",
+      "section": "Part A: Number Theory ▷ Congruences",
+      "terms": "congruence; modulus; residue class; modular arithmetic; cancellation modulo n; Chinese remainder theorem.",
+      "reference": "Book pp. 225.",
+      "sourcePage": 348,
+      "chapterId": "chapter-6",
+      "problemIds": [
+        "172.1",
+        "172.2",
+        "172.3",
+        "172.4",
+        "172.5"
+      ],
+      "dataFile": "data/companion/172.json"
+    },
+    {
+      "id": "173",
+      "title": "Fermat, Euler, and modular powers",
+      "chapterTitle": "6. Number Theory and Abstract Algebra",
+      "section": "Part A: Number Theory ▷ Congruences",
+      "terms": "Fermat little theorem; Euler totient function; Euler theorem; modular exponentiation.",
+      "reference": "Book pp. 225.",
+      "sourcePage": 350,
+      "chapterId": "chapter-6",
+      "problemIds": [
+        "173.1",
+        "173.2",
+        "173.3",
+        "173.4",
+        "173.5"
+      ],
+      "dataFile": "data/companion/173.json"
+    },
+    {
+      "id": "174",
+      "title": "Linear congruences and solution counts",
+      "chapterTitle": "6. Number Theory and Abstract Algebra",
+      "section": "Part A: Number Theory ▷ The Congruence Equation ax = b (mod n)",
+      "terms": "linear congruence; modular inverse; number of congruence solutions.",
+      "reference": "Book pp. 226.",
+      "sourcePage": 351,
+      "chapterId": "chapter-6",
+      "problemIds": [
+        "174.1",
+        "174.2",
+        "174.3",
+        "174.4",
+        "174.5"
+      ],
+      "dataFile": "data/companion/174.json"
+    },
+    {
+      "id": "175",
+      "title": "Binary operations, semigroups, and monoids",
+      "chapterTitle": "6. Number Theory and Abstract Algebra",
+      "section": "Part B: Abstract Algebra ▷ Binary Structures and the Definition of a Group",
+      "terms": "binary operation; closure; associativity; binary structure; semigroup; monoid; identity.",
+      "reference": "Book pp. 227-228.",
+      "sourcePage": 352,
+      "chapterId": "chapter-6",
+      "problemIds": [
+        "175.1",
+        "175.2",
+        "175.3",
+        "175.4",
+        "175.5"
+      ],
+      "dataFile": "data/companion/175.json"
+    },
+    {
+      "id": "176",
+      "title": "Groups, inverses, and commutativity",
+      "chapterTitle": "6. Number Theory and Abstract Algebra",
+      "section": "Part B: Abstract Algebra ▷ Binary Structures and the Definition of a Group",
+      "terms": "group; inverse; Abelian group; commutative operation; finite group; infinite group; group order; cancellation law.",
+      "reference": "Book pp. 228-229.",
+      "sourcePage": 354,
+      "chapterId": "chapter-6",
+      "problemIds": [
+        "176.1",
+        "176.2",
+        "176.3",
+        "176.4",
+        "176.5",
+        "176.6"
+      ],
+      "dataFile": "data/companion/176.json"
+    },
+    {
+      "id": "177",
+      "title": "General and special linear groups",
+      "chapterTitle": "6. Number Theory and Abstract Algebra",
+      "section": "Part B: Abstract Algebra ▷ Examples of Groups",
+      "terms": "general linear group; special linear group; matrix group; GL(n,F); SL(n,F); unimodular matrix.",
+      "reference": "Book pp. 229.",
+      "sourcePage": 356,
+      "chapterId": "chapter-6",
+      "problemIds": [
+        "177.1",
+        "177.2",
+        "177.3",
+        "177.4",
+        "177.5"
+      ],
+      "dataFile": "data/companion/177.json"
+    },
+    {
+      "id": "178",
+      "title": "Roots of unity as a finite group",
+      "chapterTitle": "6. Number Theory and Abstract Algebra",
+      "section": "Part B: Abstract Algebra ▷ Examples of Groups",
+      "terms": "root of unity; primitive root of unity; multiplicative roots-of-unity group.",
+      "reference": "Book pp. 229.",
+      "sourcePage": 358,
+      "chapterId": "chapter-6",
+      "problemIds": [
+        "178.1",
+        "178.2",
+        "178.3",
+        "178.4",
+        "178.5"
+      ],
+      "dataFile": "data/companion/178.json"
+    },
+    {
+      "id": "179",
+      "title": "Permutations and cycle decompositions",
+      "chapterTitle": "6. Number Theory and Abstract Algebra",
+      "section": "Part B: Abstract Algebra ▷ Examples of Groups",
+      "terms": "permutation; symmetric group; cycle notation; disjoint cycles; transposition; permutation order.",
+      "reference": "Book pp. 229; 327.",
+      "sourcePage": 359,
+      "chapterId": "chapter-6",
+      "problemIds": [
+        "179.1",
+        "179.2",
+        "179.3",
+        "179.4",
+        "179.5"
+      ],
+      "dataFile": "data/companion/179.json"
+    },
+    {
+      "id": "180",
+      "title": "Dihedral groups and geometric symmetry",
+      "chapterTitle": "6. Number Theory and Abstract Algebra",
+      "section": "Part B: Abstract Algebra ▷ Examples of Groups",
+      "terms": "dihedral group; rotation; reflection; symmetry group.",
+      "reference": "Book pp. 229.",
+      "sourcePage": 361,
+      "chapterId": "chapter-6",
+      "problemIds": [
+        "180.1",
+        "180.2",
+        "180.3",
+        "180.4",
+        "180.5"
+      ],
+      "dataFile": "data/companion/180.json"
+    },
+    {
+      "id": "181",
+      "title": "Residue groups and multiplication tables",
+      "chapterTitle": "6. Number Theory and Abstract Algebra",
+      "section": "Part B: Abstract Algebra ▷ Examples of Groups",
+      "terms": "additive group modulo n; unit group modulo n; multiplication table; group table; Cayley table.",
+      "reference": "Book pp. 230-231.",
+      "sourcePage": 362,
+      "chapterId": "chapter-6",
+      "problemIds": [
+        "181.1",
+        "181.2",
+        "181.3",
+        "181.4",
+        "181.5"
+      ],
+      "dataFile": "data/companion/181.json"
+    },
+    {
+      "id": "182",
+      "title": "Cyclic groups and generators",
+      "chapterTitle": "6. Number Theory and Abstract Algebra",
+      "section": "Part B: Abstract Algebra ▷ Cyclic Groups",
+      "terms": "cyclic group; generator; infinite cyclic group; Klein four-group.",
+      "reference": "Book pp. 231-232.",
+      "sourcePage": 364,
+      "chapterId": "chapter-6",
+      "problemIds": [
+        "182.1",
+        "182.2",
+        "182.3",
+        "182.4",
+        "182.5"
+      ],
+      "dataFile": "data/companion/182.json"
+    },
+    {
+      "id": "183",
+      "title": "Subgroups and the center",
+      "chapterTitle": "6. Number Theory and Abstract Algebra",
+      "section": "Part B: Abstract Algebra ▷ Subgroups",
+      "terms": "subgroup; proper subgroup; trivial subgroup; subgroup test; center of a group.",
+      "reference": "Book pp. 232-233.",
+      "sourcePage": 366,
+      "chapterId": "chapter-6",
+      "problemIds": [
+        "183.1",
+        "183.2",
+        "183.3",
+        "183.4",
+        "183.5",
+        "183.6"
+      ],
+      "dataFile": "data/companion/183.json"
+    },
+    {
+      "id": "184",
+      "title": "Element order and generated subgroups",
+      "chapterTitle": "6. Number Theory and Abstract Algebra",
+      "section": "Part B: Abstract Algebra ▷ Cyclic Subgroups",
+      "terms": "order of an element; cyclic subgroup; generated subgroup; finitely generated group; group exponent.",
+      "reference": "Book pp. 233-234.",
+      "sourcePage": 368,
+      "chapterId": "chapter-6",
+      "problemIds": [
+        "184.1",
+        "184.2",
+        "184.3",
+        "184.4",
+        "184.5"
+      ],
+      "dataFile": "data/companion/184.json"
+    },
+    {
+      "id": "185",
+      "title": "Group presentations and word reduction",
+      "chapterTitle": "6. Number Theory and Abstract Algebra",
+      "section": "Part B: Abstract Algebra ▷ Generators and Relations",
+      "terms": "group presentation; generators and relations; defining relation; word in generators.",
+      "reference": "Book pp. 233-234.",
+      "sourcePage": 370,
+      "chapterId": "chapter-6",
+      "problemIds": [
+        "185.1",
+        "185.2",
+        "185.3",
+        "185.4",
+        "185.5"
+      ],
+      "dataFile": "data/companion/185.json"
+    },
+    {
+      "id": "186",
+      "title": "Lagrange, Cauchy, and Sylow existence",
+      "chapterTitle": "6. Number Theory and Abstract Algebra",
+      "section": "Part B: Abstract Algebra ▷ Some Theorems Concerning Subgroups",
+      "terms": "Lagrange theorem; Cauchy theorem; Sylow first theorem; Sylow subgroup; subgroup order; index of a subgroup.",
+      "reference": "Book pp. 234-235.",
+      "sourcePage": 371,
+      "chapterId": "chapter-6",
+      "problemIds": [
+        "186.1",
+        "186.2",
+        "186.3",
+        "186.4",
+        "186.5"
+      ],
+      "dataFile": "data/companion/186.json"
+    },
+    {
+      "id": "187",
+      "title": "Isomorphism and structural invariants",
+      "chapterTitle": "6. Number Theory and Abstract Algebra",
+      "section": "Part B: Abstract Algebra ▷ The Concept of Isomorphism",
+      "terms": "isomorphism; isomorphic groups; structural invariant; nonisomorphic groups.",
+      "reference": "Book pp. 235-237.",
+      "sourcePage": 373,
+      "chapterId": "chapter-6",
+      "problemIds": [
+        "187.1",
+        "187.2",
+        "187.3",
+        "187.4",
+        "187.5"
+      ],
+      "dataFile": "data/companion/187.json"
+    },
+    {
+      "id": "188",
+      "title": "Direct products, direct sums, and element orders",
+      "chapterTitle": "6. Number Theory and Abstract Algebra",
+      "section": "Part B: Abstract Algebra ▷ The Classification of Finite Abelian Groups",
+      "terms": "direct product of groups; finite direct sum; coordinatewise operation; order in a direct product; cyclic product criterion.",
+      "reference": "Book pp. 237-240.",
+      "sourcePage": 375,
+      "chapterId": "chapter-6",
+      "problemIds": [
+        "188.1",
+        "188.2",
+        "188.3",
+        "188.4",
+        "188.5"
+      ],
+      "dataFile": "data/companion/188.json"
+    },
+    {
+      "id": "189",
+      "title": "Elementary divisors and invariant factors",
+      "chapterTitle": "6. Number Theory and Abstract Algebra",
+      "section": "Part B: Abstract Algebra ▷ The Classification of Finite Abelian Groups",
+      "terms": "fundamental theorem of finite Abelian groups; elementary divisors; invariant factors; integer partitions; finite Abelian group classification.",
+      "reference": "Book pp. 238-240.",
+      "sourcePage": 377,
+      "chapterId": "chapter-6",
+      "problemIds": [
+        "189.1",
+        "189.2",
+        "189.3",
+        "189.4",
+        "189.5"
+      ],
+      "dataFile": "data/companion/189.json"
+    },
+    {
+      "id": "190",
+      "title": "Homomorphisms and maps from cyclic groups",
+      "chapterTitle": "6. Number Theory and Abstract Algebra",
+      "section": "Part B: Abstract Algebra ▷ Group Homomorphisms",
+      "terms": "group homomorphism; monomorphism; epimorphism; endomorphism; automorphism; homomorphic image.",
+      "reference": "Book pp. 240-242.",
+      "sourcePage": 379,
+      "chapterId": "chapter-6",
+      "problemIds": [
+        "190.1",
+        "190.2",
+        "190.3",
+        "190.4",
+        "190.5",
+        "190.6",
+        "190.7"
+      ],
+      "dataFile": "data/companion/190.json"
+    },
+    {
+      "id": "191",
+      "title": "Kernels and normal subgroups",
+      "chapterTitle": "6. Number Theory and Abstract Algebra",
+      "section": "Part B: Abstract Algebra ▷ Group Homomorphisms",
+      "terms": "kernel of a group homomorphism; normal subgroup; conjugation; trivial kernel; fiber of a homomorphism.",
+      "reference": "Book pp. 241-243.",
+      "sourcePage": 381,
+      "chapterId": "chapter-6",
+      "problemIds": [
+        "191.1",
+        "191.2",
+        "191.3",
+        "191.4",
+        "191.5",
+        "191.6"
+      ],
+      "dataFile": "data/companion/191.json"
+    },
+    {
+      "id": "192",
+      "title": "Inner automorphisms and automorphism groups",
+      "chapterTitle": "6. Number Theory and Abstract Algebra",
+      "section": "Part B: Abstract Algebra ▷ Group Homomorphisms",
+      "terms": "inner automorphism; automorphism group; inner automorphism group; conjugation map.",
+      "reference": "Book pp. 243-244.",
+      "sourcePage": 383,
+      "chapterId": "chapter-6",
+      "problemIds": [
+        "192.1",
+        "192.2",
+        "192.3",
+        "192.4",
+        "192.5"
+      ],
+      "dataFile": "data/companion/192.json"
+    },
+    {
+      "id": "193",
+      "title": "Rings, unity, and subrings",
+      "chapterTitle": "6. Number Theory and Abstract Algebra",
+      "section": "Part B: Abstract Algebra ▷ Rings",
+      "terms": "ring; commutative ring; ring with unity; subring; distributive laws; additive identity; multiplicative identity.",
+      "reference": "Book pp. 244-245.",
+      "sourcePage": 385,
+      "chapterId": "chapter-6",
+      "problemIds": [
+        "193.1",
+        "193.2",
+        "193.3",
+        "193.4",
+        "193.5"
+      ],
+      "dataFile": "data/companion/193.json"
+    },
+    {
+      "id": "194",
+      "title": "Ring characteristic",
+      "chapterTitle": "6. Number Theory and Abstract Algebra",
+      "section": "Part B: Abstract Algebra ▷ Rings",
+      "terms": "characteristic of a ring; prime characteristic; characteristic zero; additive order of unity.",
+      "reference": "Book pp. 245; 247.",
+      "sourcePage": 387,
+      "chapterId": "chapter-6",
+      "problemIds": [
+        "194.1",
+        "194.2",
+        "194.3",
+        "194.4",
+        "194.5"
+      ],
+      "dataFile": "data/companion/194.json"
+    },
+    {
+      "id": "195",
+      "title": "Polynomial, Gaussian-integer, and function rings",
+      "chapterTitle": "6. Number Theory and Abstract Algebra",
+      "section": "Part B: Abstract Algebra ▷ Rings",
+      "terms": "polynomial ring; indeterminate; Gaussian integer; quadratic integer ring; pointwise addition; pointwise multiplication; function ring.",
+      "reference": "Book pp. 245-246.",
+      "sourcePage": 389,
+      "chapterId": "chapter-6",
+      "problemIds": [
+        "195.1",
+        "195.2",
+        "195.3",
+        "195.4",
+        "195.5",
+        "195.6"
+      ],
+      "dataFile": "data/companion/195.json"
+    },
+    {
+      "id": "196",
+      "title": "Nilpotent elements",
+      "chapterTitle": "6. Number Theory and Abstract Algebra",
+      "section": "Part B: Abstract Algebra ▷ Rings",
+      "terms": "nilpotent element; nilpotency index; sum of commuting nilpotents.",
+      "reference": "Book pp. 246-247.",
+      "sourcePage": 391,
+      "chapterId": "chapter-6",
+      "problemIds": [
+        "196.1",
+        "196.2",
+        "196.3",
+        "196.4",
+        "196.5"
+      ],
+      "dataFile": "data/companion/196.json"
+    },
+    {
+      "id": "197",
+      "title": "Ring homomorphisms and evaluation",
+      "chapterTitle": "6. Number Theory and Abstract Algebra",
+      "section": "Part B: Abstract Algebra ▷ Ring Homomorphisms",
+      "terms": "ring homomorphism; ring endomorphism; evaluation homomorphism; substitution homo- morphism; kernel of a ring homomorphism; unital homomorphism.",
+      "reference": "Book pp. 247-249.",
+      "sourcePage": 393,
+      "chapterId": "chapter-6",
+      "problemIds": [
+        "197.1",
+        "197.2",
+        "197.3",
+        "197.4",
+        "197.5"
+      ],
+      "dataFile": "data/companion/197.json"
+    },
+    {
+      "id": "198",
+      "title": "Frobenius endomorphism",
+      "chapterTitle": "6. Number Theory and Abstract Algebra",
+      "section": "Part B: Abstract Algebra ▷ Ring Homomorphisms",
+      "terms": "Frobenius endomorphism; freshman dream in prime characteristic.",
+      "reference": "Book pp. 248-249.",
+      "sourcePage": 395,
+      "chapterId": "chapter-6",
+      "problemIds": [
+        "198.1",
+        "198.2",
+        "198.3",
+        "198.4",
+        "198.5",
+        "198.6"
+      ],
+      "dataFile": "data/companion/198.json"
+    },
+    {
+      "id": "199",
+      "title": "Ideals and absorption",
+      "chapterTitle": "6. Number Theory and Abstract Algebra",
+      "section": "Part B: Abstract Algebra ▷ Ring Homomorphisms",
+      "terms": "ideal; two-sided ideal; left ideal; right ideal; principal ideal; ideal generated by elements.",
+      "reference": "Book pp. 249-250.",
+      "sourcePage": 397,
+      "chapterId": "chapter-6",
+      "problemIds": [
+        "199.1",
+        "199.2",
+        "199.3",
+        "199.4",
+        "199.5"
+      ],
+      "dataFile": "data/companion/199.json"
+    },
+    {
+      "id": "200",
+      "title": "Zero divisors, cancellation, and integral domains",
+      "chapterTitle": "6. Number Theory and Abstract Algebra",
+      "section": "Part B: Abstract Algebra ▷ Integral Domains",
+      "terms": "zero divisor; left zero divisor; right zero divisor; integral domain; cancellation in a ring.",
+      "reference": "Book pp. 250-251.",
+      "sourcePage": 399,
+      "chapterId": "chapter-6",
+      "problemIds": [
+        "200.1",
+        "200.2",
+        "200.3",
+        "200.4",
+        "200.5"
+      ],
+      "dataFile": "data/companion/200.json"
+    },
+    {
+      "id": "201",
+      "title": "Units, division rings, fields, and finite domains",
+      "chapterTitle": "6. Number Theory and Abstract Algebra",
+      "section": "Part B: Abstract Algebra ▷ Fields",
+      "terms": "unit; division ring; field; subfield; finite field; quadratic field; quaternion division ring; strictly skew field.",
+      "reference": "Book pp. 251-253.",
+      "sourcePage": 401,
+      "chapterId": "chapter-6",
+      "problemIds": [
+        "201.1",
+        "201.2",
+        "201.3",
+        "201.4",
+        "201.5",
+        "201.6",
+        "201.7"
+      ],
+      "dataFile": "data/companion/201.json"
+    },
+    {
+      "id": "202",
+      "title": "Idempotents and Boolean rings",
+      "chapterTitle": "6. Number Theory and Abstract Algebra",
+      "section": "Part B: Abstract Algebra ▷ Fields",
+      "terms": "idempotent element; Boolean ring; orthogonal idempotents.",
+      "reference": "Book pp. 253; 256.",
+      "sourcePage": 403,
+      "chapterId": "chapter-6",
+      "problemIds": [
+        "202.1",
+        "202.2",
+        "202.3",
+        "202.4",
+        "202.5"
+      ],
+      "dataFile": "data/companion/202.json"
+    },
+    {
+      "id": "203",
+      "title": "Propositions and logical connectives",
+      "chapterTitle": "7. Additional Topics",
+      "section": "Logic ▷ Sentential Calculus",
+      "terms": "logic; sentential calculus; propositional calculus; sentence; proposition; negation; conjunc- tion; disjunction; conditional; biconditional; if and only if.",
+      "reference": "Book pp. 257-258.",
+      "sourcePage": 405,
+      "chapterId": "chapter-7",
+      "problemIds": [
+        "203.1",
+        "203.2",
+        "203.3",
+        "203.4",
+        "203.5"
+      ],
+      "dataFile": "data/companion/203.json"
+    },
+    {
+      "id": "204",
+      "title": "Truth tables, tautologies, and contraposition",
+      "chapterTitle": "7. Additional Topics",
+      "section": "Logic ▷ Logical Equivalences and Truth Tables",
+      "terms": "truth table; logical equivalence; tautology; contradiction; contrapositive; converse; inverse of an implication; De Morgan laws; distributive laws; excluded middle; quantifier negation.",
+      "reference": "Book pp. 258; 322-323; 327.",
+      "sourcePage": 407,
+      "chapterId": "chapter-7",
+      "problemIds": [
+        "204.1",
+        "204.2",
+        "204.3",
+        "204.4",
+        "204.5",
+        "204.6"
+      ],
+      "dataFile": "data/companion/204.json"
+    },
+    {
+      "id": "205",
+      "title": "Sets, subsets, and complements",
+      "chapterTitle": "7. Additional Topics",
+      "section": "Set Theory ▷ Subsets and Complements",
+      "terms": "set; element; membership; set-builder notation; family of sets; empty set; subset; proper subset; superset; universal set; complement; relative complement; set difference.",
+      "reference": "Book pp. 259.",
+      "sourcePage": 409,
+      "chapterId": "chapter-7",
+      "problemIds": [
+        "205.1",
+        "205.2",
+        "205.3",
+        "205.4",
+        "205.5"
+      ],
+      "dataFile": "data/companion/205.json"
+    },
+    {
+      "id": "206",
+      "title": "Unions, intersections, and symmetric difference",
+      "chapterTitle": "7. Additional Topics",
+      "section": "Set Theory ▷ Union and Intersection; Venn Diagrams",
+      "terms": "union; intersection; disjoint sets; symmetric difference; indexed family; indexed union; indexed intersection; Venn diagram; set De Morgan laws.",
+      "reference": "Book pp. 260; 263.",
+      "sourcePage": 410,
+      "chapterId": "chapter-7",
+      "problemIds": [
+        "206.1",
+        "206.2",
+        "206.3",
+        "206.4",
+        "206.5"
+      ],
+      "dataFile": "data/companion/206.json"
+    },
+    {
+      "id": "207",
+      "title": "Cartesian products and real intervals",
+      "chapterTitle": "7. Additional Topics",
+      "section": "Set Theory ▷ Cartesian Products; Intervals of the Real Line",
+      "terms": "Cartesian product; ordered pair; open interval; closed interval; half-open interval; un- bounded interval; extended real numbers.",
+      "reference": "Book pp. 260-262.",
+      "sourcePage": 412,
+      "chapterId": "chapter-7",
+      "problemIds": [
+        "207.1",
+        "207.2",
+        "207.3",
+        "207.4",
+        "207.5"
+      ],
+      "dataFile": "data/companion/207.json"
+    },
+    {
+      "id": "208",
+      "title": "Cardinality, countability, and algebraic numbers",
+      "chapterTitle": "7. Additional Topics",
+      "section": "Set Theory ▷ Cardinality",
+      "terms": "cardinality; equinumerous sets; bijection; finite set; infinite set; countably infinite; count- able set; aleph-null; algebraic number; countable union.",
+      "reference": "Book pp. 263-264.",
+      "sourcePage": 414,
+      "chapterId": "chapter-7",
+      "problemIds": [
+        "208.1",
+        "208.2",
+        "208.3",
+        "208.4",
+        "208.5"
+      ],
+      "dataFile": "data/companion/208.json"
+    },
+    {
+      "id": "209",
+      "title": "Power sets, uncountability, and the continuum",
+      "chapterTitle": "7. Additional Topics",
+      "section": "Set Theory ▷ Cardinality",
+      "terms": "power set; Cantor theorem; uncountable set; continuum; transcendental number; cardinal inequality; diagonal argument.",
+      "reference": "Book pp. 264-265.",
+      "sourcePage": 416,
+      "chapterId": "chapter-7",
+      "problemIds": [
+        "209.1",
+        "209.2",
+        "209.3",
+        "209.4",
+        "209.5",
+        "209.6"
+      ],
+      "dataFile": "data/companion/209.json"
+    },
+    {
+      "id": "210",
+      "title": "Simple graphs and vertex degrees",
+      "chapterTitle": "7. Additional Topics",
+      "section": "Graph Theory ▷ Vertices, Edges, and Degree",
+      "terms": "graph; vertex; edge; simple graph; undirected graph; adjacent vertices; degree; odd ver- tex; even vertex; complete graph; graph order; graph size; handshaking lemma; loop; graph complement; regular graph; graphical degree sequence.",
+      "reference": "Book pp. 265-266.",
+      "sourcePage": 418,
+      "chapterId": "chapter-7",
+      "problemIds": [
+        "210.1",
+        "210.2",
+        "210.3",
+        "210.4",
+        "210.5"
+      ],
+      "dataFile": "data/companion/210.json"
+    },
+    {
+      "id": "211",
+      "title": "Graph isomorphisms and incidence matrices",
+      "chapterTitle": "7. Additional Topics",
+      "section": "Graph Theory ▷ Graph Isomorphism; Review Matrices",
+      "terms": "graph isomorphism; adjacency preservation; adjacency matrix; incidence matrix; unori- ented incidence matrix; graph invariant.",
+      "reference": "Book pp. 266; 323; 326.",
+      "sourcePage": 420,
+      "chapterId": "chapter-7",
+      "problemIds": [
+        "211.1",
+        "211.2",
+        "211.3",
+        "211.4",
+        "211.5"
+      ],
+      "dataFile": "data/companion/211.json"
+    },
+    {
+      "id": "212",
+      "title": "Walks, circuits, trees, and spanning subgraphs",
+      "chapterTitle": "7. Additional Topics",
+      "section": "Graph Theory ▷ Paths, Trees, and Subgraphs",
+      "terms": "walk; trail; path; closed walk; circuit; cycle; connected graph; connected component; forest; tree; subgraph; spanning subgraph; spanning tree.",
+      "reference": "Book pp. 266; 319; 321; 327.",
+      "sourcePage": 422,
+      "chapterId": "chapter-7",
+      "problemIds": [
+        "212.1",
+        "212.2",
+        "212.3",
+        "212.4",
+        "212.5"
+      ],
+      "dataFile": "data/companion/212.json"
+    },
+    {
+      "id": "213",
+      "title": "Algorithms, loops, and invariants",
+      "chapterTitle": "7. Additional Topics",
+      "section": "Algorithms ▷ Tracing and Termination",
+      "terms": "algorithm; input; output; assignment; conditional branch; while loop; iteration; termina- tion; deterministic algorithm; loop invariant; Collatz iteration.",
+      "reference": "Book pp. 267; 321; 329.",
+      "sourcePage": 424,
+      "chapterId": "chapter-7",
+      "problemIds": [
+        "213.1",
+        "213.2",
+        "213.3",
+        "213.4",
+        "213.5"
+      ],
+      "dataFile": "data/companion/213.json"
+    },
+    {
+      "id": "214",
+      "title": "Sum and product counting principles",
+      "chapterTitle": "7. Additional Topics",
+      "section": "Combinatorics ▷ The Multiplication Principle",
+      "terms": "combinatorics; addition principle; multiplication principle; fundamental counting princi- ple; complementary counting.",
+      "reference": "Book pp. 267-268.",
+      "sourcePage": 426,
+      "chapterId": "chapter-7",
+      "problemIds": [
+        "214.1",
+        "214.2",
+        "214.3",
+        "214.4",
+        "214.5"
+      ],
+      "dataFile": "data/companion/214.json"
+    },
+    {
+      "id": "215",
+      "title": "Permutations, repeated symbols, and circular orders",
+      "chapterTitle": "7. Additional Topics",
+      "section": "Combinatorics ▷ Permutations and Combinations",
+      "terms": "permutation count; factorial; ordered selection; arrangement; permutation with repeated symbols; circular permutation.",
+      "reference": "Book pp. 268-269; 325; 328.",
+      "sourcePage": 428,
+      "chapterId": "chapter-7",
+      "problemIds": [
+        "215.1",
+        "215.2",
+        "215.3",
+        "215.4",
+        "215.5"
+      ],
+      "dataFile": "data/companion/215.json"
+    },
+    {
+      "id": "216",
+      "title": "Combinations, binomial coefficients, and partitions into teams",
+      "chapterTitle": "7. Additional Topics",
+      "section": "Combinatorics ▷ Permutations and Combinations",
+      "terms": "combination; binomial coefficient; binomial theorem; Pascal identity; multinomial coeffi- cient; labeled groups; unlabeled groups; multinomial theorem; hockey-stick identity.",
+      "reference": "Book pp. 269; 322; 326.",
+      "sourcePage": 430,
+      "chapterId": "chapter-7",
+      "problemIds": [
+        "216.1",
+        "216.2",
+        "216.3",
+        "216.4",
+        "216.5"
+      ],
+      "dataFile": "data/companion/216.json"
+    },
+    {
+      "id": "217",
+      "title": "Repetition and stars and bars",
+      "chapterTitle": "7. Additional Topics",
+      "section": "Combinatorics ▷ With Repetitions Allowed",
+      "terms": "ordered selection with repetition; combination with repetition; multiset selection; stars and bars; weak composition; positive composition.",
+      "reference": "Book pp. 270.",
+      "sourcePage": 432,
+      "chapterId": "chapter-7",
+      "problemIds": [
+        "217.1",
+        "217.2",
+        "217.3",
+        "217.4",
+        "217.5"
+      ],
+      "dataFile": "data/companion/217.json"
+    },
+    {
+      "id": "218",
+      "title": "Pigeonhole and averaging arguments",
+      "chapterTitle": "7. Additional Topics",
+      "section": "Combinatorics ▷ The Pigeonhole Principle",
+      "terms": "pigeonhole principle; generalized pigeonhole principle; residue-class pigeonholes; averag- ing principle.",
+      "reference": "Book pp. 271; 328.",
+      "sourcePage": 434,
+      "chapterId": "chapter-7",
+      "problemIds": [
+        "218.1",
+        "218.2",
+        "218.3",
+        "218.4",
+        "218.5"
+      ],
+      "dataFile": "data/companion/218.json"
+    },
+    {
+      "id": "219",
+      "title": "Equally likely outcomes and geometric probability",
+      "chapterTitle": "7. Additional Topics",
+      "section": "Probability and Statistics ▷ Elementary Probability",
+      "terms": "probability; favorable outcomes; equally likely outcomes; sampling without replacement; geometric probability; uniform distribution.",
+      "reference": "Book pp. 271-273.",
+      "sourcePage": 435,
+      "chapterId": "chapter-7",
+      "problemIds": [
+        "219.1",
+        "219.2",
+        "219.3",
+        "219.4",
+        "219.5"
+      ],
+      "dataFile": "data/companion/219.json"
+    },
+    {
+      "id": "220",
+      "title": "Sample spaces, events, and probability measures",
+      "chapterTitle": "7. Additional Topics",
+      "section": "Probability and Statistics ▷ Probability Spaces",
+      "terms": "sample space; outcome; event; algebra of sets; Boolean algebra of sets; sigma-algebra; probability measure; probability space; countable additivity.",
+      "reference": "Book pp. 273-274.",
+      "sourcePage": 436,
+      "chapterId": "chapter-7",
+      "problemIds": [
+        "220.1",
+        "220.2",
+        "220.3",
+        "220.4",
+        "220.5"
+      ],
+      "dataFile": "data/companion/220.json"
+    },
+    {
+      "id": "221",
+      "title": "Independence, exclusion, and inclusion-exclusion",
+      "chapterTitle": "7. Additional Topics",
+      "section": "Probability and Statistics ▷ Probability Spaces",
+      "terms": "independent events; mutually independent events; pairwise independence; mutually exclusive events; inclusion-exclusion; conditional probability; Bayes theorem; law of total probability.",
+      "reference": "Book pp. 274-275; 322; 327.",
+      "sourcePage": 438,
+      "chapterId": "chapter-7",
+      "problemIds": [
+        "221.1",
+        "221.2",
+        "221.3",
+        "221.4",
+        "221.5",
+        "221.6"
+      ],
+      "dataFile": "data/companion/221.json"
+    },
+    {
+      "id": "222",
+      "title": "Bernoulli trials and the binomial distribution",
+      "chapterTitle": "7. Additional Topics",
+      "section": "Probability and Statistics ▷ Bernoulli Trials",
+      "terms": "Bernoulli trial; success probability; failure probability; binomial distribution; binomial probability mass function; binomial mode.",
+      "reference": "Book pp. 276-277; 282.",
+      "sourcePage": 440,
+      "chapterId": "chapter-7",
+      "problemIds": [
+        "222.1",
+        "222.2",
+        "222.3",
+        "222.4",
+        "222.5"
+      ],
+      "dataFile": "data/companion/222.json"
+    },
+    {
+      "id": "223",
+      "title": "Random variables and cumulative distribution functions",
+      "chapterTitle": "7. Additional Topics",
+      "section": "Probability and Statistics ▷ Random Variables",
+      "terms": "random variable; measurability; distribution function; cumulative distribution function; CDF; discrete random variable; probability mass; atom; right continuity.",
+      "reference": "Book pp. 277-278.",
+      "sourcePage": 442,
+      "chapterId": "chapter-7",
+      "problemIds": [
+        "223.1",
+        "223.2",
+        "223.3",
+        "223.4",
+        "223.5",
+        "223.6"
+      ],
+      "dataFile": "data/companion/223.json"
+    },
+    {
+      "id": "224",
+      "title": "Densities and transformations of continuous variables",
+      "chapterTitle": "7. Additional Topics",
+      "section": "Probability and Statistics ▷ Random Variables",
+      "terms": "probability density function; absolutely continuous distribution; density normalization; exponential distribution; survival probability; transformed random variable.",
+      "reference": "Book pp. 278.",
+      "sourcePage": 444,
+      "chapterId": "chapter-7",
+      "problemIds": [
+        "224.1",
+        "224.2",
+        "224.3",
+        "224.4",
+        "224.5"
+      ],
+      "dataFile": "data/companion/224.json"
+    },
+    {
+      "id": "225",
+      "title": "Expectation, indicators, and moments",
+      "chapterTitle": "7. Additional Topics",
+      "section": "Probability and Statistics ▷ Expectation, Variance, and Standard Deviation",
+      "terms": "expectation; mean; expected value; linearity of expectation; indicator random variable; moment; law of the unconscious statistician.",
+      "reference": "Book pp. 279.",
+      "sourcePage": 446,
+      "chapterId": "chapter-7",
+      "problemIds": [
+        "225.1",
+        "225.2",
+        "225.3",
+        "225.4",
+        "225.5"
+      ],
+      "dataFile": "data/companion/225.json"
+    },
+    {
+      "id": "226",
+      "title": "Variance, standard deviation, covariance, and correlation",
+      "chapterTitle": "7. Additional Topics",
+      "section": "Probability and Statistics ▷ Expectation, Variance, and Standard Deviation",
+      "terms": "variance; standard deviation; second moment; covariance; correlation; variance under scaling.",
+      "reference": "Book pp. 279-280.",
+      "sourcePage": 448,
+      "chapterId": "chapter-7",
+      "problemIds": [
+        "226.1",
+        "226.2",
+        "226.3",
+        "226.4",
+        "226.5",
+        "226.6"
+      ],
+      "dataFile": "data/companion/226.json"
+    },
+    {
+      "id": "227",
+      "title": "Normal distributions and standardization",
+      "chapterTitle": "7. Additional Topics",
+      "section": "Probability and Statistics ▷ The Normal Distribution",
+      "terms": "normal distribution; Gaussian distribution; normal density; standard normal distribution; z-score; standardization; standard normal CDF.",
+      "reference": "Book pp. 280-281.",
+      "sourcePage": 450,
+      "chapterId": "chapter-7",
+      "problemIds": [
+        "227.1",
+        "227.2",
+        "227.3",
+        "227.4",
+        "227.5"
+      ],
+      "dataFile": "data/companion/227.json"
+    },
+    {
+      "id": "228",
+      "title": "Normal approximation and continuity correction",
+      "chapterTitle": "7. Additional Topics",
+      "section": "Probability and Statistics ▷ The Normal Approximation to the Binomial Distribution",
+      "terms": "normal approximation to binomial; continuity correction; binomial standard deviation; approximation regime.",
+      "reference": "Book pp. 282.",
+      "sourcePage": 452,
+      "chapterId": "chapter-7",
+      "problemIds": [
+        "228.1",
+        "228.2",
+        "228.3",
+        "228.4",
+        "228.5"
+      ],
+      "dataFile": "data/companion/228.json"
+    },
+    {
+      "id": "229",
+      "title": "Topology, open and closed sets, and neighborhoods",
+      "chapterTitle": "7. Additional Topics",
+      "section": "Point-Set Topology ▷ Introduction",
+      "terms": "topology; topological space; open set; closed set; neighborhood; standard topology.",
+      "reference": "Book pp. 283-284.",
+      "sourcePage": 454,
+      "chapterId": "chapter-7",
+      "problemIds": [
+        "229.1",
+        "229.2",
+        "229.3",
+        "229.4",
+        "229.5"
+      ],
+      "dataFile": "data/companion/229.json"
+    },
+    {
+      "id": "230",
+      "title": "Hausdorff separation",
+      "chapterTitle": "7. Additional Topics",
+      "section": "Point-Set Topology ▷ Introduction",
+      "terms": "Hausdorff space; separation of points; uniqueness of limits; T1 separation; cofinite topol- ogy; cocountable topology.",
+      "reference": "Book pp. 283.",
+      "sourcePage": 456,
+      "chapterId": "chapter-7",
+      "problemIds": [
+        "230.1",
+        "230.2",
+        "230.3",
+        "230.4",
+        "230.5"
+      ],
+      "dataFile": "data/companion/230.json"
+    },
+    {
+      "id": "231",
+      "title": "Discrete, indiscrete, finer, and coarser topologies",
+      "chapterTitle": "7. Additional Topics",
+      "section": "Point-Set Topology ▷ Introduction",
+      "terms": "discrete topology; indiscrete topology; trivial topology; finer topology; coarser topology.",
+      "reference": "Book pp. 283.",
+      "sourcePage": 458,
+      "chapterId": "chapter-7",
+      "problemIds": [
+        "231.1",
+        "231.2",
+        "231.3",
+        "231.4",
+        "231.5"
+      ],
+      "dataFile": "data/companion/231.json"
+    },
+    {
+      "id": "232",
+      "title": "Subspace or relative topology",
+      "chapterTitle": "7. Additional Topics",
+      "section": "Point-Set Topology ▷ The Subspace Topology",
+      "terms": "subspace topology; relative topology; relatively open; relatively closed.",
+      "reference": "Book pp. 284.",
+      "sourcePage": 460,
+      "chapterId": "chapter-7",
+      "problemIds": [
+        "232.1",
+        "232.2",
+        "232.3",
+        "232.4",
+        "232.5"
+      ],
+      "dataFile": "data/companion/232.json"
+    },
+    {
+      "id": "233",
+      "title": "Interior, exterior, and boundary",
+      "chapterTitle": "7. Additional Topics",
+      "section": "Point-Set Topology ▷ The Interior, Exterior, Boundary, Limit Points, and Closure of a Set",
+      "terms": "interior; exterior; boundary; clopen set.",
+      "reference": "Book pp. 284-286.",
+      "sourcePage": 462,
+      "chapterId": "chapter-7",
+      "problemIds": [
+        "233.1",
+        "233.2",
+        "233.3",
+        "233.4",
+        "233.5"
+      ],
+      "dataFile": "data/companion/233.json"
+    },
+    {
+      "id": "234",
+      "title": "Limit points, derived set, closure, and density",
+      "chapterTitle": "7. Additional Topics",
+      "section": "Point-Set Topology ▷ The Interior, Exterior, Boundary, Limit Points, and Closure of a Set",
+      "terms": "limit point; accumulation point; cluster point; derived set; closure; isolated point; dense subset.",
+      "reference": "Book pp. 285-286.",
+      "sourcePage": 464,
+      "chapterId": "chapter-7",
+      "problemIds": [
+        "234.1",
+        "234.2",
+        "234.3",
+        "234.4",
+        "234.5"
+      ],
+      "dataFile": "data/companion/234.json"
+    },
+    {
+      "id": "235",
+      "title": "Topological bases and the lower-limit topology",
+      "chapterTitle": "7. Additional Topics",
+      "section": "Point-Set Topology ▷ Basis for a Topology",
+      "terms": "basis; basis element; generated topology; lower-limit topology; Sorgenfrey line; second countable space.",
+      "reference": "Book pp. 286-287.",
+      "sourcePage": 465,
+      "chapterId": "chapter-7",
+      "problemIds": [
+        "235.1",
+        "235.2",
+        "235.3",
+        "235.4",
+        "235.5"
+      ],
+      "dataFile": "data/companion/235.json"
+    },
+    {
+      "id": "236",
+      "title": "Product topology and open rectangles",
+      "chapterTitle": "7. Additional Topics",
+      "section": "Point-Set Topology ▷ The Product Topology",
+      "terms": "product topology; open rectangle; coordinate projection.",
+      "reference": "Book pp. 287.",
+      "sourcePage": 467,
+      "chapterId": "chapter-7",
+      "problemIds": [
+        "236.1",
+        "236.2",
+        "236.3",
+        "236.4",
+        "236.5"
+      ],
+      "dataFile": "data/companion/236.json"
+    },
+    {
+      "id": "237",
+      "title": "Connectedness, separations, and connected components",
+      "chapterTitle": "7. Additional Topics",
+      "section": "Point-Set Topology ▷ Connectedness",
+      "terms": "connected space; disconnected space; separation; connected component.",
+      "reference": "Book pp. 288.",
+      "sourcePage": 469,
+      "chapterId": "chapter-7",
+      "problemIds": [
+        "237.1",
+        "237.2",
+        "237.3",
+        "237.4",
+        "237.5",
+        "237.6"
+      ],
+      "dataFile": "data/companion/237.json"
+    },
+    {
+      "id": "238",
+      "title": "Paths, path connectedness, and convexity",
+      "chapterTitle": "7. Additional Topics",
+      "section": "Point-Set Topology ▷ Connectedness",
+      "terms": "path; path-connected space; convex set; star-shaped set.",
+      "reference": "Book pp. 288.",
+      "sourcePage": 471,
+      "chapterId": "chapter-7",
+      "problemIds": [
+        "238.1",
+        "238.2",
+        "238.3",
+        "238.4",
+        "238.5"
+      ],
+      "dataFile": "data/companion/238.json"
+    },
+    {
+      "id": "239",
+      "title": "Open covers and compactness",
+      "chapterTitle": "7. Additional Topics",
+      "section": "Point-Set Topology ▷ Compactness",
+      "terms": "covering; open cover; finite subcover; compact space; finite intersection property; sequen- tial compactness.",
+      "reference": "Book pp. 288-289.",
+      "sourcePage": 473,
+      "chapterId": "chapter-7",
+      "problemIds": [
+        "239.1",
+        "239.2",
+        "239.3",
+        "239.4",
+        "239.5"
+      ],
+      "dataFile": "data/companion/239.json"
+    },
+    {
+      "id": "240",
+      "title": "Boundedness, norm, and the Heine–Borel theorem",
+      "chapterTitle": "7. Additional Topics",
+      "section": "Point-Set Topology ▷ Compactness",
+      "terms": "Euclidean norm; bounded set; Heine–Borel theorem; closed and bounded.",
+      "reference": "Book pp. 289.",
+      "sourcePage": 475,
+      "chapterId": "chapter-7",
+      "problemIds": [
+        "240.1",
+        "240.2",
+        "240.3",
+        "240.4",
+        "240.5"
+      ],
+      "dataFile": "data/companion/240.json"
+    },
+    {
+      "id": "241",
+      "title": "Metrics, open balls, and equivalent metric topologies",
+      "chapterTitle": "7. Additional Topics",
+      "section": "Point-Set Topology ▷ Metric Spaces",
+      "terms": "metric; metric space; triangle inequality; open ball; metric topology; Euclidean metric; square metric; sup metric; sup norm; bounded function; sup metric on bounded functions.",
+      "reference": "Book pp. 289-290.",
+      "sourcePage": 477,
+      "chapterId": "chapter-7",
+      "problemIds": [
+        "241.1",
+        "241.2",
+        "241.3",
+        "241.4",
+        "241.5"
+      ],
+      "dataFile": "data/companion/241.json"
+    },
+    {
+      "id": "242",
+      "title": "Topological and metric continuity",
+      "chapterTitle": "7. Additional Topics",
+      "section": "Point-Set Topology ▷ Continuous Functions",
+      "terms": "continuous map; inverse image criterion; continuity at a point; epsilon-delta continuity; uniform continuity; sequential criterion for continuity.",
+      "reference": "Book pp. 290-292.",
+      "sourcePage": 479,
+      "chapterId": "chapter-7",
+      "problemIds": [
+        "242.1",
+        "242.2",
+        "242.3",
+        "242.4",
+        "242.5"
+      ],
+      "dataFile": "data/companion/242.json"
+    },
+    {
+      "id": "243",
+      "title": "Continuous images and the extreme value theorem",
+      "chapterTitle": "7. Additional Topics",
+      "section": "Point-Set Topology ▷ Continuous Functions",
+      "terms": "continuous image of compact set; continuous image of connected set; extreme value theorem; absolute maximum; absolute minimum.",
+      "reference": "Book pp. 292.",
+      "sourcePage": 481,
+      "chapterId": "chapter-7",
+      "problemIds": [
+        "243.1",
+        "243.2",
+        "243.3",
+        "243.4",
+        "243.5"
+      ],
+      "dataFile": "data/companion/243.json"
+    },
+    {
+      "id": "244",
+      "title": "Open maps, homeomorphisms, and topological invariants",
+      "chapterTitle": "7. Additional Topics",
+      "section": "Point-Set Topology ▷ Open Maps and Homeomorphisms",
+      "terms": "open map; homeomorphism; topological invariant; compact-to-Hausdorff theorem.",
+      "reference": "Book pp. 292-293.",
+      "sourcePage": 483,
+      "chapterId": "chapter-7",
+      "problemIds": [
+        "244.1",
+        "244.2",
+        "244.3",
+        "244.4",
+        "244.5"
+      ],
+      "dataFile": "data/companion/244.json"
+    },
+    {
+      "id": "245",
+      "title": "Bounds, supremum, infimum, and order completeness",
+      "chapterTitle": "7. Additional Topics",
+      "section": "Real Analysis ▷ The Completeness of the Real Numbers",
+      "terms": "upper bound; lower bound; bounded above; bounded below; least upper bound; supre- mum; greatest lower bound; infimum; least upper bound axiom.",
+      "reference": "Book pp. 293-294.",
+      "sourcePage": 485,
+      "chapterId": "chapter-7",
+      "problemIds": [
+        "245.1",
+        "245.2",
+        "245.3",
+        "245.4",
+        "245.5"
+      ],
+      "dataFile": "data/companion/245.json"
+    },
+    {
+      "id": "246",
+      "title": "Cauchy sequences and complete metric spaces",
+      "chapterTitle": "7. Additional Topics",
+      "section": "Real Analysis ▷ The Completeness of the Real Numbers",
+      "terms": "Cauchy sequence; complete space; metric completeness; closed subspace; total bounded- ness.",
+      "reference": "Book pp. 294.",
+      "sourcePage": 487,
+      "chapterId": "chapter-7",
+      "problemIds": [
+        "246.1",
+        "246.2",
+        "246.3",
+        "246.4",
+        "246.5",
+        "246.6"
+      ],
+      "dataFile": "data/companion/246.json"
+    },
+    {
+      "id": "247",
+      "title": "Outer measure and measurable sets",
+      "chapterTitle": "7. Additional Topics",
+      "section": "Real Analysis ▷ Lebesgue Measure",
+      "terms": "Lebesgue outer measure; Lebesgue measurable set; Caratheodory criterion; sigma- algebra.",
+      "reference": "Book pp. 294-295.",
+      "sourcePage": 489,
+      "chapterId": "chapter-7",
+      "problemIds": [
+        "247.1",
+        "247.2",
+        "247.3",
+        "247.4",
+        "247.5"
+      ],
+      "dataFile": "data/companion/247.json"
+    },
+    {
+      "id": "248",
+      "title": "Measure, null sets, and countable additivity",
+      "chapterTitle": "7. Additional Topics",
+      "section": "Real Analysis ▷ Lebesgue Measure",
+      "terms": "Lebesgue measure; measure zero; null set; countable additivity; almost everywhere; monotonicity of measure; Cantor set; continuity of measure.",
+      "reference": "Book pp. 295.",
+      "sourcePage": 491,
+      "chapterId": "chapter-7",
+      "problemIds": [
+        "248.1",
+        "248.2",
+        "248.3",
+        "248.4",
+        "248.5"
+      ],
+      "dataFile": "data/companion/248.json"
+    },
+    {
+      "id": "249",
+      "title": "Measurable functions and characteristic functions",
+      "chapterTitle": "7. Additional Topics",
+      "section": "Real Analysis ▷ Lebesgue Measurable Functions",
+      "terms": "measurable function; characteristic function; indicator function; pointwise limit; almost- everywhere limit.",
+      "reference": "Book pp. 295-296.",
+      "sourcePage": 493,
+      "chapterId": "chapter-7",
+      "problemIds": [
+        "249.1",
+        "249.2",
+        "249.3",
+        "249.4",
+        "249.5"
+      ],
+      "dataFile": "data/companion/249.json"
+    },
+    {
+      "id": "250",
+      "title": "Simple functions and approximation from below",
+      "chapterTitle": "7. Additional Topics",
+      "section": "Real Analysis ▷ Lebesgue Measurable Functions",
+      "terms": "simple function; step function; finite-valued function; simple-function approximation.",
+      "reference": "Book pp. 295-297.",
+      "sourcePage": 495,
+      "chapterId": "chapter-7",
+      "problemIds": [
+        "250.1",
+        "250.2",
+        "250.3",
+        "250.4",
+        "250.5"
+      ],
+      "dataFile": "data/companion/250.json"
+    },
+    {
+      "id": "251",
+      "title": "Lebesgue integral and positive and negative parts",
+      "chapterTitle": "7. Additional Topics",
+      "section": "Real Analysis ▷ Lebesgue Integrable Functions",
+      "terms": "Lebesgue integral; Lebesgue integrable function; positive part; negative part; absolute integrability.",
+      "reference": "Book pp. 296-297.",
+      "sourcePage": 497,
+      "chapterId": "chapter-7",
+      "problemIds": [
+        "251.1",
+        "251.2",
+        "251.3",
+        "251.4",
+        "251.5"
+      ],
+      "dataFile": "data/companion/251.json"
+    },
+    {
+      "id": "252",
+      "title": "Riemann versus Lebesgue integration",
+      "chapterTitle": "7. Additional Topics",
+      "section": "Real Analysis ▷ Lebesgue Integrable Functions",
+      "terms": "Riemann integrability criterion; Lebesgue criterion; Dirichlet function; conditional im- proper integral.",
+      "reference": "Book pp. 297-298.",
+      "sourcePage": 499,
+      "chapterId": "chapter-7",
+      "problemIds": [
+        "252.1",
+        "252.2",
+        "252.3",
+        "252.4",
+        "252.5"
+      ],
+      "dataFile": "data/companion/252.json"
+    },
+    {
+      "id": "253",
+      "title": "Monotone and dominated convergence",
+      "chapterTitle": "7. Additional Topics",
+      "section": "Real Analysis ▷ Lebesgue Integrable Functions",
+      "terms": "monotone convergence theorem; Levi theorem; dominated convergence theorem; inter- change of limit and integral.",
+      "reference": "Book pp. 298.",
+      "sourcePage": 501,
+      "chapterId": "chapter-7",
+      "problemIds": [
+        "253.1",
+        "253.2",
+        "253.3",
+        "253.4",
+        "253.5"
+      ],
+      "dataFile": "data/companion/253.json"
+    },
+    {
+      "id": "254",
+      "title": "Lebesgue spaces and completeness",
+      "chapterTitle": "7. Additional Topics",
+      "section": "Real Analysis ▷ Lebesgue Integrable Functions",
+      "terms": "Lp space; Lp norm; almost-everywhere equivalence; Banach space; Holder inequality; conjugate exponents.",
+      "reference": "Book pp. 298.",
+      "sourcePage": 503,
+      "chapterId": "chapter-7",
+      "problemIds": [
+        "254.1",
+        "254.2",
+        "254.3",
+        "254.4",
+        "254.5",
+        "254.6",
+        "254.7"
+      ],
+      "dataFile": "data/companion/254.json"
+    },
+    {
+      "id": "255",
+      "title": "Complex arithmetic and conjugation",
+      "chapterTitle": "7. Additional Topics",
+      "section": "Complex Variables ▷ Introduction",
+      "terms": "complex number; complex field; imaginary unit; real part; imaginary part; complex conjugate; complex plane; real axis; imaginary axis; pure imaginary number.",
+      "reference": "Book pp. 298-299.",
+      "sourcePage": 505,
+      "chapterId": "chapter-7",
+      "problemIds": [
+        "255.1",
+        "255.2",
+        "255.3",
+        "255.4",
+        "255.5"
+      ],
+      "dataFile": "data/companion/255.json"
+    },
+    {
+      "id": "256",
+      "title": "Modulus, arguments, and polar geometry",
+      "chapterTitle": "7. Additional Topics",
+      "section": "Complex Variables ▷ The Polar Form",
+      "terms": "modulus; absolute value; argument; principal argument; polar form; triangle inequality in C.",
+      "reference": "Book pp. 299-300.",
+      "sourcePage": 507,
+      "chapterId": "chapter-7",
+      "problemIds": [
+        "256.1",
+        "256.2",
+        "256.3",
+        "256.4",
+        "256.5"
+      ],
+      "dataFile": "data/companion/256.json"
+    },
+    {
+      "id": "257",
+      "title": "Euler formula, complex exponential, and de Moivre formula",
+      "chapterTitle": "7. Additional Topics",
+      "section": "Complex Variables ▷ The Exponential Form",
+      "terms": "Euler formula; exponential form; complex exponential; de Moivre formula; exponential periodicity.",
+      "reference": "Book pp. 300.",
+      "sourcePage": 509,
+      "chapterId": "chapter-7",
+      "problemIds": [
+        "257.1",
+        "257.2",
+        "257.3",
+        "257.4",
+        "257.5"
+      ],
+      "dataFile": "data/companion/257.json"
+    },
+    {
+      "id": "258",
+      "title": "Complex roots and roots of unity",
+      "chapterTitle": "7. Additional Topics",
+      "section": "Complex Variables ▷ Complex Roots",
+      "terms": "nth root; principal nth root; roots of unity; primitive root of unity.",
+      "reference": "Book pp. 300-301.",
+      "sourcePage": 511,
+      "chapterId": "chapter-7",
+      "problemIds": [
+        "258.1",
+        "258.2",
+        "258.3",
+        "258.4",
+        "258.5"
+      ],
+      "dataFile": "data/companion/258.json"
+    },
+    {
+      "id": "259",
+      "title": "Multivalued logarithm and principal logarithm",
+      "chapterTitle": "7. Additional Topics",
+      "section": "Complex Variables ▷ Complex Logarithms",
+      "terms": "complex logarithm; principal logarithm; logarithm branch; branch cut.",
+      "reference": "Book pp. 302.",
+      "sourcePage": 512,
+      "chapterId": "chapter-7",
+      "problemIds": [
+        "259.1",
+        "259.2",
+        "259.3",
+        "259.4",
+        "259.5"
+      ],
+      "dataFile": "data/companion/259.json"
+    },
+    {
+      "id": "260",
+      "title": "Complex powers and branch dependence",
+      "chapterTitle": "7. Additional Topics",
+      "section": "Complex Variables ▷ Complex Powers",
+      "terms": "complex power; principal value; multivalued power; failure of radical identities.",
+      "reference": "Book pp. 302-303.",
+      "sourcePage": 514,
+      "chapterId": "chapter-7",
+      "problemIds": [
+        "260.1",
+        "260.2",
+        "260.3",
+        "260.4",
+        "260.5"
+      ],
+      "dataFile": "data/companion/260.json"
+    },
+    {
+      "id": "261",
+      "title": "Complex trigonometric functions and equations",
+      "chapterTitle": "7. Additional Topics",
+      "section": "Complex Variables ▷ The Trigonometric Functions",
+      "terms": "complex sine; complex cosine; complex tangent; complex cotangent; complex secant; complex cosecant; trigonometric identities over C.",
+      "reference": "Book pp. 303-304.",
+      "sourcePage": 516,
+      "chapterId": "chapter-7",
+      "problemIds": [
+        "261.1",
+        "261.2",
+        "261.3",
+        "261.4",
+        "261.5",
+        "261.6"
+      ],
+      "dataFile": "data/companion/261.json"
+    },
+    {
+      "id": "262",
+      "title": "Hyperbolic functions and complex trigonometric modulus",
+      "chapterTitle": "7. Additional Topics",
+      "section": "Complex Variables ▷ The Hyperbolic Functions",
+      "terms": "hyperbolic sine; hyperbolic cosine; sinh; cosh; hyperbolic identity; hyperbolic tangent; hyperbolic cotangent.",
+      "reference": "Book pp. 304-305.",
+      "sourcePage": 518,
+      "chapterId": "chapter-7",
+      "problemIds": [
+        "262.1",
+        "262.2",
+        "262.3",
+        "262.4",
+        "262.5"
+      ],
+      "dataFile": "data/companion/262.json"
+    },
+    {
+      "id": "263",
+      "title": "Complex differentiability",
+      "chapterTitle": "7. Additional Topics",
+      "section": "Complex Variables ▷ The Derivative of a Function of a Complex Variable",
+      "terms": "complex derivative; difference quotient; direction-independent limit.",
+      "reference": "Book pp. 305-306.",
+      "sourcePage": 520,
+      "chapterId": "chapter-7",
+      "problemIds": [
+        "263.1",
+        "263.2",
+        "263.3",
+        "263.4",
+        "263.5"
+      ],
+      "dataFile": "data/companion/263.json"
+    },
+    {
+      "id": "264",
+      "title": "Cauchy–Riemann equations",
+      "chapterTitle": "7. Additional Topics",
+      "section": "Complex Variables ▷ The Cauchy–Riemann Equations",
+      "terms": "Cauchy–Riemann equations; necessary condition for complex differentiability; sufficient C1 criterion.",
+      "reference": "Book pp. 306-307.",
+      "sourcePage": 522,
+      "chapterId": "chapter-7",
+      "problemIds": [
+        "264.1",
+        "264.2",
+        "264.3",
+        "264.4",
+        "264.5"
+      ],
+      "dataFile": "data/companion/264.json"
+    },
+    {
+      "id": "265",
+      "title": "Harmonic functions and harmonic conjugates",
+      "chapterTitle": "7. Additional Topics",
+      "section": "Complex Variables ▷ The Cauchy–Riemann Equations",
+      "terms": "Laplace equation; harmonic function; harmonic conjugate.",
+      "reference": "Book pp. 307; 324; 328.",
+      "sourcePage": 524,
+      "chapterId": "chapter-7",
+      "problemIds": [
+        "265.1",
+        "265.2",
+        "265.3",
+        "265.4",
+        "265.5"
+      ],
+      "dataFile": "data/companion/265.json"
+    },
+    {
+      "id": "266",
+      "title": "Analytic, holomorphic, and entire functions",
+      "chapterTitle": "7. Additional Topics",
+      "section": "Complex Variables ▷ Analytic Functions",
+      "terms": "analytic function; holomorphic function; entire function; analytic rational function; higher complex derivatives; identity theorem; isolated zeros.",
+      "reference": "Book pp. 308.",
+      "sourcePage": 526,
+      "chapterId": "chapter-7",
+      "problemIds": [
+        "266.1",
+        "266.2",
+        "266.3",
+        "266.4",
+        "266.5"
+      ],
+      "dataFile": "data/companion/266.json"
+    },
+    {
+      "id": "267",
+      "title": "Complex line integrals and primitives",
+      "chapterTitle": "7. Additional Topics",
+      "section": "Complex Variables ▷ Complex Line Integrals",
+      "terms": "complex line integral; contour integral; parametrized path; primitive; antiderivative; path independence; orientation.",
+      "reference": "Book pp. 309.",
+      "sourcePage": 528,
+      "chapterId": "chapter-7",
+      "problemIds": [
+        "267.1",
+        "267.2",
+        "267.3",
+        "267.4",
+        "267.5"
+      ],
+      "dataFile": "data/companion/267.json"
+    },
+    {
+      "id": "268",
+      "title": "Cauchy theorem and simply connected domains",
+      "chapterTitle": "7. Additional Topics",
+      "section": "Complex Variables ▷ Theorems Concerning Analytic Functions",
+      "terms": "Cauchy theorem; simply connected domain; closed contour; primitive existence; contour deformation.",
+      "reference": "Book pp. 310.",
+      "sourcePage": 530,
+      "chapterId": "chapter-7",
+      "problemIds": [
+        "268.1",
+        "268.2",
+        "268.3",
+        "268.4",
+        "268.5"
+      ],
+      "dataFile": "data/companion/268.json"
+    },
+    {
+      "id": "269",
+      "title": "Morera theorem",
+      "chapterTitle": "7. Additional Topics",
+      "section": "Complex Variables ▷ Theorems Concerning Analytic Functions",
+      "terms": "Morera theorem; vanishing triangle integrals; analyticity from integration; local uniform convergence.",
+      "reference": "Book pp. 310.",
+      "sourcePage": 532,
+      "chapterId": "chapter-7",
+      "problemIds": [
+        "269.1",
+        "269.2",
+        "269.3",
+        "269.4",
+        "269.5"
+      ],
+      "dataFile": "data/companion/269.json"
+    },
+    {
+      "id": "270",
+      "title": "Cauchy integral and derivative formulas",
+      "chapterTitle": "7. Additional Topics",
+      "section": "Complex Variables ▷ Theorems Concerning Analytic Functions",
+      "terms": "Cauchy integral formula; Cauchy derivative formula; simple closed contour; positive orientation.",
+      "reference": "Book pp. 310.",
+      "sourcePage": 534,
+      "chapterId": "chapter-7",
+      "problemIds": [
+        "270.1",
+        "270.2",
+        "270.3",
+        "270.4",
+        "270.5"
+      ],
+      "dataFile": "data/companion/270.json"
+    },
+    {
+      "id": "271",
+      "title": "Cauchy derivative estimates and growth bounds",
+      "chapterTitle": "7. Additional Topics",
+      "section": "Complex Variables ▷ Theorems Concerning Analytic Functions",
+      "terms": "Cauchy derivative estimate; coefficient estimate; polynomial growth.",
+      "reference": "Book pp. 310.",
+      "sourcePage": 536,
+      "chapterId": "chapter-7",
+      "problemIds": [
+        "271.1",
+        "271.2",
+        "271.3",
+        "271.4",
+        "271.5"
+      ],
+      "dataFile": "data/companion/271.json"
+    },
+    {
+      "id": "272",
+      "title": "Liouville theorem",
+      "chapterTitle": "7. Additional Topics",
+      "section": "Complex Variables ▷ Theorems Concerning Analytic Functions",
+      "terms": "Liouville theorem; bounded entire function; fundamental theorem of algebra via analysis.",
+      "reference": "Book pp. 310.",
+      "sourcePage": 538,
+      "chapterId": "chapter-7",
+      "problemIds": [
+        "272.1",
+        "272.2",
+        "272.3",
+        "272.4",
+        "272.5"
+      ],
+      "dataFile": "data/companion/272.json"
+    },
+    {
+      "id": "273",
+      "title": "Maximum modulus principle",
+      "chapterTitle": "7. Additional Topics",
+      "section": "Complex Variables ▷ Theorems Concerning Analytic Functions",
+      "terms": "maximum modulus principle; maximum principle; boundary maximum; minimum modu- lus principle.",
+      "reference": "Book pp. 310.",
+      "sourcePage": 540,
+      "chapterId": "chapter-7",
+      "problemIds": [
+        "273.1",
+        "273.2",
+        "273.3",
+        "273.4",
+        "273.5"
+      ],
+      "dataFile": "data/companion/273.json"
+    },
+    {
+      "id": "274",
+      "title": "Complex Taylor series and disks of convergence",
+      "chapterTitle": "7. Additional Topics",
+      "section": "Complex Variables ▷ Taylor Series for Functions of a Complex Variable",
+      "terms": "complex Taylor series; power series; disk of convergence; radius of convergence; Cauchy– Hadamard formula.",
+      "reference": "Book pp. 311.",
+      "sourcePage": 542,
+      "chapterId": "chapter-7",
+      "problemIds": [
+        "274.1",
+        "274.2",
+        "274.3",
+        "274.4",
+        "274.5"
+      ],
+      "dataFile": "data/companion/274.json"
+    },
+    {
+      "id": "275",
+      "title": "Isolated singularities and their classification",
+      "chapterTitle": "7. Additional Topics",
+      "section": "Complex Variables ▷ Singularities, Poles, and Laurent Series",
+      "terms": "singularity; isolated singularity; punctured disk; removable singularity; pole; order of a pole; simple pole; double pole; essential singularity.",
+      "reference": "Book pp. 311-314.",
+      "sourcePage": 544,
+      "chapterId": "chapter-7",
+      "problemIds": [
+        "275.1",
+        "275.2",
+        "275.3",
+        "275.4",
+        "275.5"
+      ],
+      "dataFile": "data/companion/275.json"
+    },
+    {
+      "id": "276",
+      "title": "Laurent series, annuli, and principal parts",
+      "chapterTitle": "7. Additional Topics",
+      "section": "Complex Variables ▷ Singularities, Poles, and Laurent Series",
+      "terms": "Laurent series; Laurent coefficient; annulus; principal part; singular part; analytic part.",
+      "reference": "Book pp. 312-314.",
+      "sourcePage": 546,
+      "chapterId": "chapter-7",
+      "problemIds": [
+        "276.1",
+        "276.2",
+        "276.3",
+        "276.4",
+        "276.5"
+      ],
+      "dataFile": "data/companion/276.json"
+    },
+    {
+      "id": "277",
+      "title": "Residues and residue computation",
+      "chapterTitle": "7. Additional Topics",
+      "section": "Complex Variables ▷ The Residue Theorem",
+      "terms": "residue; coefficient of reciprocal term; simple-pole residue; higher-order-pole residue; logarithmic derivative.",
+      "reference": "Book pp. 314-315.",
+      "sourcePage": 548,
+      "chapterId": "chapter-7",
+      "problemIds": [
+        "277.1",
+        "277.2",
+        "277.3",
+        "277.4",
+        "277.5"
+      ],
+      "dataFile": "data/companion/277.json"
+    },
+    {
+      "id": "278",
+      "title": "Residue theorem and contour evaluation",
+      "chapterTitle": "7. Additional Topics",
+      "section": "Complex Variables ▷ The Residue Theorem",
+      "terms": "residue theorem; sum of residues; enclosed singularity; winding number; argument princi- ple.",
+      "reference": "Book pp. 315-317.",
+      "sourcePage": 550,
+      "chapterId": "chapter-7",
+      "problemIds": [
+        "278.1",
+        "278.2",
+        "278.3",
+        "278.4",
+        "278.5"
+      ],
+      "dataFile": "data/companion/278.json"
+    },
+    {
+      "id": "279",
+      "title": "Iterations, error, tolerance, and convergence rate",
+      "chapterTitle": "7. Additional Topics",
+      "section": "Numerical Analysis ▷ Iterative Methods",
+      "terms": "iterative method; initial guess; approximation error; error tolerance; rate of convergence; linear convergence; quadratic convergence; relative error; superlinear convergence.",
+      "reference": "Book pp. 317-318.",
+      "sourcePage": 552,
+      "chapterId": "chapter-7",
+      "problemIds": [
+        "279.1",
+        "279.2",
+        "279.3",
+        "279.4",
+        "279.5"
+      ],
+      "dataFile": "data/companion/279.json"
+    },
+    {
+      "id": "280",
+      "title": "Bisection and certified root brackets",
+      "chapterTitle": "7. Additional Topics",
+      "section": "Numerical Analysis ▷ Bisection Method",
+      "terms": "bisection method; sign-changing bracket; intermediate value theorem; bisection error bound.",
+      "reference": "Book pp. 317-318.",
+      "sourcePage": 554,
+      "chapterId": "chapter-7",
+      "problemIds": [
+        "280.1",
+        "280.2",
+        "280.3",
+        "280.4",
+        "280.5",
+        "280.6"
+      ],
+      "dataFile": "data/companion/280.json"
+    },
+    {
+      "id": "281",
+      "title": "Newton iteration and multiple roots",
+      "chapterTitle": "7. Additional Topics",
+      "section": "Numerical Analysis ▷ Newton Method",
+      "terms": "Newton method; Newton–Raphson method; tangent-line iteration; simple root; multiple- root convergence; Newton failure; modified Newton method.",
+      "reference": "Book pp. 318; 320-321.",
+      "sourcePage": 556,
+      "chapterId": "chapter-7",
+      "problemIds": [
+        "281.1",
+        "281.2",
+        "281.3",
+        "281.4",
+        "281.5",
+        "281.6"
+      ],
+      "dataFile": "data/companion/281.json"
+    },
+    {
+      "id": "282",
+      "title": "Hermitian matrices, conjugate transpose, and the spectral theorem",
+      "chapterTitle": "8. Solutions to the Chapter Review Questions",
+      "section": "Chapter 5 Review Questions ▷ Question 20: complex matrices",
+      "terms": "conjugate transpose; Hermitian matrix; unitary matrix; spectral theorem; Rayleigh quotient.",
+      "reference": "Book pp. 387.",
+      "sourcePage": 558,
+      "chapterId": "chapter-8",
+      "problemIds": [
+        "282.1",
+        "282.2",
+        "282.3",
+        "282.4",
+        "282.5",
+        "282.6"
+      ],
+      "dataFile": "data/companion/282.json"
+    },
+    {
+      "id": "283",
+      "title": "Alternating groups and permutation parity",
+      "chapterTitle": "8. Solutions to the Chapter Review Questions",
+      "section": "Chapter 6 Review Questions ▷ Question 8: a subgroup-order counterexample",
+      "terms": "alternating group; even permutation; odd permutation; sign homomorphism; double transposition.",
+      "reference": "Book pp. 389.",
+      "sourcePage": 560,
+      "chapterId": "chapter-8",
+      "problemIds": [
+        "283.1",
+        "283.2",
+        "283.3",
+        "283.4",
+        "283.5"
+      ],
+      "dataFile": "data/companion/283.json"
+    },
+    {
+      "id": "284",
+      "title": "Torus and circular cross sections",
+      "chapterTitle": "9. Practice Test",
+      "section": "Practice Test ▷ Question 26: surfaces of revolution",
+      "terms": "torus; major radius; minor radius; solid torus; annular cross section.",
+      "reference": "Book pp. 410.",
+      "sourcePage": 562,
+      "chapterId": "chapter-9",
+      "problemIds": [
+        "284.1",
+        "284.2",
+        "284.3",
+        "284.4",
+        "284.5"
+      ],
+      "dataFile": "data/companion/284.json"
+    },
+    {
+      "id": "285",
+      "title": "Lipschitz and Holder conditions; constancy from a strong difference bound",
+      "chapterTitle": "9. Practice Test",
+      "section": "Practice Test ▷ Question 38: a quantitative continuity condition",
+      "terms": "Lipschitz continuity; Holder continuity; Holder exponent; uniform continuity; difference bound.",
+      "reference": "Book pp. 413.",
+      "sourcePage": 564,
+      "chapterId": "chapter-9",
+      "problemIds": [
+        "285.1",
+        "285.2",
+        "285.3",
+        "285.4",
+        "285.5",
+        "285.6"
+      ],
+      "dataFile": "data/companion/285.json"
+    },
+    {
+      "id": "286",
+      "title": "Cauchy mean-value theorem and simultaneous derivative ratios",
+      "chapterTitle": "9. Practice Test",
+      "section": "Practice Test ▷ Question 57: Cauchy mean-value formula",
+      "terms": "Cauchy mean-value theorem; generalized mean-value theorem; common intermediate point.",
+      "reference": "Book pp. 418.",
+      "sourcePage": 566,
+      "chapterId": "chapter-9",
+      "problemIds": [
+        "286.1",
+        "286.2",
+        "286.3",
+        "286.4",
+        "286.5"
+      ],
+      "dataFile": "data/companion/286.json"
+    },
+    {
+      "id": "287",
+      "title": "Cofinite topology and nonunique limits",
+      "chapterTitle": "9. Practice Test",
+      "section": "Practice Test ▷ Question 58: a topology with finite complements",
+      "terms": "cofinite topology; finite-complement topology; T1 separation; nonunique sequence limit.",
+      "reference": "Book pp. 419.",
+      "sourcePage": 568,
+      "chapterId": "chapter-9",
+      "problemIds": [
+        "287.1",
+        "287.2",
+        "287.3",
+        "287.4",
+        "287.5"
+      ],
+      "dataFile": "data/companion/287.json"
+    },
+    {
+      "id": "288",
+      "title": "Pascal triangle and binomial sum identities",
+      "chapterTitle": "10. Practice Test Answers and Explanations",
+      "section": "Practice Test Answers and Explanations ▷ Question 46: Pascal triangle",
+      "terms": "Pascal triangle; Pascal identity; hockey-stick identity; Vandermonde identity; weighted binomial sum.",
+      "reference": "Book pp. 436.",
+      "sourcePage": 570,
+      "chapterId": "chapter-10",
+      "problemIds": [
+        "288.1",
+        "288.2",
+        "288.3",
+        "288.4",
+        "288.5",
+        "288.6"
+      ],
+      "dataFile": "data/companion/288.json"
+    },
+    {
+      "id": "289",
+      "title": "Jacobians and multivariable change of variables",
+      "chapterTitle": "Supplement. Breadth beyond the book",
+      "section": "Multivariable calculus",
+      "terms": "Jacobian matrix; Jacobian determinant; change of variables; inverse function theorem.",
+      "reference": "Breadth supplement.",
+      "sourcePage": 572,
+      "chapterId": "chapter-11",
+      "problemIds": [
+        "289.1",
+        "289.2",
+        "289.3",
+        "289.4",
+        "289.5"
+      ],
+      "dataFile": "data/companion/289.json"
+    },
+    {
+      "id": "290",
+      "title": "Triple integrals and solid coordinate systems",
+      "chapterTitle": "Supplement. Breadth beyond the book",
+      "section": "Multivariable calculus",
+      "terms": "triple integral; volume element; spherical volume element; cylindrical volume element.",
+      "reference": "Breadth supplement.",
+      "sourcePage": 574,
+      "chapterId": "chapter-11",
+      "problemIds": [
+        "290.1",
+        "290.2",
+        "290.3",
+        "290.4",
+        "290.5"
+      ],
+      "dataFile": "data/companion/290.json"
+    },
+    {
+      "id": "291",
+      "title": "Surface area and flux integrals",
+      "chapterTitle": "Supplement. Breadth beyond the book",
+      "section": "Multivariable calculus",
+      "terms": "regular surface parametrization; surface element; surface integral; flux; orientation.",
+      "reference": "Breadth supplement.",
+      "sourcePage": 575,
+      "chapterId": "chapter-11",
+      "problemIds": [
+        "291.1",
+        "291.2",
+        "291.3",
+        "291.4",
+        "291.5"
+      ],
+      "dataFile": "data/companion/291.json"
+    },
+    {
+      "id": "292",
+      "title": "Divergence, curl, and differential identities",
+      "chapterTitle": "Supplement. Breadth beyond the book",
+      "section": "Multivariable calculus",
+      "terms": "divergence; curl; solenoidal field; irrotational field; Laplacian; vector Laplacian.",
+      "reference": "Breadth supplement.",
+      "sourcePage": 577,
+      "chapterId": "chapter-11",
+      "problemIds": [
+        "292.1",
+        "292.2",
+        "292.3",
+        "292.4",
+        "292.5"
+      ],
+      "dataFile": "data/companion/292.json"
+    },
+    {
+      "id": "293",
+      "title": "The divergence theorem",
+      "chapterTitle": "Supplement. Breadth beyond the book",
+      "section": "Multivariable calculus",
+      "terms": "divergence theorem; Gauss theorem; outward flux; closed surface.",
+      "reference": "Breadth supplement.",
+      "sourcePage": 579,
+      "chapterId": "chapter-11",
+      "problemIds": [
+        "293.1",
+        "293.2",
+        "293.3",
+        "293.4",
+        "293.5"
+      ],
+      "dataFile": "data/companion/293.json"
+    },
+    {
+      "id": "294",
+      "title": "Stokes’s theorem",
+      "chapterTitle": "Supplement. Breadth beyond the book",
+      "section": "Multivariable calculus",
+      "terms": "Stokes theorem; boundary orientation; circulation.",
+      "reference": "Breadth supplement.",
+      "sourcePage": 581,
+      "chapterId": "chapter-11",
+      "problemIds": [
+        "294.1",
+        "294.2",
+        "294.3",
+        "294.4",
+        "294.5"
+      ],
+      "dataFile": "data/companion/294.json"
+    },
+    {
+      "id": "295",
+      "title": "Existence, uniqueness, and maximal solution intervals",
+      "chapterTitle": "Supplement. Breadth beyond the book",
+      "section": "Differential equations",
+      "terms": "initial-value problem; local existence; local uniqueness; Picard-Lindelof theorem; maximal interval of existence.",
+      "reference": "Breadth supplement.",
+      "sourcePage": 583,
+      "chapterId": "chapter-11",
+      "problemIds": [
+        "295.1",
+        "295.2",
+        "295.3",
+        "295.4",
+        "295.5"
+      ],
+      "dataFile": "data/companion/295.json"
+    },
+    {
+      "id": "296",
+      "title": "Autonomous equations and phase-line stability",
+      "chapterTitle": "Supplement. Breadth beyond the book",
+      "section": "Differential equations",
+      "terms": "autonomous differential equation; equilibrium solution; stable equilibrium; asymptotic stability; unstable equilibrium; phase line.",
+      "reference": "Breadth supplement.",
+      "sourcePage": 585,
+      "chapterId": "chapter-11",
+      "problemIds": [
+        "296.1",
+        "296.2",
+        "296.3",
+        "296.4",
+        "296.5"
+      ],
+      "dataFile": "data/companion/296.json"
+    },
+    {
+      "id": "297",
+      "title": "Euler-Cauchy differential equations",
+      "chapterTitle": "Supplement. Breadth beyond the book",
+      "section": "Differential equations",
+      "terms": "Euler-Cauchy equation; equidimensional equation; indicial equation.",
+      "reference": "Breadth supplement.",
+      "sourcePage": 587,
+      "chapterId": "chapter-11",
+      "problemIds": [
+        "297.1",
+        "297.2",
+        "297.3",
+        "297.4",
+        "297.5"
+      ],
+      "dataFile": "data/companion/297.json"
+    },
+    {
+      "id": "298",
+      "title": "Linear differential systems and matrix exponentials",
+      "chapterTitle": "Supplement. Breadth beyond the book",
+      "section": "Differential equations",
+      "terms": "linear differential system; matrix exponential; fundamental matrix; Jordan-block solu- tion.",
+      "reference": "Breadth supplement.",
+      "sourcePage": 588,
+      "chapterId": "chapter-11",
+      "problemIds": [
+        "298.1",
+        "298.2",
+        "298.3",
+        "298.4",
+        "298.5",
+        "298.6"
+      ],
+      "dataFile": "data/companion/298.json"
+    },
+    {
+      "id": "299",
+      "title": "Inner products, orthogonality, and Gram-Schmidt",
+      "chapterTitle": "Supplement. Breadth beyond the book",
+      "section": "Linear algebra",
+      "terms": "inner product; norm induced by an inner product; orthonormal basis; Gram-Schmidt process; Cauchy-Schwarz inequality.",
+      "reference": "Breadth supplement.",
+      "sourcePage": 590,
+      "chapterId": "chapter-11",
+      "problemIds": [
+        "299.1",
+        "299.2",
+        "299.3",
+        "299.4",
+        "299.5",
+        "299.6"
+      ],
+      "dataFile": "data/companion/299.json"
+    },
+    {
+      "id": "300",
+      "title": "Orthogonal projections and least squares",
+      "chapterTitle": "Supplement. Breadth beyond the book",
+      "section": "Linear algebra",
+      "terms": "orthogonal projection onto a subspace; least squares; normal equations; projection ma- trix.",
+      "reference": "Breadth supplement.",
+      "sourcePage": 592,
+      "chapterId": "chapter-11",
+      "problemIds": [
+        "300.1",
+        "300.2",
+        "300.3",
+        "300.4",
+        "300.5"
+      ],
+      "dataFile": "data/companion/300.json"
+    },
+    {
+      "id": "301",
+      "title": "Change of basis, similarity, and diagonalization",
+      "chapterTitle": "Supplement. Breadth beyond the book",
+      "section": "Linear algebra",
+      "terms": "coordinate vector; change-of-basis matrix; similar matrices; diagonalizable operator; algebraic multiplicity; geometric multiplicity.",
+      "reference": "Breadth supplement.",
+      "sourcePage": 594,
+      "chapterId": "chapter-11",
+      "problemIds": [
+        "301.1",
+        "301.2",
+        "301.3",
+        "301.4",
+        "301.5"
+      ],
+      "dataFile": "data/companion/301.json"
+    },
+    {
+      "id": "302",
+      "title": "Rank inequalities and dimensions of intersections",
+      "chapterTitle": "Supplement. Breadth beyond the book",
+      "section": "Linear algebra",
+      "terms": "Sylvester rank inequality; dimension formula; rank of a composition.",
+      "reference": "Breadth supplement.",
+      "sourcePage": 596,
+      "chapterId": "chapter-11",
+      "problemIds": [
+        "302.1",
+        "302.2",
+        "302.3",
+        "302.4",
+        "302.5"
+      ],
+      "dataFile": "data/companion/302.json"
+    },
+    {
+      "id": "303",
+      "title": "Quadratic forms and positive definiteness",
+      "chapterTitle": "Supplement. Breadth beyond the book",
+      "section": "Linear algebra",
+      "terms": "quadratic form; positive definite matrix; positive semidefinite matrix; Sylvester criterion; Sylvester law of inertia.",
+      "reference": "Breadth supplement.",
+      "sourcePage": 598,
+      "chapterId": "chapter-11",
+      "problemIds": [
+        "303.1",
+        "303.2",
+        "303.3",
+        "303.4",
+        "303.5"
+      ],
+      "dataFile": "data/companion/303.json"
+    },
+    {
+      "id": "304",
+      "title": "Minimal polynomials and nilpotent Jordan structure",
+      "chapterTitle": "Supplement. Breadth beyond the book",
+      "section": "Linear algebra",
+      "terms": "annihilating polynomial; minimal polynomial; Jordan block; Jordan normal form; nilpo- tency index.",
+      "reference": "Breadth supplement.",
+      "sourcePage": 600,
+      "chapterId": "chapter-11",
+      "problemIds": [
+        "304.1",
+        "304.2",
+        "304.3",
+        "304.4",
+        "304.5"
+      ],
+      "dataFile": "data/companion/304.json"
+    },
+    {
+      "id": "305",
+      "title": "Quotient groups and the first isomorphism theorem",
+      "chapterTitle": "Supplement. Breadth beyond the book",
+      "section": "Abstract algebra",
+      "terms": "quotient group; coset multiplication; first isomorphism theorem; factorization through a quotient.",
+      "reference": "Breadth supplement.",
+      "sourcePage": 602,
+      "chapterId": "chapter-11",
+      "problemIds": [
+        "305.1",
+        "305.2",
+        "305.3",
+        "305.4",
+        "305.5",
+        "305.6"
+      ],
+      "dataFile": "data/companion/305.json"
+    },
+    {
+      "id": "306",
+      "title": "Ideals, quotient rings, and polynomial quotients",
+      "chapterTitle": "Supplement. Breadth beyond the book",
+      "section": "Abstract algebra",
+      "terms": "ideal; quotient ring; prime ideal; maximal ideal; irreducible polynomial; comaximal ideals.",
+      "reference": "Breadth supplement.",
+      "sourcePage": 604,
+      "chapterId": "chapter-11",
+      "problemIds": [
+        "306.1",
+        "306.2",
+        "306.3",
+        "306.4",
+        "306.5",
+        "306.6"
+      ],
+      "dataFile": "data/companion/306.json"
+    },
+    {
+      "id": "307",
+      "title": "Modules, free modules, and annihilators",
+      "chapterTitle": "Supplement. Breadth beyond the book",
+      "section": "Abstract algebra",
+      "terms": "module; submodule; module homomorphism; free module; torsion module; torsion-free module; annihilator.",
+      "reference": "Breadth supplement.",
+      "sourcePage": 606,
+      "chapterId": "chapter-11",
+      "problemIds": [
+        "307.1",
+        "307.2",
+        "307.3",
+        "307.4",
+        "307.5"
+      ],
+      "dataFile": "data/companion/307.json"
+    },
+    {
+      "id": "308",
+      "title": "Group actions, conjugacy, and orbit counting",
+      "chapterTitle": "Supplement. Breadth beyond the book",
+      "section": "Abstract algebra",
+      "terms": "group action; orbit; stabilizer; orbit-stabilizer theorem; conjugacy class; centralizer; Burnside counting lemma.",
+      "reference": "Breadth supplement.",
+      "sourcePage": 608,
+      "chapterId": "chapter-11",
+      "problemIds": [
+        "308.1",
+        "308.2",
+        "308.3",
+        "308.4",
+        "308.5"
+      ],
+      "dataFile": "data/companion/308.json"
+    },
+    {
+      "id": "309",
+      "title": "Sylow subgroup counts and normality",
+      "chapterTitle": "Supplement. Breadth beyond the book",
+      "section": "Abstract algebra",
+      "terms": "Sylow subgroup; Sylow conjugacy theorem; Sylow counting theorem.",
+      "reference": "Breadth supplement.",
+      "sourcePage": 610,
+      "chapterId": "chapter-11",
+      "problemIds": [
+        "309.1",
+        "309.2",
+        "309.3",
+        "309.4",
+        "309.5"
+      ],
+      "dataFile": "data/companion/309.json"
+    },
+    {
+      "id": "310",
+      "title": "Polynomial irreducibility and finite field extensions",
+      "chapterTitle": "Supplement. Breadth beyond the book",
+      "section": "Abstract algebra",
+      "terms": "irreducible polynomial; minimal polynomial of an algebraic element; field extension; extension degree; tower law; finite field; algebraic element; algebraic closure; compositum of fields; Eisen- stein criterion; Gauss lemma.",
+      "reference": "Breadth supplement.",
+      "sourcePage": 612,
+      "chapterId": "chapter-11",
+      "problemIds": [
+        "310.1",
+        "310.2",
+        "310.3",
+        "310.4",
+        "310.5",
+        "310.6"
+      ],
+      "dataFile": "data/companion/310.json"
+    },
+    {
+      "id": "311",
+      "title": "Pointwise and uniform convergence of functions",
+      "chapterTitle": "Supplement. Breadth beyond the book",
+      "section": "Real analysis",
+      "terms": "pointwise convergence; uniform convergence; supremum norm; uniform limit theorem; Weierstrass M-test.",
+      "reference": "Breadth supplement.",
+      "sourcePage": 614,
+      "chapterId": "chapter-11",
+      "problemIds": [
+        "311.1",
+        "311.2",
+        "311.3",
+        "311.4",
+        "311.5"
+      ],
+      "dataFile": "data/companion/311.json"
+    },
+    {
+      "id": "312",
+      "title": "Interchanging limits, derivatives, and integrals",
+      "chapterTitle": "Supplement. Breadth beyond the book",
+      "section": "Real analysis",
+      "terms": "termwise differentiation; uniform convergence of derivatives; differentiation under the integral sign.",
+      "reference": "Breadth supplement.",
+      "sourcePage": 616,
+      "chapterId": "chapter-11",
+      "problemIds": [
+        "312.1",
+        "312.2",
+        "312.3",
+        "312.4",
+        "312.5",
+        "312.6"
+      ],
+      "dataFile": "data/companion/312.json"
+    },
+    {
+      "id": "313",
+      "title": "Sample means, standard error, and the central limit theorem",
+      "chapterTitle": "Supplement. Breadth beyond the book",
+      "section": "Probability and statistics",
+      "terms": "sample mean; standard error; central limit theorem; sampling distribution.",
+      "reference": "Breadth supplement.",
+      "sourcePage": 618,
+      "chapterId": "chapter-11",
+      "problemIds": [
+        "313.1",
+        "313.2",
+        "313.3",
+        "313.4",
+        "313.5"
+      ],
+      "dataFile": "data/companion/313.json"
+    },
+    {
+      "id": "314",
+      "title": "Geometric, Poisson, and exponential distributions",
+      "chapterTitle": "Supplement. Breadth beyond the book",
+      "section": "Probability and statistics",
+      "terms": "geometric distribution; Poisson distribution; exponential distribution; memoryless prop- erty; Poisson thinning; rate parameter; homogeneous Poisson process.",
+      "reference": "Breadth supplement.",
+      "sourcePage": 620,
+      "chapterId": "chapter-11",
+      "problemIds": [
+        "314.1",
+        "314.2",
+        "314.3",
+        "314.4",
+        "314.5",
+        "314.6"
+      ],
+      "dataFile": "data/companion/314.json"
+    },
+    {
+      "id": "315",
+      "title": "Conditional expectation and total expectation and variance",
+      "chapterTitle": "Supplement. Breadth beyond the book",
+      "section": "Probability and statistics",
+      "terms": "conditional expectation; law of total expectation; law of total variance; conditional vari- ance; random sum.",
+      "reference": "Breadth supplement.",
+      "sourcePage": 622,
+      "chapterId": "chapter-11",
+      "problemIds": [
+        "315.1",
+        "315.2",
+        "315.3",
+        "315.4",
+        "315.5"
+      ],
+      "dataFile": "data/companion/315.json"
+    },
+    {
+      "id": "316",
+      "title": "Triangle geometry and circle power",
+      "chapterTitle": "Supplement. Breadth beyond the book",
+      "section": "Geometry",
+      "terms": "law of cosines; law of sines; Heron formula; inradius; circumradius; power of a point.",
+      "reference": "Breadth supplement.",
+      "sourcePage": 624,
+      "chapterId": "chapter-11",
+      "problemIds": [
+        "316.1",
+        "316.2",
+        "316.3",
+        "316.4",
+        "316.5"
+      ],
+      "dataFile": "data/companion/316.json"
+    }
+  ]
+}

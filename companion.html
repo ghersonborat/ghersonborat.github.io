@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#244f45">
+  <meta name="description" content="Read the GRE Mathematics Companion, explore 316 concepts, and practice 1,647 quizzes with immediate worked solutions.">
+  <title>GRE Mathematics Companion · The Practice Room</title>
+  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="companion.css">
+  <script type="module" src="js/companion.js"></script>
+</head>
+<body class="companion">
+  <a class="skip-link" href="#reading">Skip to reading</a>
+  <header class="book-header">
+    <a class="wordmark" href="index.html" aria-label="Practice Room home">∑ <span>THE PRACTICE ROOM</span></a>
+    <nav aria-label="Main"><a href="index.html">Exam library</a><a href="companion.html" aria-current="page">Companion</a></nav>
+  </header>
+  <div class="book-toolbar">
+    <button id="contents-toggle" class="book-icon-button" aria-label="Toggle table of contents" aria-controls="book-sidebar" aria-expanded="true"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h16"/></svg></button>
+    <a href="#contents" class="book-title">GRE Mathematics Companion</a>
+    <a href="GRE_Mathematics_Companion.pdf" target="_blank" rel="noopener" class="pdf-link">Original PDF ↗</a>
+  </div>
+  <button id="sidebar-backdrop" aria-label="Close table of contents" hidden></button>
+  <aside id="book-sidebar" class="book-sidebar" aria-label="Book navigation">
+    <div class="sidebar-top">
+      <a href="#contents" class="contents-heading">TABLE OF CONTENTS</a>
+      <label class="book-search"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10" cy="10" r="6"/><path d="m15 15 5 5"/></svg><input id="concept-search" type="search" placeholder="Find a concept or term…" aria-label="Search concepts and terms" autocomplete="off"><kbd>/</kbd></label>
+      <div class="quiz-progress"><div><span>Quizzes completed</span><strong id="total-progress">0 / 1,647</strong></div><progress id="completion-progress" max="1647" value="0" aria-label="Completed quizzes"></progress></div>
+      <p class="cookie-note">Only completed quizzes are saved, using a cookie in this browser.</p>
+    </div>
+    <p id="search-status" class="search-status" role="status" hidden></p>
+    <nav id="chapter-nav" aria-label="Chapters and concepts"><p class="sidebar-loading">Loading contents…</p></nav>
+    <div class="sidebar-bottom"><a href="index.html">← Back to the exam library</a></div>
+  </aside>
+  <main id="reading" class="book-main" tabindex="-1">
+    <div id="cookie-status" class="book-notice" role="status" hidden></div>
+    <div id="book-content"><p class="book-loading">Opening the companion…</p></div>
+  </main>
+  <div id="book-announcer" class="sr-only" role="status" aria-live="polite"></div>
+  <noscript><p class="book-notice">Enable JavaScript to use quizzes and chapter navigation, or <a href="GRE_Mathematics_Companion.pdf">read the complete companion PDF</a>.</p></noscript>
+</body>
+</html>
