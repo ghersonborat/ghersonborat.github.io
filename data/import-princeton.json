@@ -1,0 +1,702 @@
+{
+  "exams": [
+    {
+      "id": "princeton2010",
+      "title": "Princeton Review Practice Test",
+      "year": 2010,
+      "form": "PR2010",
+      "category": "unofficial",
+      "publisher": "The Princeton Review / Random House",
+      "questionCount": 65,
+      "durationSeconds": 10200,
+      "sourceFile": "Cracking the GRE Mathematics Subject Test (Stephen A. Leduc) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+      "duplicateFiles": [],
+      "sourceSha256": "9f4693791bc50f42205894c44e02c191da91c4bdcc2d82e49d817c35fc574b13",
+      "scoring": {
+        "method": "number-correct",
+        "conversion": [],
+        "notes": "This publisher practice test has 65 questions and no published test-specific raw-to-scaled conversion table. Results report the number correct out of 65; no GRE scaled-score estimate is calculated. The book discusses the historical wrong-answer penalty in its general introduction, but does not provide a scoring curve for this test. Correct choices follow the numbered answer explanations on PDF pages 432–454.",
+        "sourcePages": [
+          432,
+          433,
+          434,
+          435,
+          436,
+          437,
+          438,
+          439,
+          440,
+          441,
+          442,
+          443,
+          444,
+          445,
+          446,
+          447,
+          448,
+          449,
+          450,
+          451,
+          452,
+          453,
+          454
+        ],
+        "keyImage": "assets/sources/princeton2010-key.webp",
+        "conversionImage": null
+      },
+      "editionNotes": "Cracking the GRE Mathematics Subject Test, fourth edition, Steven A. Leduc, copyright 2010. This is the book’s single full-length publisher practice test (printed pages 406–420; answers and explanations 422–444), not an ETS released exam. Original 65-question count and 170-minute time limit are preserved.",
+      "questions": [
+        {
+          "number": 1,
+          "image": "assets/questions/princeton2010/q01.webp",
+          "imageWidth": 1004,
+          "imageHeight": 111,
+          "answer": "D",
+          "sourcePage": 416,
+          "answerSourcePage": 432,
+          "alt": "Princeton Review 2010 practice test, question 1, including all five original answer choices. The source PDF is available from the test library."
+        },
+        {
+          "number": 2,
+          "image": "assets/questions/princeton2010/q02.webp",
+          "imageWidth": 1004,
+          "imageHeight": 164,
+          "answer": "A",
+          "sourcePage": 416,
+          "answerSourcePage": 432,
+          "alt": "Princeton Review 2010 practice test, question 2, including all five original answer choices. The source PDF is available from the test library."
+        },
+        {
+          "number": 3,
+          "image": "assets/questions/princeton2010/q03.webp",
+          "imageWidth": 1004,
+          "imageHeight": 182,
+          "answer": "B",
+          "sourcePage": 416,
+          "answerSourcePage": 432,
+          "alt": "Princeton Review 2010 practice test, question 3, including all five original answer choices. The source PDF is available from the test library."
+        },
+        {
+          "number": 4,
+          "image": "assets/questions/princeton2010/q04.webp",
+          "imageWidth": 1004,
+          "imageHeight": 139,
+          "answer": "B",
+          "sourcePage": 416,
+          "answerSourcePage": 432,
+          "alt": "Princeton Review 2010 practice test, question 4, including all five original answer choices. The source PDF is available from the test library."
+        },
+        {
+          "number": 5,
+          "image": "assets/questions/princeton2010/q05.webp",
+          "imageWidth": 1004,
+          "imageHeight": 118,
+          "answer": "C",
+          "sourcePage": 417,
+          "answerSourcePage": 432,
+          "alt": "Princeton Review 2010 practice test, question 5, including all five original answer choices. The source PDF is available from the test library."
+        },
+        {
+          "number": 6,
+          "image": "assets/questions/princeton2010/q06.webp",
+          "imageWidth": 1004,
+          "imageHeight": 134,
+          "answer": "A",
+          "sourcePage": 417,
+          "answerSourcePage": 432,
+          "alt": "Princeton Review 2010 practice test, question 6, including all five original answer choices. The source PDF is available from the test library."
+        },
+        {
+          "number": 7,
+          "image": "assets/questions/princeton2010/q07.webp",
+          "imageWidth": 1004,
+          "imageHeight": 154,
+          "answer": "E",
+          "sourcePage": 417,
+          "answerSourcePage": 433,
+          "alt": "Princeton Review 2010 practice test, question 7, including all five original answer choices. The source PDF is available from the test library."
+        },
+        {
+          "number": 8,
+          "image": "assets/questions/princeton2010/q08.webp",
+          "imageWidth": 1004,
+          "imageHeight": 119,
+          "answer": "E",
+          "sourcePage": 417,
+          "answerSourcePage": 433,
+          "alt": "Princeton Review 2010 practice test, question 8, including all five original answer choices. The source PDF is available from the test library."
+        },
+        {
+          "number": 9,
+          "image": "assets/questions/princeton2010/q09.webp",
+          "imageWidth": 1004,
+          "imageHeight": 167,
+          "answer": "B",
+          "sourcePage": 417,
+          "answerSourcePage": 433,
+          "alt": "Princeton Review 2010 practice test, question 9, including all five original answer choices. The source PDF is available from the test library."
+        },
+        {
+          "number": 10,
+          "image": "assets/questions/princeton2010/q10.webp",
+          "imageWidth": 1004,
+          "imageHeight": 295,
+          "answer": "D",
+          "sourcePage": 417,
+          "answerSourcePage": 433,
+          "alt": "Princeton Review 2010 practice test, question 10, including all five original answer choices. The source PDF is available from the test library."
+        },
+        {
+          "number": 11,
+          "image": "assets/questions/princeton2010/q11.webp",
+          "imageWidth": 1004,
+          "imageHeight": 218,
+          "answer": "C",
+          "sourcePage": 418,
+          "answerSourcePage": 434,
+          "alt": "Princeton Review 2010 practice test, question 11, including all five original answer choices. The source PDF is available from the test library."
+        },
+        {
+          "number": 12,
+          "image": "assets/questions/princeton2010/q12.webp",
+          "imageWidth": 1004,
+          "imageHeight": 162,
+          "answer": "B",
+          "sourcePage": 418,
+          "answerSourcePage": 434,
+          "alt": "Princeton Review 2010 practice test, question 12, including all five original answer choices. The source PDF is available from the test library."
+        },
+        {
+          "number": 13,
+          "image": "assets/questions/princeton2010/q13.webp",
+          "imageWidth": 1004,
+          "imageHeight": 195,
+          "answer": "A",
+          "sourcePage": 418,
+          "answerSourcePage": 434,
+          "alt": "Princeton Review 2010 practice test, question 13, including all five original answer choices. The source PDF is available from the test library."
+        },
+        {
+          "number": 14,
+          "image": "assets/questions/princeton2010/q14.webp",
+          "imageWidth": 1004,
+          "imageHeight": 277,
+          "answer": "E",
+          "sourcePage": 418,
+          "answerSourcePage": 435,
+          "alt": "Princeton Review 2010 practice test, question 14, including all five original answer choices. The source PDF is available from the test library."
+        },
+        {
+          "number": 15,
+          "image": "assets/questions/princeton2010/q15.webp",
+          "imageWidth": 1004,
+          "imageHeight": 331,
+          "answer": "C",
+          "sourcePage": 418,
+          "answerSourcePage": 435,
+          "alt": "Princeton Review 2010 practice test, question 15, including all five original answer choices. The source PDF is available from the test library."
+        },
+        {
+          "number": 16,
+          "image": "assets/questions/princeton2010/q16.webp",
+          "imageWidth": 1004,
+          "imageHeight": 157,
+          "answer": "C",
+          "sourcePage": 419,
+          "answerSourcePage": 435,
+          "alt": "Princeton Review 2010 practice test, question 16, including all five original answer choices. The source PDF is available from the test library."
+        },
+        {
+          "number": 17,
+          "image": "assets/questions/princeton2010/q17.webp",
+          "imageWidth": 1004,
+          "imageHeight": 171,
+          "answer": "E",
+          "sourcePage": 419,
+          "answerSourcePage": 435,
+          "alt": "Princeton Review 2010 practice test, question 17, including all five original answer choices. The source PDF is available from the test library."
+        },
+        {
+          "number": 18,
+          "image": "assets/questions/princeton2010/q18.webp",
+          "imageWidth": 1004,
+          "imageHeight": 114,
+          "answer": "E",
+          "sourcePage": 419,
+          "answerSourcePage": 435,
+          "alt": "Princeton Review 2010 practice test, question 18, including all five original answer choices. The source PDF is available from the test library."
+        },
+        {
+          "number": 19,
+          "image": "assets/questions/princeton2010/q19.webp",
+          "imageWidth": 1004,
+          "imageHeight": 138,
+          "answer": "C",
+          "sourcePage": 419,
+          "answerSourcePage": 436,
+          "alt": "Princeton Review 2010 practice test, question 19, including all five original answer choices. The source PDF is available from the test library."
+        },
+        {
+          "number": 20,
+          "image": "assets/questions/princeton2010/q20.webp",
+          "imageWidth": 1004,
+          "imageHeight": 138,
+          "answer": "C",
+          "sourcePage": 419,
+          "answerSourcePage": 436,
+          "alt": "Princeton Review 2010 practice test, question 20, including all five original answer choices. The source PDF is available from the test library."
+        },
+        {
+          "number": 21,
+          "image": "assets/questions/princeton2010/q21.webp",
+          "imageWidth": 1004,
+          "imageHeight": 266,
+          "answer": "B",
+          "sourcePage": 419,
+          "answerSourcePage": 436,
+          "alt": "Princeton Review 2010 practice test, question 21, including all five original answer choices. The source PDF is available from the test library."
+        },
+        {
+          "number": 22,
+          "image": "assets/questions/princeton2010/q22.webp",
+          "imageWidth": 1004,
+          "imageHeight": 230,
+          "answer": "B",
+          "sourcePage": 420,
+          "answerSourcePage": 437,
+          "alt": "Princeton Review 2010 practice test, question 22, including all five original answer choices. The source PDF is available from the test library."
+        },
+        {
+          "number": 23,
+          "image": "assets/questions/princeton2010/q23.webp",
+          "imageWidth": 1004,
+          "imageHeight": 135,
+          "answer": "A",
+          "sourcePage": 420,
+          "answerSourcePage": 437,
+          "alt": "Princeton Review 2010 practice test, question 23, including all five original answer choices. The source PDF is available from the test library."
+        },
+        {
+          "number": 24,
+          "image": "assets/questions/princeton2010/q24.webp",
+          "imageWidth": 1004,
+          "imageHeight": 275,
+          "answer": "A",
+          "sourcePage": 420,
+          "answerSourcePage": 437,
+          "alt": "Princeton Review 2010 practice test, question 24, including all five original answer choices. The source PDF is available from the test library."
+        },
+        {
+          "number": 25,
+          "image": "assets/questions/princeton2010/q25.webp",
+          "imageWidth": 1004,
+          "imageHeight": 151,
+          "answer": "B",
+          "sourcePage": 420,
+          "answerSourcePage": 437,
+          "alt": "Princeton Review 2010 practice test, question 25, including all five original answer choices. The source PDF is available from the test library."
+        },
+        {
+          "number": 26,
+          "image": "assets/questions/princeton2010/q26.webp",
+          "imageWidth": 1004,
+          "imageHeight": 296,
+          "answer": "D",
+          "sourcePage": 420,
+          "answerSourcePage": 438,
+          "alt": "Princeton Review 2010 practice test, question 26, including all five original answer choices. The source PDF is available from the test library."
+        },
+        {
+          "number": 27,
+          "image": "assets/questions/princeton2010/q27.webp",
+          "imageWidth": 1004,
+          "imageHeight": 329,
+          "answer": "D",
+          "sourcePage": 421,
+          "answerSourcePage": 438,
+          "alt": "Princeton Review 2010 practice test, question 27, including all five original answer choices. The source PDF is available from the test library."
+        },
+        {
+          "number": 28,
+          "image": "assets/questions/princeton2010/q28.webp",
+          "imageWidth": 1004,
+          "imageHeight": 442,
+          "answer": "C",
+          "sourcePage": 421,
+          "answerSourcePage": 438,
+          "alt": "Princeton Review 2010 practice test, question 28, including all five original answer choices. The source PDF is available from the test library."
+        },
+        {
+          "number": 29,
+          "image": "assets/questions/princeton2010/q29.webp",
+          "imageWidth": 1004,
+          "imageHeight": 145,
+          "answer": "C",
+          "sourcePage": 421,
+          "answerSourcePage": 439,
+          "alt": "Princeton Review 2010 practice test, question 29, including all five original answer choices. The source PDF is available from the test library."
+        },
+        {
+          "number": 30,
+          "image": "assets/questions/princeton2010/q30.webp",
+          "imageWidth": 1004,
+          "imageHeight": 273,
+          "answer": "D",
+          "sourcePage": 421,
+          "answerSourcePage": 439,
+          "alt": "Princeton Review 2010 practice test, question 30, including all five original answer choices. The source PDF is available from the test library."
+        },
+        {
+          "number": 31,
+          "image": "assets/questions/princeton2010/q31.webp",
+          "imageWidth": 1004,
+          "imageHeight": 230,
+          "answer": "C",
+          "sourcePage": 422,
+          "answerSourcePage": 440,
+          "alt": "Princeton Review 2010 practice test, question 31, including all five original answer choices. The source PDF is available from the test library."
+        },
+        {
+          "number": 32,
+          "image": "assets/questions/princeton2010/q32.webp",
+          "imageWidth": 1004,
+          "imageHeight": 164,
+          "answer": "A",
+          "sourcePage": 422,
+          "answerSourcePage": 440,
+          "alt": "Princeton Review 2010 practice test, question 32, including all five original answer choices. The source PDF is available from the test library."
+        },
+        {
+          "number": 33,
+          "image": "assets/questions/princeton2010/q33.webp",
+          "imageWidth": 1004,
+          "imageHeight": 265,
+          "answer": "A",
+          "sourcePage": 422,
+          "answerSourcePage": 440,
+          "alt": "Princeton Review 2010 practice test, question 33, including all five original answer choices. The source PDF is available from the test library."
+        },
+        {
+          "number": 34,
+          "image": "assets/questions/princeton2010/q34.webp",
+          "imageWidth": 1004,
+          "imageHeight": 244,
+          "answer": "D",
+          "sourcePage": 422,
+          "answerSourcePage": 440,
+          "alt": "Princeton Review 2010 practice test, question 34, including all five original answer choices. The source PDF is available from the test library."
+        },
+        {
+          "number": 35,
+          "image": "assets/questions/princeton2010/q35.webp",
+          "imageWidth": 1004,
+          "imageHeight": 356,
+          "answer": "A",
+          "sourcePage": 423,
+          "answerSourcePage": 441,
+          "alt": "Princeton Review 2010 practice test, question 35, including all five original answer choices. The source PDF is available from the test library."
+        },
+        {
+          "number": 36,
+          "image": "assets/questions/princeton2010/q36.webp",
+          "imageWidth": 1004,
+          "imageHeight": 163,
+          "answer": "B",
+          "sourcePage": 423,
+          "answerSourcePage": 441,
+          "alt": "Princeton Review 2010 practice test, question 36, including all five original answer choices. The source PDF is available from the test library."
+        },
+        {
+          "number": 37,
+          "image": "assets/questions/princeton2010/q37.webp",
+          "imageWidth": 1004,
+          "imageHeight": 228,
+          "answer": "B",
+          "sourcePage": 423,
+          "answerSourcePage": 442,
+          "alt": "Princeton Review 2010 practice test, question 37, including all five original answer choices. The source PDF is available from the test library."
+        },
+        {
+          "number": 38,
+          "image": "assets/questions/princeton2010/q38.webp",
+          "imageWidth": 1004,
+          "imageHeight": 286,
+          "answer": "D",
+          "sourcePage": 423,
+          "answerSourcePage": 442,
+          "alt": "Princeton Review 2010 practice test, question 38, including all five original answer choices. The source PDF is available from the test library."
+        },
+        {
+          "number": 39,
+          "image": "assets/questions/princeton2010/q39.webp",
+          "imageWidth": 1004,
+          "imageHeight": 432,
+          "answer": "E",
+          "sourcePage": 424,
+          "answerSourcePage": 443,
+          "alt": "Princeton Review 2010 practice test, question 39, including all five original answer choices. The source PDF is available from the test library."
+        },
+        {
+          "number": 40,
+          "image": "assets/questions/princeton2010/q40.webp",
+          "imageWidth": 1004,
+          "imageHeight": 142,
+          "answer": "D",
+          "sourcePage": 424,
+          "answerSourcePage": 443,
+          "alt": "Princeton Review 2010 practice test, question 40, including all five original answer choices. The source PDF is available from the test library."
+        },
+        {
+          "number": 41,
+          "image": "assets/questions/princeton2010/q41.webp",
+          "imageWidth": 1004,
+          "imageHeight": 318,
+          "answer": "C",
+          "sourcePage": 424,
+          "answerSourcePage": 443,
+          "alt": "Princeton Review 2010 practice test, question 41, including all five original answer choices. The source PDF is available from the test library."
+        },
+        {
+          "number": 42,
+          "image": "assets/questions/princeton2010/q42.webp",
+          "imageWidth": 1004,
+          "imageHeight": 266,
+          "answer": "B",
+          "sourcePage": 424,
+          "answerSourcePage": 444,
+          "alt": "Princeton Review 2010 practice test, question 42, including all five original answer choices. The source PDF is available from the test library."
+        },
+        {
+          "number": 43,
+          "image": "assets/questions/princeton2010/q43.webp",
+          "imageWidth": 1004,
+          "imageHeight": 179,
+          "answer": "B",
+          "sourcePage": 425,
+          "answerSourcePage": 444,
+          "alt": "Princeton Review 2010 practice test, question 43, including all five original answer choices. The source PDF is available from the test library."
+        },
+        {
+          "number": 44,
+          "image": "assets/questions/princeton2010/q44.webp",
+          "imageWidth": 1004,
+          "imageHeight": 140,
+          "answer": "C",
+          "sourcePage": 425,
+          "answerSourcePage": 445,
+          "alt": "Princeton Review 2010 practice test, question 44, including all five original answer choices. The source PDF is available from the test library."
+        },
+        {
+          "number": 45,
+          "image": "assets/questions/princeton2010/q45.webp",
+          "imageWidth": 1004,
+          "imageHeight": 224,
+          "answer": "B",
+          "sourcePage": 425,
+          "answerSourcePage": 445,
+          "alt": "Princeton Review 2010 practice test, question 45, including all five original answer choices. The source PDF is available from the test library."
+        },
+        {
+          "number": 46,
+          "image": "assets/questions/princeton2010/q46.webp",
+          "imageWidth": 1004,
+          "imageHeight": 163,
+          "answer": "E",
+          "sourcePage": 425,
+          "answerSourcePage": 446,
+          "alt": "Princeton Review 2010 practice test, question 46, including all five original answer choices. The source PDF is available from the test library."
+        },
+        {
+          "number": 47,
+          "image": "assets/questions/princeton2010/q47.webp",
+          "imageWidth": 1004,
+          "imageHeight": 186,
+          "answer": "C",
+          "sourcePage": 425,
+          "answerSourcePage": 447,
+          "alt": "Princeton Review 2010 practice test, question 47, including all five original answer choices. The source PDF is available from the test library."
+        },
+        {
+          "number": 48,
+          "image": "assets/questions/princeton2010/q48.webp",
+          "imageWidth": 1004,
+          "imageHeight": 141,
+          "answer": "C",
+          "sourcePage": 426,
+          "answerSourcePage": 447,
+          "alt": "Princeton Review 2010 practice test, question 48, including all five original answer choices. The source PDF is available from the test library."
+        },
+        {
+          "number": 49,
+          "image": "assets/questions/princeton2010/q49.webp",
+          "imageWidth": 1004,
+          "imageHeight": 443,
+          "answer": "D",
+          "sourcePage": 426,
+          "answerSourcePage": 447,
+          "alt": "Princeton Review 2010 practice test, question 49, including all five original answer choices. The source PDF is available from the test library."
+        },
+        {
+          "number": 50,
+          "image": "assets/questions/princeton2010/q50.webp",
+          "imageWidth": 1004,
+          "imageHeight": 109,
+          "answer": "B",
+          "sourcePage": 426,
+          "answerSourcePage": 448,
+          "alt": "Princeton Review 2010 practice test, question 50, including all five original answer choices. The source PDF is available from the test library."
+        },
+        {
+          "number": 51,
+          "image": "assets/questions/princeton2010/q51.webp",
+          "imageWidth": 1004,
+          "imageHeight": 222,
+          "answer": "C",
+          "sourcePage": 426,
+          "answerSourcePage": 448,
+          "alt": "Princeton Review 2010 practice test, question 51, including all five original answer choices. The source PDF is available from the test library."
+        },
+        {
+          "number": 52,
+          "image": "assets/questions/princeton2010/q52.webp",
+          "imageWidth": 1004,
+          "imageHeight": 286,
+          "answer": "D",
+          "sourcePage": 427,
+          "answerSourcePage": 449,
+          "alt": "Princeton Review 2010 practice test, question 52, including all five original answer choices. The source PDF is available from the test library."
+        },
+        {
+          "number": 53,
+          "image": "assets/questions/princeton2010/q53.webp",
+          "imageWidth": 1004,
+          "imageHeight": 137,
+          "answer": "A",
+          "sourcePage": 427,
+          "answerSourcePage": 449,
+          "alt": "Princeton Review 2010 practice test, question 53, including all five original answer choices. The source PDF is available from the test library."
+        },
+        {
+          "number": 54,
+          "image": "assets/questions/princeton2010/q54.webp",
+          "imageWidth": 1004,
+          "imageHeight": 250,
+          "answer": "D",
+          "sourcePage": 427,
+          "answerSourcePage": 450,
+          "alt": "Princeton Review 2010 practice test, question 54, including all five original answer choices. The source PDF is available from the test library."
+        },
+        {
+          "number": 55,
+          "image": "assets/questions/princeton2010/q55.webp",
+          "imageWidth": 1004,
+          "imageHeight": 148,
+          "answer": "B",
+          "sourcePage": 427,
+          "answerSourcePage": 450,
+          "alt": "Princeton Review 2010 practice test, question 55, including all five original answer choices. The source PDF is available from the test library."
+        },
+        {
+          "number": 56,
+          "image": "assets/questions/princeton2010/q56.webp",
+          "imageWidth": 1004,
+          "imageHeight": 193,
+          "answer": "E",
+          "sourcePage": 427,
+          "answerSourcePage": 451,
+          "alt": "Princeton Review 2010 practice test, question 56, including all five original answer choices. The source PDF is available from the test library."
+        },
+        {
+          "number": 57,
+          "image": "assets/questions/princeton2010/q57.webp",
+          "imageWidth": 1004,
+          "imageHeight": 1002,
+          "answer": "C",
+          "sourcePage": 428,
+          "answerSourcePage": 451,
+          "alt": "Princeton Review 2010 practice test, question 57, including all five original answer choices. The source PDF is available from the test library."
+        },
+        {
+          "number": 58,
+          "image": "assets/questions/princeton2010/q58.webp",
+          "imageWidth": 1004,
+          "imageHeight": 288,
+          "answer": "B",
+          "sourcePage": 429,
+          "answerSourcePage": 451,
+          "alt": "Princeton Review 2010 practice test, question 58, including all five original answer choices. The source PDF is available from the test library."
+        },
+        {
+          "number": 59,
+          "image": "assets/questions/princeton2010/q59.webp",
+          "imageWidth": 1004,
+          "imageHeight": 110,
+          "answer": "D",
+          "sourcePage": 429,
+          "answerSourcePage": 452,
+          "alt": "Princeton Review 2010 practice test, question 59, including all five original answer choices. The source PDF is available from the test library."
+        },
+        {
+          "number": 60,
+          "image": "assets/questions/princeton2010/q60.webp",
+          "imageWidth": 1004,
+          "imageHeight": 258,
+          "answer": "E",
+          "sourcePage": 429,
+          "answerSourcePage": 452,
+          "alt": "Princeton Review 2010 practice test, question 60, including all five original answer choices. The source PDF is available from the test library."
+        },
+        {
+          "number": 61,
+          "image": "assets/questions/princeton2010/q61.webp",
+          "imageWidth": 1004,
+          "imageHeight": 240,
+          "answer": "D",
+          "sourcePage": 429,
+          "answerSourcePage": 452,
+          "alt": "Princeton Review 2010 practice test, question 61, including all five original answer choices. The source PDF is available from the test library."
+        },
+        {
+          "number": 62,
+          "image": "assets/questions/princeton2010/q62.webp",
+          "imageWidth": 1004,
+          "imageHeight": 288,
+          "answer": "E",
+          "sourcePage": 429,
+          "answerSourcePage": 453,
+          "alt": "Princeton Review 2010 practice test, question 62, including all five original answer choices. The source PDF is available from the test library."
+        },
+        {
+          "number": 63,
+          "image": "assets/questions/princeton2010/q63.webp",
+          "imageWidth": 1004,
+          "imageHeight": 185,
+          "answer": "B",
+          "sourcePage": 430,
+          "answerSourcePage": 454,
+          "alt": "Princeton Review 2010 practice test, question 63, including all five original answer choices. The source PDF is available from the test library."
+        },
+        {
+          "number": 64,
+          "image": "assets/questions/princeton2010/q64.webp",
+          "imageWidth": 1004,
+          "imageHeight": 136,
+          "answer": "B",
+          "sourcePage": 430,
+          "answerSourcePage": 454,
+          "alt": "Princeton Review 2010 practice test, question 64, including all five original answer choices. The source PDF is available from the test library."
+        },
+        {
+          "number": 65,
+          "image": "assets/questions/princeton2010/q65.webp",
+          "imageWidth": 1004,
+          "imageHeight": 168,
+          "answer": "D",
+          "sourcePage": 430,
+          "answerSourcePage": 454,
+          "alt": "Princeton Review 2010 practice test, question 65, including all five original answer choices. The source PDF is available from the test library."
+        }
+      ]
+    }
+  ]
+}

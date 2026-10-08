@@ -1,0 +1,716 @@
+{
+  "GR8767": {
+    "answerKey": "BCBAACAEECBBDAEBCDDCABCDDEAECABBEABADABCDDEBEEDDCDECBECACBDCCBDCAB",
+    "scoreTable": [
+      {
+        "rawMin": 60,
+        "rawMax": 66,
+        "scaled": 990,
+        "percentBelow": 95
+      },
+      {
+        "rawMin": 59,
+        "rawMax": 59,
+        "scaled": 980,
+        "percentBelow": 94
+      },
+      {
+        "rawMin": 58,
+        "rawMax": 58,
+        "scaled": 970,
+        "percentBelow": 93
+      },
+      {
+        "rawMin": 57,
+        "rawMax": 57,
+        "scaled": 960,
+        "percentBelow": 92
+      },
+      {
+        "rawMin": 56,
+        "rawMax": 56,
+        "scaled": 950,
+        "percentBelow": 91
+      },
+      {
+        "rawMin": 55,
+        "rawMax": 55,
+        "scaled": 940,
+        "percentBelow": 90
+      },
+      {
+        "rawMin": 54,
+        "rawMax": 54,
+        "scaled": 930,
+        "percentBelow": 88
+      },
+      {
+        "rawMin": 53,
+        "rawMax": 53,
+        "scaled": 920,
+        "percentBelow": 87
+      },
+      {
+        "rawMin": 52,
+        "rawMax": 52,
+        "scaled": 910,
+        "percentBelow": 86
+      },
+      {
+        "rawMin": 51,
+        "rawMax": 51,
+        "scaled": 900,
+        "percentBelow": 85
+      },
+      {
+        "rawMin": 50,
+        "rawMax": 50,
+        "scaled": 890,
+        "percentBelow": 83
+      },
+      {
+        "rawMin": 49,
+        "rawMax": 49,
+        "scaled": 880,
+        "percentBelow": 81
+      },
+      {
+        "rawMin": 48,
+        "rawMax": 48,
+        "scaled": 870,
+        "percentBelow": 80
+      },
+      {
+        "rawMin": 47,
+        "rawMax": 47,
+        "scaled": 860,
+        "percentBelow": 78
+      },
+      {
+        "rawMin": 46,
+        "rawMax": 46,
+        "scaled": 850,
+        "percentBelow": 77
+      },
+      {
+        "rawMin": 44,
+        "rawMax": 45,
+        "scaled": 840,
+        "percentBelow": 75
+      },
+      {
+        "rawMin": 43,
+        "rawMax": 43,
+        "scaled": 830,
+        "percentBelow": 73
+      },
+      {
+        "rawMin": 42,
+        "rawMax": 42,
+        "scaled": 820,
+        "percentBelow": 71
+      },
+      {
+        "rawMin": 41,
+        "rawMax": 41,
+        "scaled": 810,
+        "percentBelow": 69
+      },
+      {
+        "rawMin": 40,
+        "rawMax": 40,
+        "scaled": 800,
+        "percentBelow": 67
+      },
+      {
+        "rawMin": 39,
+        "rawMax": 39,
+        "scaled": 790,
+        "percentBelow": 65
+      },
+      {
+        "rawMin": 38,
+        "rawMax": 38,
+        "scaled": 780,
+        "percentBelow": 63
+      },
+      {
+        "rawMin": 37,
+        "rawMax": 37,
+        "scaled": 770,
+        "percentBelow": 61
+      },
+      {
+        "rawMin": 36,
+        "rawMax": 36,
+        "scaled": 760,
+        "percentBelow": 59
+      },
+      {
+        "rawMin": 35,
+        "rawMax": 35,
+        "scaled": 750,
+        "percentBelow": 57
+      },
+      {
+        "rawMin": 34,
+        "rawMax": 34,
+        "scaled": 740,
+        "percentBelow": 55
+      },
+      {
+        "rawMin": 33,
+        "rawMax": 33,
+        "scaled": 730,
+        "percentBelow": 53
+      },
+      {
+        "rawMin": 32,
+        "rawMax": 32,
+        "scaled": 720,
+        "percentBelow": 51
+      },
+      {
+        "rawMin": 31,
+        "rawMax": 31,
+        "scaled": 710,
+        "percentBelow": 48
+      },
+      {
+        "rawMin": 30,
+        "rawMax": 30,
+        "scaled": 700,
+        "percentBelow": 46
+      },
+      {
+        "rawMin": 29,
+        "rawMax": 29,
+        "scaled": 690,
+        "percentBelow": 44
+      },
+      {
+        "rawMin": 28,
+        "rawMax": 28,
+        "scaled": 680,
+        "percentBelow": 42
+      },
+      {
+        "rawMin": 27,
+        "rawMax": 27,
+        "scaled": 670,
+        "percentBelow": 40
+      },
+      {
+        "rawMin": 26,
+        "rawMax": 26,
+        "scaled": 660,
+        "percentBelow": 38
+      },
+      {
+        "rawMin": 25,
+        "rawMax": 25,
+        "scaled": 650,
+        "percentBelow": 35
+      },
+      {
+        "rawMin": 24,
+        "rawMax": 24,
+        "scaled": 640,
+        "percentBelow": 33
+      },
+      {
+        "rawMin": 23,
+        "rawMax": 23,
+        "scaled": 630,
+        "percentBelow": 31
+      },
+      {
+        "rawMin": 22,
+        "rawMax": 22,
+        "scaled": 620,
+        "percentBelow": 29
+      },
+      {
+        "rawMin": 21,
+        "rawMax": 21,
+        "scaled": 610,
+        "percentBelow": 27
+      },
+      {
+        "rawMin": 20,
+        "rawMax": 20,
+        "scaled": 600,
+        "percentBelow": 25
+      },
+      {
+        "rawMin": 19,
+        "rawMax": 19,
+        "scaled": 590,
+        "percentBelow": 23
+      },
+      {
+        "rawMin": 17,
+        "rawMax": 18,
+        "scaled": 580,
+        "percentBelow": 21
+      },
+      {
+        "rawMin": 16,
+        "rawMax": 16,
+        "scaled": 570,
+        "percentBelow": 19
+      },
+      {
+        "rawMin": 15,
+        "rawMax": 15,
+        "scaled": 560,
+        "percentBelow": 18
+      },
+      {
+        "rawMin": 14,
+        "rawMax": 14,
+        "scaled": 550,
+        "percentBelow": 16
+      },
+      {
+        "rawMin": 13,
+        "rawMax": 13,
+        "scaled": 540,
+        "percentBelow": 15
+      },
+      {
+        "rawMin": 12,
+        "rawMax": 12,
+        "scaled": 530,
+        "percentBelow": 14
+      },
+      {
+        "rawMin": 11,
+        "rawMax": 11,
+        "scaled": 520,
+        "percentBelow": 12
+      },
+      {
+        "rawMin": 10,
+        "rawMax": 10,
+        "scaled": 510,
+        "percentBelow": 11
+      },
+      {
+        "rawMin": 9,
+        "rawMax": 9,
+        "scaled": 500,
+        "percentBelow": 10
+      },
+      {
+        "rawMin": 8,
+        "rawMax": 8,
+        "scaled": 490,
+        "percentBelow": 8
+      },
+      {
+        "rawMin": 7,
+        "rawMax": 7,
+        "scaled": 480,
+        "percentBelow": 7
+      },
+      {
+        "rawMin": 6,
+        "rawMax": 6,
+        "scaled": 470,
+        "percentBelow": 6
+      },
+      {
+        "rawMin": 5,
+        "rawMax": 5,
+        "scaled": 460,
+        "percentBelow": 5
+      },
+      {
+        "rawMin": 4,
+        "rawMax": 4,
+        "scaled": 450,
+        "percentBelow": 4
+      },
+      {
+        "rawMin": 3,
+        "rawMax": 3,
+        "scaled": 440,
+        "percentBelow": 3
+      },
+      {
+        "rawMin": 2,
+        "rawMax": 2,
+        "scaled": 430,
+        "percentBelow": 3
+      },
+      {
+        "rawMin": 1,
+        "rawMax": 1,
+        "scaled": 420,
+        "percentBelow": 2
+      },
+      {
+        "rawMin": 0,
+        "rawMax": 0,
+        "scaled": 410,
+        "percentBelow": 2
+      }
+    ],
+    "scoring": "round(correct - incorrect / 4)",
+    "sourcePdf": "8767.pdf",
+    "keyPdfPage": 27,
+    "scorePdfPage": 28,
+    "verification": "Independently visually transcribed at 240 dpi from supplied local PDF; every key entry and score row checked.",
+    "negativeRawScorePolicy": "No negative raw score conversions published in these tables; do not invent an exact scaled score below raw 0.",
+    "percentileCaveat": "Historical percent-below values reflect the reference population printed in the booklet, not current percentiles."
+  },
+  "GR9367": {
+    "answerKey": "DCACABDBEACEADDAEDABDECADCABEECBCEBDBDDABDEDCECDDABDACEBCCADCBDCAB",
+    "scoreTable": [
+      {
+        "rawMin": 55,
+        "rawMax": 66,
+        "scaled": 990,
+        "percentBelow": 82
+      },
+      {
+        "rawMin": 54,
+        "rawMax": 54,
+        "scaled": 980,
+        "percentBelow": 81
+      },
+      {
+        "rawMin": 53,
+        "rawMax": 53,
+        "scaled": 970,
+        "percentBelow": 80
+      },
+      {
+        "rawMin": 52,
+        "rawMax": 52,
+        "scaled": 960,
+        "percentBelow": 79
+      },
+      {
+        "rawMin": 51,
+        "rawMax": 51,
+        "scaled": 950,
+        "percentBelow": 77
+      },
+      {
+        "rawMin": 50,
+        "rawMax": 50,
+        "scaled": 930,
+        "percentBelow": 74
+      },
+      {
+        "rawMin": 49,
+        "rawMax": 49,
+        "scaled": 920,
+        "percentBelow": 72
+      },
+      {
+        "rawMin": 48,
+        "rawMax": 48,
+        "scaled": 910,
+        "percentBelow": 71
+      },
+      {
+        "rawMin": 47,
+        "rawMax": 47,
+        "scaled": 900,
+        "percentBelow": 69
+      },
+      {
+        "rawMin": 46,
+        "rawMax": 46,
+        "scaled": 890,
+        "percentBelow": 67
+      },
+      {
+        "rawMin": 45,
+        "rawMax": 45,
+        "scaled": 880,
+        "percentBelow": 66
+      },
+      {
+        "rawMin": 44,
+        "rawMax": 44,
+        "scaled": 870,
+        "percentBelow": 64
+      },
+      {
+        "rawMin": 43,
+        "rawMax": 43,
+        "scaled": 860,
+        "percentBelow": 62
+      },
+      {
+        "rawMin": 42,
+        "rawMax": 42,
+        "scaled": 850,
+        "percentBelow": 61
+      },
+      {
+        "rawMin": 41,
+        "rawMax": 41,
+        "scaled": 840,
+        "percentBelow": 59
+      },
+      {
+        "rawMin": 40,
+        "rawMax": 40,
+        "scaled": 830,
+        "percentBelow": 57
+      },
+      {
+        "rawMin": 39,
+        "rawMax": 39,
+        "scaled": 820,
+        "percentBelow": 55
+      },
+      {
+        "rawMin": 38,
+        "rawMax": 38,
+        "scaled": 810,
+        "percentBelow": 54
+      },
+      {
+        "rawMin": 37,
+        "rawMax": 37,
+        "scaled": 800,
+        "percentBelow": 52
+      },
+      {
+        "rawMin": 36,
+        "rawMax": 36,
+        "scaled": 790,
+        "percentBelow": 51
+      },
+      {
+        "rawMin": 35,
+        "rawMax": 35,
+        "scaled": 780,
+        "percentBelow": 49
+      },
+      {
+        "rawMin": 34,
+        "rawMax": 34,
+        "scaled": 770,
+        "percentBelow": 47
+      },
+      {
+        "rawMin": 33,
+        "rawMax": 33,
+        "scaled": 760,
+        "percentBelow": 45
+      },
+      {
+        "rawMin": 32,
+        "rawMax": 32,
+        "scaled": 750,
+        "percentBelow": 43
+      },
+      {
+        "rawMin": 31,
+        "rawMax": 31,
+        "scaled": 740,
+        "percentBelow": 41
+      },
+      {
+        "rawMin": 30,
+        "rawMax": 30,
+        "scaled": 730,
+        "percentBelow": 39
+      },
+      {
+        "rawMin": 29,
+        "rawMax": 29,
+        "scaled": 720,
+        "percentBelow": 38
+      },
+      {
+        "rawMin": 28,
+        "rawMax": 28,
+        "scaled": 710,
+        "percentBelow": 37
+      },
+      {
+        "rawMin": 27,
+        "rawMax": 27,
+        "scaled": 700,
+        "percentBelow": 35
+      },
+      {
+        "rawMin": 26,
+        "rawMax": 26,
+        "scaled": 690,
+        "percentBelow": 33
+      },
+      {
+        "rawMin": 25,
+        "rawMax": 25,
+        "scaled": 680,
+        "percentBelow": 31
+      },
+      {
+        "rawMin": 24,
+        "rawMax": 24,
+        "scaled": 670,
+        "percentBelow": 30
+      },
+      {
+        "rawMin": 23,
+        "rawMax": 23,
+        "scaled": 660,
+        "percentBelow": 28
+      },
+      {
+        "rawMin": 22,
+        "rawMax": 22,
+        "scaled": 650,
+        "percentBelow": 26
+      },
+      {
+        "rawMin": 21,
+        "rawMax": 21,
+        "scaled": 640,
+        "percentBelow": 24
+      },
+      {
+        "rawMin": 20,
+        "rawMax": 20,
+        "scaled": 630,
+        "percentBelow": 23
+      },
+      {
+        "rawMin": 19,
+        "rawMax": 19,
+        "scaled": 620,
+        "percentBelow": 22
+      },
+      {
+        "rawMin": 18,
+        "rawMax": 18,
+        "scaled": 600,
+        "percentBelow": 18
+      },
+      {
+        "rawMin": 17,
+        "rawMax": 17,
+        "scaled": 590,
+        "percentBelow": 17
+      },
+      {
+        "rawMin": 16,
+        "rawMax": 16,
+        "scaled": 580,
+        "percentBelow": 15
+      },
+      {
+        "rawMin": 15,
+        "rawMax": 15,
+        "scaled": 570,
+        "percentBelow": 13
+      },
+      {
+        "rawMin": 14,
+        "rawMax": 14,
+        "scaled": 560,
+        "percentBelow": 12
+      },
+      {
+        "rawMin": 13,
+        "rawMax": 13,
+        "scaled": 550,
+        "percentBelow": 11
+      },
+      {
+        "rawMin": 12,
+        "rawMax": 12,
+        "scaled": 540,
+        "percentBelow": 10
+      },
+      {
+        "rawMin": 11,
+        "rawMax": 11,
+        "scaled": 530,
+        "percentBelow": 8
+      },
+      {
+        "rawMin": 10,
+        "rawMax": 10,
+        "scaled": 520,
+        "percentBelow": 7
+      },
+      {
+        "rawMin": 9,
+        "rawMax": 9,
+        "scaled": 510,
+        "percentBelow": 6
+      },
+      {
+        "rawMin": 8,
+        "rawMax": 8,
+        "scaled": 500,
+        "percentBelow": 5
+      },
+      {
+        "rawMin": 7,
+        "rawMax": 7,
+        "scaled": 490,
+        "percentBelow": 4
+      },
+      {
+        "rawMin": 6,
+        "rawMax": 6,
+        "scaled": 480,
+        "percentBelow": 2
+      },
+      {
+        "rawMin": 5,
+        "rawMax": 5,
+        "scaled": 470,
+        "percentBelow": 2
+      },
+      {
+        "rawMin": 4,
+        "rawMax": 4,
+        "scaled": 460,
+        "percentBelow": 1
+      },
+      {
+        "rawMin": 3,
+        "rawMax": 3,
+        "scaled": 450,
+        "percentBelow": 1
+      },
+      {
+        "rawMin": 2,
+        "rawMax": 2,
+        "scaled": 440,
+        "percentBelow": 0
+      },
+      {
+        "rawMin": 1,
+        "rawMax": 1,
+        "scaled": 430,
+        "percentBelow": 0
+      },
+      {
+        "rawMin": 0,
+        "rawMax": 0,
+        "scaled": 420,
+        "percentBelow": 0
+      }
+    ],
+    "scoring": "round(correct - incorrect / 4)",
+    "sourcePdf": "9367.pdf",
+    "keyPdfPage": 29,
+    "scorePdfPage": 30,
+    "verification": "Independently visually transcribed at 240 dpi from supplied local PDF; every key entry and score row checked.",
+    "negativeRawScorePolicy": "No negative raw score conversions published in these tables; do not invent an exact scaled score below raw 0.",
+    "percentileCaveat": "Historical percent-below values reflect the reference population printed in the booklet, not current percentiles."
+  }
+}

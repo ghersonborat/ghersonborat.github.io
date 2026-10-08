@@ -1,0 +1,1420 @@
+{
+  "exams": [
+    {
+      "id": "princeton2010",
+      "title": "Princeton Review Practice Test",
+      "year": 2010,
+      "form": "PR2010",
+      "category": "unofficial",
+      "publisher": "The Princeton Review / Random House",
+      "questionCount": 65,
+      "durationSeconds": 10200,
+      "sourceFile": "Cracking the GRE Mathematics Subject Test (Stephen A. Leduc) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+      "duplicateFiles": [],
+      "sourceSha256": "9f4693791bc50f42205894c44e02c191da91c4bdcc2d82e49d817c35fc574b13",
+      "keyPage": 432,
+      "keySegments": [
+        {
+          "sourcePage": 432,
+          "rect": [
+            138,
+            103,
+            220,
+            139
+          ]
+        },
+        {
+          "sourcePage": 432,
+          "rect": [
+            136,
+            185,
+            222,
+            223
+          ]
+        },
+        {
+          "sourcePage": 432,
+          "rect": [
+            136,
+            435,
+            218,
+            471
+          ]
+        },
+        {
+          "sourcePage": 432,
+          "rect": [
+            138,
+            809,
+            218,
+            845
+          ]
+        },
+        {
+          "sourcePage": 432,
+          "rect": [
+            138,
+            967,
+            220,
+            1003
+          ]
+        },
+        {
+          "sourcePage": 432,
+          "rect": [
+            138,
+            1203,
+            222,
+            1239
+          ]
+        },
+        {
+          "sourcePage": 433,
+          "rect": [
+            96,
+            105,
+            174,
+            141
+          ]
+        },
+        {
+          "sourcePage": 433,
+          "rect": [
+            94,
+            377,
+            174,
+            413
+          ]
+        },
+        {
+          "sourcePage": 433,
+          "rect": [
+            94,
+            813,
+            174,
+            849
+          ]
+        },
+        {
+          "sourcePage": 433,
+          "rect": [
+            96,
+            1063,
+            178,
+            1099
+          ]
+        },
+        {
+          "sourcePage": 434,
+          "rect": [
+            146,
+            105,
+            228,
+            141
+          ]
+        },
+        {
+          "sourcePage": 434,
+          "rect": [
+            148,
+            389,
+            226,
+            425
+          ]
+        },
+        {
+          "sourcePage": 434,
+          "rect": [
+            148,
+            713,
+            230,
+            751
+          ]
+        },
+        {
+          "sourcePage": 435,
+          "rect": [
+            102,
+            101,
+            182,
+            137
+          ]
+        },
+        {
+          "sourcePage": 435,
+          "rect": [
+            104,
+            391,
+            186,
+            427
+          ]
+        },
+        {
+          "sourcePage": 435,
+          "rect": [
+            104,
+            787,
+            186,
+            823
+          ]
+        },
+        {
+          "sourcePage": 435,
+          "rect": [
+            104,
+            1053,
+            184,
+            1091
+          ]
+        },
+        {
+          "sourcePage": 435,
+          "rect": [
+            104,
+            1209,
+            184,
+            1245
+          ]
+        },
+        {
+          "sourcePage": 436,
+          "rect": [
+            134,
+            103,
+            216,
+            139
+          ]
+        },
+        {
+          "sourcePage": 436,
+          "rect": [
+            134,
+            351,
+            216,
+            387
+          ]
+        },
+        {
+          "sourcePage": 436,
+          "rect": [
+            134,
+            737,
+            214,
+            773
+          ]
+        },
+        {
+          "sourcePage": 437,
+          "rect": [
+            94,
+            97,
+            174,
+            135
+          ]
+        },
+        {
+          "sourcePage": 437,
+          "rect": [
+            94,
+            395,
+            178,
+            433
+          ]
+        },
+        {
+          "sourcePage": 437,
+          "rect": [
+            94,
+            655,
+            178,
+            697
+          ]
+        },
+        {
+          "sourcePage": 437,
+          "rect": [
+            94,
+            929,
+            174,
+            965
+          ]
+        },
+        {
+          "sourcePage": 438,
+          "rect": [
+            142,
+            101,
+            224,
+            139
+          ]
+        },
+        {
+          "sourcePage": 438,
+          "rect": [
+            142,
+            421,
+            224,
+            457
+          ]
+        },
+        {
+          "sourcePage": 438,
+          "rect": [
+            142,
+            847,
+            224,
+            883
+          ]
+        },
+        {
+          "sourcePage": 439,
+          "rect": [
+            104,
+            99,
+            186,
+            135
+          ]
+        },
+        {
+          "sourcePage": 439,
+          "rect": [
+            102,
+            821,
+            186,
+            857
+          ]
+        },
+        {
+          "sourcePage": 440,
+          "rect": [
+            132,
+            99,
+            216,
+            135
+          ]
+        },
+        {
+          "sourcePage": 440,
+          "rect": [
+            134,
+            265,
+            218,
+            301
+          ]
+        },
+        {
+          "sourcePage": 440,
+          "rect": [
+            132,
+            669,
+            218,
+            707
+          ]
+        },
+        {
+          "sourcePage": 440,
+          "rect": [
+            134,
+            1013,
+            216,
+            1049
+          ]
+        },
+        {
+          "sourcePage": 441,
+          "rect": [
+            94,
+            101,
+            178,
+            137
+          ]
+        },
+        {
+          "sourcePage": 441,
+          "rect": [
+            94,
+            789,
+            174,
+            825
+          ]
+        },
+        {
+          "sourcePage": 442,
+          "rect": [
+            140,
+            103,
+            218,
+            139
+          ]
+        },
+        {
+          "sourcePage": 442,
+          "rect": [
+            140,
+            823,
+            222,
+            859
+          ]
+        },
+        {
+          "sourcePage": 443,
+          "rect": [
+            104,
+            103,
+            184,
+            139
+          ]
+        },
+        {
+          "sourcePage": 443,
+          "rect": [
+            104,
+            405,
+            186,
+            441
+          ]
+        },
+        {
+          "sourcePage": 443,
+          "rect": [
+            104,
+            619,
+            188,
+            655
+          ]
+        },
+        {
+          "sourcePage": 444,
+          "rect": [
+            132,
+            103,
+            212,
+            141
+          ]
+        },
+        {
+          "sourcePage": 444,
+          "rect": [
+            132,
+            551,
+            212,
+            587
+          ]
+        },
+        {
+          "sourcePage": 445,
+          "rect": [
+            96,
+            101,
+            178,
+            137
+          ]
+        },
+        {
+          "sourcePage": 445,
+          "rect": [
+            96,
+            797,
+            178,
+            833
+          ]
+        },
+        {
+          "sourcePage": 446,
+          "rect": [
+            142,
+            103,
+            222,
+            139
+          ]
+        },
+        {
+          "sourcePage": 447,
+          "rect": [
+            104,
+            101,
+            188,
+            137
+          ]
+        },
+        {
+          "sourcePage": 447,
+          "rect": [
+            104,
+            707,
+            188,
+            743
+          ]
+        },
+        {
+          "sourcePage": 447,
+          "rect": [
+            106,
+            845,
+            188,
+            881
+          ]
+        },
+        {
+          "sourcePage": 448,
+          "rect": [
+            128,
+            101,
+            208,
+            137
+          ]
+        },
+        {
+          "sourcePage": 448,
+          "rect": [
+            128,
+            481,
+            212,
+            517
+          ]
+        },
+        {
+          "sourcePage": 449,
+          "rect": [
+            96,
+            97,
+            180,
+            133
+          ]
+        },
+        {
+          "sourcePage": 449,
+          "rect": [
+            96,
+            755,
+            178,
+            791
+          ]
+        },
+        {
+          "sourcePage": 450,
+          "rect": [
+            136,
+            97,
+            220,
+            135
+          ]
+        },
+        {
+          "sourcePage": 450,
+          "rect": [
+            136,
+            803,
+            218,
+            839
+          ]
+        },
+        {
+          "sourcePage": 451,
+          "rect": [
+            106,
+            99,
+            186,
+            135
+          ]
+        },
+        {
+          "sourcePage": 451,
+          "rect": [
+            106,
+            731,
+            190,
+            767
+          ]
+        },
+        {
+          "sourcePage": 451,
+          "rect": [
+            106,
+            1017,
+            186,
+            1053
+          ]
+        },
+        {
+          "sourcePage": 452,
+          "rect": [
+            128,
+            97,
+            210,
+            133
+          ]
+        },
+        {
+          "sourcePage": 452,
+          "rect": [
+            128,
+            701,
+            206,
+            737
+          ]
+        },
+        {
+          "sourcePage": 452,
+          "rect": [
+            126,
+            1083,
+            210,
+            1119
+          ]
+        },
+        {
+          "sourcePage": 453,
+          "rect": [
+            98,
+            999,
+            176,
+            1035
+          ]
+        },
+        {
+          "sourcePage": 454,
+          "rect": [
+            136,
+            109,
+            214,
+            145
+          ]
+        },
+        {
+          "sourcePage": 454,
+          "rect": [
+            134,
+            555,
+            214,
+            593
+          ]
+        },
+        {
+          "sourcePage": 454,
+          "rect": [
+            134,
+            1157,
+            216,
+            1193
+          ]
+        }
+      ],
+      "scalePage": null,
+      "answers": "DABBCAEEBDCBAECCEECCBBAABDDCCDCAADABBDEDCBBCBECCDBCDADBECBDEDEBBD",
+      "scoring": {
+        "method": "number-correct",
+        "conversion": [],
+        "notes": "This publisher practice test has 65 questions and no published test-specific raw-to-scaled conversion table. Results report the number correct out of 65; no GRE scaled-score estimate is calculated. The book discusses the historical wrong-answer penalty in its general introduction, but does not provide a scoring curve for this test. Correct choices follow the numbered answer explanations on PDF pages 432–454.",
+        "sourcePages": [
+          432,
+          433,
+          434,
+          435,
+          436,
+          437,
+          438,
+          439,
+          440,
+          441,
+          442,
+          443,
+          444,
+          445,
+          446,
+          447,
+          448,
+          449,
+          450,
+          451,
+          452,
+          453,
+          454
+        ]
+      },
+      "editionNotes": "Cracking the GRE Mathematics Subject Test, fourth edition, Steven A. Leduc, copyright 2010. This is the book’s single full-length publisher practice test (printed pages 406–420; answers and explanations 422–444), not an ETS released exam. Original 65-question count and 170-minute time limit are preserved.",
+      "questions": [
+        {
+          "sourcePage": 416,
+          "rects": [
+            [
+              100,
+              620,
+              1080,
+              739
+            ]
+          ],
+          "answerSourcePage": 432
+        },
+        {
+          "sourcePage": 416,
+          "rects": [
+            [
+              100,
+              757,
+              1080,
+              907
+            ]
+          ],
+          "answerSourcePage": 432
+        },
+        {
+          "sourcePage": 416,
+          "rects": [
+            [
+              100,
+              925,
+              1080,
+              1083
+            ]
+          ],
+          "answerSourcePage": 432
+        },
+        {
+          "sourcePage": 416,
+          "rects": [
+            [
+              100,
+              1100,
+              1080,
+              1223
+            ]
+          ],
+          "answerSourcePage": 432
+        },
+        {
+          "sourcePage": 417,
+          "rects": [
+            [
+              100,
+              80,
+              1080,
+              218
+            ]
+          ],
+          "answerSourcePage": 432
+        },
+        {
+          "sourcePage": 417,
+          "rects": [
+            [
+              100,
+              236,
+              1080,
+              352
+            ]
+          ],
+          "answerSourcePage": 432
+        },
+        {
+          "sourcePage": 417,
+          "rects": [
+            [
+              100,
+              370,
+              1080,
+              509
+            ]
+          ],
+          "answerSourcePage": 433
+        },
+        {
+          "sourcePage": 417,
+          "rects": [
+            [
+              100,
+              526,
+              1080,
+              630
+            ]
+          ],
+          "answerSourcePage": 433
+        },
+        {
+          "sourcePage": 417,
+          "rects": [
+            [
+              100,
+              647,
+              1080,
+              790
+            ]
+          ],
+          "answerSourcePage": 433
+        },
+        {
+          "sourcePage": 417,
+          "rects": [
+            [
+              100,
+              808,
+              1080,
+              1085
+            ]
+          ],
+          "answerSourcePage": 433
+        },
+        {
+          "sourcePage": 418,
+          "rects": [
+            [
+              100,
+              80,
+              1080,
+              311
+            ]
+          ],
+          "answerSourcePage": 434
+        },
+        {
+          "sourcePage": 418,
+          "rects": [
+            [
+              100,
+              328,
+              1080,
+              466
+            ]
+          ],
+          "answerSourcePage": 434
+        },
+        {
+          "sourcePage": 418,
+          "rects": [
+            [
+              100,
+              483,
+              1080,
+              654
+            ]
+          ],
+          "answerSourcePage": 434
+        },
+        {
+          "sourcePage": 418,
+          "rects": [
+            [
+              100,
+              672,
+              1080,
+              928
+            ]
+          ],
+          "answerSourcePage": 435
+        },
+        {
+          "sourcePage": 418,
+          "rects": [
+            [
+              100,
+              946,
+              1080,
+              1261
+            ]
+          ],
+          "answerSourcePage": 435
+        },
+        {
+          "sourcePage": 419,
+          "rects": [
+            [
+              100,
+              80,
+              1080,
+              246
+            ]
+          ],
+          "answerSourcePage": 435
+        },
+        {
+          "sourcePage": 419,
+          "rects": [
+            [
+              100,
+              264,
+              1080,
+              414
+            ]
+          ],
+          "answerSourcePage": 435
+        },
+        {
+          "sourcePage": 419,
+          "rects": [
+            [
+              100,
+              432,
+              1080,
+              530
+            ]
+          ],
+          "answerSourcePage": 435
+        },
+        {
+          "sourcePage": 419,
+          "rects": [
+            [
+              100,
+              547,
+              1080,
+              661
+            ]
+          ],
+          "answerSourcePage": 436
+        },
+        {
+          "sourcePage": 419,
+          "rects": [
+            [
+              100,
+              679,
+              1080,
+              801
+            ]
+          ],
+          "answerSourcePage": 436
+        },
+        {
+          "sourcePage": 419,
+          "rects": [
+            [
+              100,
+              819,
+              1080,
+              1061
+            ]
+          ],
+          "answerSourcePage": 436
+        },
+        {
+          "sourcePage": 420,
+          "rects": [
+            [
+              100,
+              80,
+              1080,
+              314
+            ]
+          ],
+          "answerSourcePage": 437
+        },
+        {
+          "sourcePage": 420,
+          "rects": [
+            [
+              100,
+              332,
+              1080,
+              452
+            ]
+          ],
+          "answerSourcePage": 437
+        },
+        {
+          "sourcePage": 420,
+          "rects": [
+            [
+              100,
+              470,
+              1080,
+              721
+            ]
+          ],
+          "answerSourcePage": 437
+        },
+        {
+          "sourcePage": 420,
+          "rects": [
+            [
+              100,
+              739,
+              1080,
+              870
+            ]
+          ],
+          "answerSourcePage": 437
+        },
+        {
+          "sourcePage": 420,
+          "rects": [
+            [
+              100,
+              888,
+              1080,
+              1162
+            ]
+          ],
+          "answerSourcePage": 438
+        },
+        {
+          "sourcePage": 421,
+          "rects": [
+            [
+              100,
+              80,
+              1080,
+              411
+            ]
+          ],
+          "answerSourcePage": 438
+        },
+        {
+          "sourcePage": 421,
+          "rects": [
+            [
+              100,
+              428,
+              1080,
+              859
+            ]
+          ],
+          "answerSourcePage": 438
+        },
+        {
+          "sourcePage": 421,
+          "rects": [
+            [
+              100,
+              876,
+              1080,
+              997
+            ]
+          ],
+          "answerSourcePage": 439
+        },
+        {
+          "sourcePage": 421,
+          "rects": [
+            [
+              100,
+              1015,
+              1080,
+              1275
+            ]
+          ],
+          "answerSourcePage": 439
+        },
+        {
+          "sourcePage": 422,
+          "rects": [
+            [
+              100,
+              80,
+              1080,
+              318
+            ]
+          ],
+          "answerSourcePage": 440
+        },
+        {
+          "sourcePage": 422,
+          "rects": [
+            [
+              100,
+              336,
+              1080,
+              483
+            ]
+          ],
+          "answerSourcePage": 440
+        },
+        {
+          "sourcePage": 422,
+          "rects": [
+            [
+              100,
+              501,
+              1080,
+              742
+            ]
+          ],
+          "answerSourcePage": 440
+        },
+        {
+          "sourcePage": 422,
+          "rects": [
+            [
+              100,
+              761,
+              1080,
+              991
+            ]
+          ],
+          "answerSourcePage": 440
+        },
+        {
+          "sourcePage": 423,
+          "rects": [
+            [
+              100,
+              80,
+              1080,
+              448
+            ]
+          ],
+          "answerSourcePage": 441
+        },
+        {
+          "sourcePage": 423,
+          "rects": [
+            [
+              100,
+              466,
+              1080,
+              613
+            ]
+          ],
+          "answerSourcePage": 441
+        },
+        {
+          "sourcePage": 423,
+          "rects": [
+            [
+              100,
+              631,
+              1080,
+              842
+            ]
+          ],
+          "answerSourcePage": 442
+        },
+        {
+          "sourcePage": 423,
+          "rects": [
+            [
+              100,
+              859,
+              1080,
+              1129
+            ]
+          ],
+          "answerSourcePage": 442
+        },
+        {
+          "sourcePage": 424,
+          "rects": [
+            [
+              100,
+              80,
+              1080,
+              538
+            ]
+          ],
+          "answerSourcePage": 443
+        },
+        {
+          "sourcePage": 424,
+          "rects": [
+            [
+              100,
+              556,
+              1080,
+              691
+            ]
+          ],
+          "answerSourcePage": 443
+        },
+        {
+          "sourcePage": 424,
+          "rects": [
+            [
+              100,
+              709,
+              1080,
+              1010
+            ]
+          ],
+          "answerSourcePage": 443
+        },
+        {
+          "sourcePage": 424,
+          "rects": [
+            [
+              100,
+              1028,
+              1080,
+              1278
+            ]
+          ],
+          "answerSourcePage": 444
+        },
+        {
+          "sourcePage": 425,
+          "rects": [
+            [
+              100,
+              80,
+              1080,
+              252
+            ]
+          ],
+          "answerSourcePage": 444
+        },
+        {
+          "sourcePage": 425,
+          "rects": [
+            [
+              100,
+              270,
+              1080,
+              396
+            ]
+          ],
+          "answerSourcePage": 445
+        },
+        {
+          "sourcePage": 425,
+          "rects": [
+            [
+              100,
+              414,
+              1080,
+              614
+            ]
+          ],
+          "answerSourcePage": 445
+        },
+        {
+          "sourcePage": 425,
+          "rects": [
+            [
+              100,
+              632,
+              1080,
+              780
+            ]
+          ],
+          "answerSourcePage": 446
+        },
+        {
+          "sourcePage": 425,
+          "rects": [
+            [
+              100,
+              798,
+              1080,
+              960
+            ]
+          ],
+          "answerSourcePage": 447
+        },
+        {
+          "sourcePage": 426,
+          "rects": [
+            [
+              100,
+              80,
+              1080,
+              222
+            ]
+          ],
+          "answerSourcePage": 447
+        },
+        {
+          "sourcePage": 426,
+          "rects": [
+            [
+              100,
+              240,
+              1080,
+              664
+            ]
+          ],
+          "answerSourcePage": 447
+        },
+        {
+          "sourcePage": 426,
+          "rects": [
+            [
+              100,
+              682,
+              1080,
+              775
+            ]
+          ],
+          "answerSourcePage": 448
+        },
+        {
+          "sourcePage": 426,
+          "rects": [
+            [
+              100,
+              793,
+              1080,
+              1000
+            ]
+          ],
+          "answerSourcePage": 448
+        },
+        {
+          "sourcePage": 427,
+          "rects": [
+            [
+              100,
+              80,
+              1080,
+              373
+            ]
+          ],
+          "answerSourcePage": 449
+        },
+        {
+          "sourcePage": 427,
+          "rects": [
+            [
+              100,
+              391,
+              1080,
+              512
+            ]
+          ],
+          "answerSourcePage": 449
+        },
+        {
+          "sourcePage": 427,
+          "rects": [
+            [
+              100,
+              530,
+              1080,
+              773
+            ]
+          ],
+          "answerSourcePage": 450
+        },
+        {
+          "sourcePage": 427,
+          "rects": [
+            [
+              100,
+              791,
+              1080,
+              923
+            ]
+          ],
+          "answerSourcePage": 450
+        },
+        {
+          "sourcePage": 427,
+          "rects": [
+            [
+              100,
+              941,
+              1080,
+              1116
+            ]
+          ],
+          "answerSourcePage": 451
+        },
+        {
+          "sourcePage": 428,
+          "rects": [
+            [
+              100,
+              80,
+              1080,
+              1081
+            ]
+          ],
+          "answerSourcePage": 451
+        },
+        {
+          "sourcePage": 429,
+          "rects": [
+            [
+              100,
+              80,
+              1080,
+              377
+            ]
+          ],
+          "answerSourcePage": 451
+        },
+        {
+          "sourcePage": 429,
+          "rects": [
+            [
+              100,
+              395,
+              1080,
+              488
+            ]
+          ],
+          "answerSourcePage": 452
+        },
+        {
+          "sourcePage": 429,
+          "rects": [
+            [
+              100,
+              506,
+              1080,
+              746
+            ]
+          ],
+          "answerSourcePage": 452
+        },
+        {
+          "sourcePage": 429,
+          "rects": [
+            [
+              100,
+              764,
+              1080,
+              980
+            ]
+          ],
+          "answerSourcePage": 452
+        },
+        {
+          "sourcePage": 429,
+          "rects": [
+            [
+              100,
+              997,
+              1080,
+              1272
+            ]
+          ],
+          "answerSourcePage": 453
+        },
+        {
+          "sourcePage": 430,
+          "rects": [
+            [
+              100,
+              80,
+              1080,
+              277
+            ]
+          ],
+          "answerSourcePage": 454
+        },
+        {
+          "sourcePage": 430,
+          "rects": [
+            [
+              100,
+              295,
+              1080,
+              416
+            ]
+          ],
+          "answerSourcePage": 454
+        },
+        {
+          "sourcePage": 430,
+          "rects": [
+            [
+              100,
+              433,
+              1080,
+              581
+            ]
+          ],
+          "answerSourcePage": 454
+        }
+      ]
+    }
+  ]
+}

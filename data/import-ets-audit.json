@@ -1,0 +1,446 @@
+{
+  "schemaVersion": 1,
+  "uniqueExamsAdded": 0,
+  "sources": [
+    {
+      "sourceFile": "GRE Mathematics Test Practice Book (Educational Testing Service) (z-library.sk, 1lib.sk, z-lib.sk) (1).pdf",
+      "publisher": "ETS",
+      "category": "official",
+      "title": "GRE Mathematics Test (Rescaled) Practice Book",
+      "pageCount": 61,
+      "sourceSha256": "c54199a7bcd4fdc2e20d2785bc5189188c89c4e3fbee60ee8805b9366a184751",
+      "disposition": "duplicate-question-sets",
+      "matches": [
+        {
+          "examId": "gr9768",
+          "sourceForm": "GR9768",
+          "questionCount": 66,
+          "pdfPageRange": [
+            9,
+            54
+          ],
+          "questionPages": [
+            10,
+            12,
+            14,
+            16,
+            18,
+            20,
+            22,
+            24,
+            26,
+            28,
+            30,
+            32,
+            34,
+            36,
+            38,
+            40,
+            42,
+            44,
+            46,
+            48,
+            50,
+            52
+          ],
+          "keyPage": 56,
+          "scalePage": 57,
+          "answerKeyMatches": true,
+          "scoringMatches": true,
+          "verification": "The form is explicitly GR9768. Question content, complete answer key, and published rescaled curve match the existing MathGRE.pdf question set; cover/typesetting differences do not create another exam."
+        }
+      ]
+    },
+    {
+      "sourceFile": "GRE Practicing to Take the Mathematics Test (Third Edition) (Educational Testing Service) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+      "publisher": "ETS",
+      "category": "official",
+      "title": "Practicing to Take the Mathematics Test, Third Edition",
+      "pageCount": 140,
+      "sourceSha256": "54c921b1d9d8f6074b2a3aa44c4f44e2f161923c7f969b2cef058d9a55f2a8dd",
+      "disposition": "duplicate-question-sets",
+      "matches": [
+        {
+          "examId": "gr9367",
+          "sourceForm": "GR9367",
+          "questionCount": 66,
+          "pdfPageRange": [
+            31,
+            82
+          ],
+          "questionPages": [
+            32,
+            34,
+            36,
+            38,
+            40,
+            42,
+            44,
+            46,
+            48,
+            50,
+            52,
+            54,
+            56,
+            58,
+            60,
+            62,
+            64,
+            66,
+            68,
+            70,
+            72,
+            74,
+            76,
+            78,
+            80,
+            82
+          ],
+          "keyPage": 27,
+          "scalePage": 28,
+          "answerKeyMatches": true,
+          "scoringMatches": true,
+          "answerKey": "DCACABDBEACEADDAEDABDECADCABEECBCEBDBDDABDEDCECDDABDACEBCCADCBDCAB",
+          "verification": "Same GR9367 question sequence; all 66 published answer letters and published conversion entries match existing GR9367."
+        },
+        {
+          "examId": "gr9768",
+          "sourceForm": "GR9767",
+          "questionCount": 66,
+          "pdfPageRange": [
+            87,
+            132
+          ],
+          "questionPages": [
+            88,
+            90,
+            92,
+            94,
+            96,
+            98,
+            100,
+            102,
+            104,
+            106,
+            108,
+            110,
+            112,
+            114,
+            116,
+            118,
+            120,
+            122,
+            124,
+            126,
+            128,
+            130
+          ],
+          "keyPage": 84,
+          "scalePage": 85,
+          "answerKeyMatches": true,
+          "scoringMatches": false,
+          "answerKey": "CDCBECBEABACACBDEEBDDBCCDBECBDCDAABDBBBEEDBDACEAEDDDDADECCAEEADCAE",
+          "verification": "GR9767 is the original-scale edition of the same 1997 questions released as GR9768 after rescaling. All 66 published answer letters match; question stems and choices including the first and final questions match. Its different original-scale conversion is preserved separately."
+        }
+      ],
+      "excludedSections": [
+        {
+          "pdfPageRange": [
+            11,
+            24
+          ],
+          "reason": "Sample questions, not a complete timed practice test."
+        }
+      ]
+    }
+  ],
+  "alternateScoring": [
+    {
+      "examId": "gr9768",
+      "scoring": {
+        "form": "GR9767",
+        "year": 1997,
+        "sourceFile": "GRE Practicing to Take the Mathematics Test (Third Edition) (Educational Testing Service) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+        "method": "quarter-penalty",
+        "conversion": [
+          {
+            "raw": 0,
+            "scaled": 440
+          },
+          {
+            "raw": 1,
+            "scaled": 450
+          },
+          {
+            "raw": 2,
+            "scaled": 460
+          },
+          {
+            "raw": 3,
+            "scaled": 470
+          },
+          {
+            "raw": 4,
+            "scaled": 480
+          },
+          {
+            "raw": 5,
+            "scaled": 490
+          },
+          {
+            "raw": 6,
+            "scaled": 500
+          },
+          {
+            "raw": 7,
+            "scaled": 510
+          },
+          {
+            "raw": 8,
+            "scaled": 530
+          },
+          {
+            "raw": 9,
+            "scaled": 540
+          },
+          {
+            "raw": 10,
+            "scaled": 550
+          },
+          {
+            "raw": 11,
+            "scaled": 560
+          },
+          {
+            "raw": 12,
+            "scaled": 570
+          },
+          {
+            "raw": 13,
+            "scaled": 580
+          },
+          {
+            "raw": 14,
+            "scaled": 590
+          },
+          {
+            "raw": 15,
+            "scaled": 600
+          },
+          {
+            "raw": 16,
+            "scaled": 610
+          },
+          {
+            "raw": 17,
+            "scaled": 630
+          },
+          {
+            "raw": 18,
+            "scaled": 640
+          },
+          {
+            "raw": 19,
+            "scaled": 650
+          },
+          {
+            "raw": 20,
+            "scaled": 660
+          },
+          {
+            "raw": 21,
+            "scaled": 670
+          },
+          {
+            "raw": 22,
+            "scaled": 680
+          },
+          {
+            "raw": 23,
+            "scaled": 690
+          },
+          {
+            "raw": 24,
+            "scaled": 700
+          },
+          {
+            "raw": 25,
+            "scaled": 720
+          },
+          {
+            "raw": 26,
+            "scaled": 730
+          },
+          {
+            "raw": 27,
+            "scaled": 740
+          },
+          {
+            "raw": 28,
+            "scaled": 750
+          },
+          {
+            "raw": 29,
+            "scaled": 760
+          },
+          {
+            "raw": 30,
+            "scaled": 770
+          },
+          {
+            "raw": 31,
+            "scaled": 780
+          },
+          {
+            "raw": 32,
+            "scaled": 790
+          },
+          {
+            "raw": 33,
+            "scaled": 800
+          },
+          {
+            "raw": 34,
+            "scaled": 820
+          },
+          {
+            "raw": 35,
+            "scaled": 830
+          },
+          {
+            "raw": 36,
+            "scaled": 840
+          },
+          {
+            "raw": 37,
+            "scaled": 850
+          },
+          {
+            "raw": 38,
+            "scaled": 860
+          },
+          {
+            "raw": 39,
+            "scaled": 870
+          },
+          {
+            "raw": 40,
+            "scaled": 880
+          },
+          {
+            "raw": 41,
+            "scaled": 890
+          },
+          {
+            "raw": 42,
+            "scaled": 910
+          },
+          {
+            "raw": 43,
+            "scaled": 920
+          },
+          {
+            "raw": 44,
+            "scaled": 930
+          },
+          {
+            "raw": 45,
+            "scaled": 940
+          },
+          {
+            "raw": 46,
+            "scaled": 950
+          },
+          {
+            "raw": 47,
+            "scaled": 960
+          },
+          {
+            "raw": 48,
+            "scaled": 970
+          },
+          {
+            "raw": 49,
+            "scaled": 980
+          },
+          {
+            "raw": 50,
+            "scaled": 990
+          },
+          {
+            "raw": 51,
+            "scaled": 990
+          },
+          {
+            "raw": 52,
+            "scaled": 990
+          },
+          {
+            "raw": 53,
+            "scaled": 990
+          },
+          {
+            "raw": 54,
+            "scaled": 990
+          },
+          {
+            "raw": 55,
+            "scaled": 990
+          },
+          {
+            "raw": 56,
+            "scaled": 990
+          },
+          {
+            "raw": 57,
+            "scaled": 990
+          },
+          {
+            "raw": 58,
+            "scaled": 990
+          },
+          {
+            "raw": 59,
+            "scaled": 990
+          },
+          {
+            "raw": 60,
+            "scaled": 990
+          },
+          {
+            "raw": 61,
+            "scaled": 990
+          },
+          {
+            "raw": 62,
+            "scaled": 990
+          },
+          {
+            "raw": 63,
+            "scaled": 990
+          },
+          {
+            "raw": 64,
+            "scaled": 990
+          },
+          {
+            "raw": 65,
+            "scaled": 990
+          },
+          {
+            "raw": 66,
+            "scaled": 990
+          }
+        ],
+        "sourcePages": [
+          84,
+          85
+        ],
+        "keyImage": "assets/sources/gr9767-original-key.webp",
+        "conversionImage": "assets/sources/gr9767-original-scale.webp",
+        "scaleEra": "pre-2001",
+        "notes": "Original pre-October-2001 GR9767 conversion for the same 66 questions as GR9768. Correct minus one quarter of incorrect, rounded to nearest integer. This older scale is not comparable to the rescaled GR9768 table used by the main library entry."
+      }
+    }
+  ]
+}

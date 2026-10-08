@@ -1,0 +1,65 @@
+{
+  "checkedOn": "2026-09-29",
+  "purpose": "Primary-source evidence for a static GRE Mathematics Subject Test practice simulator.",
+  "verifiedCurrentRules": {
+    "durationSeconds": 10200,
+    "approximateQuestionCount": 66,
+    "separatelyTimedSections": false,
+    "computerDeliverySince": "September 2023",
+    "scheduledBreaks": false,
+    "timerContinuesDuringUnscheduledTestCenterBreak": true,
+    "onScreenCalculator": false,
+    "personalCalculatorWithoutAccommodation": false,
+    "canSkipQuestions": true,
+    "canMarkQuestions": true,
+    "canReviewQuestionList": true,
+    "canChangeAnswersBeforeTimeExpires": true,
+    "scoreBasedOnCorrectAnswersOnly": true,
+    "wrongAnswerPenalty": 0,
+    "totalScoreScale": {"min": 200, "max": 990, "increment": 10},
+    "scoreScaleCaveat": "Each test edition normally occupies only part of the overall score scale. Scaled scores depend on edition-specific equating, not a universal percentage formula.",
+    "endingDecision": "The Subject Test has a report/view-or-cancel-scores decision at the end. Official scores are released later; immediate item-by-item review is a practice feature."
+  },
+  "visualEvidence": {
+    "localReference": "IMG_1834.png",
+    "localReferenceDescription": "The provided image shows a GRE General Test quantitative comparison question, Section 3 of 5 / Question 1 of 12, with a calculator button. It is not a Mathematics Subject Test screenshot.",
+    "localReferenceFeatures": ["dark charcoal toolbar", "Exit Section", "Quit w/Save", "Calc", "Mark", "Review", "Help", "Back", "blue Next button", "light gray question/timer strip", "Hide Time", "white question area", "single-choice radio buttons"],
+    "officialReviewImageUrl": "https://www.in.ets.org/gre/test-takers/subject-tests/prepare/strategies-tips/_jcr_content/root/container/container/image_copy_copy.coreimg.gif/1771410159565/interior-full-body-tips-screenshot.gif",
+    "officialReviewEvidence": "ETS's current Subject Test strategies page uses an old General Test review screenshot as its example. The review table has Number, Status, and Marked columns and Return / Go to Question controls. The selected question is highlighted and columns can be sorted.",
+    "reviewStatuses": ["Answered", "Not Answered", "Not Encountered"],
+    "incompleteStatusCaveat": "The General Test example also uses Incomplete for multiple-selection questions. Mathematics Subject Test items each have one correct answer among five options, so that state is unnecessary.",
+    "unseenQuestionCaveat": "The General Test screenshot text disallows direct jumps to Not Encountered questions. No separate modern Subject Test screen was verified; this particular restriction is visual-reference evidence, not an independently verified current Subject-specific rule."
+  },
+  "historicalScoring": {
+    "formula": "correct - incorrect / 4",
+    "rounding": "Round the raw total to the nearest integer before looking up the form-specific conversion table.",
+    "unansweredPenalty": 0,
+    "comparability": "ETS rescaled Mathematics effective October 2001. Pre-October-2001 scaled scores should not be compared with later Mathematics scores.",
+    "penaltyChangeDate": "Not established by the primary sources consulted; do not imply the penalty disappeared only with September 2023 computer delivery.",
+    "implementationImplication": "Show current correct-only practice performance separately from any explicitly labeled historical booklet-scaled estimate. Do not apply a historical penalty conversion table to the current correct-only score as though it were current ETS equating."
+  },
+  "latestOfficialPracticeBook": {
+    "url": "https://www.ets.org/content/dam/ets-org/pdfs/gre/practice-book-math.pdf",
+    "form": "GR3768",
+    "pdfPages": 36,
+    "answerKeyPrintedPage": 34,
+    "conversionTablePrintedPage": 35,
+    "scoring": "Number correct, without a wrong-answer deduction.",
+    "verifiedExamples": [{"correct": 50, "scaled": 800}, {"correctRange": [65, 66], "scaled": 970}]
+  },
+  "implementationLimits": [
+    "No complete public, authenticated modern Mathematics Subject Test interface walkthrough was located. Present the design as an ETS-style practice reconstruction rather than an exact official clone.",
+    "The local reference's calculator and multi-section structure belong to the General Test and should not be copied into Subject Test mechanics.",
+    "Saving, pausing, extra keyboard shortcuts, post-test correct answers, and immediate scores are practice conveniences rather than verified live-test features.",
+    "Timer visibility and five-minute behavior are documented for other ETS computer tests, but the exact Subject Test warning behavior was not independently verified."
+  ],
+  "sources": [
+    {"title": "ETS GRE Subject Test Content and Structure", "url": "https://www.ets.org/gre/test-takers/subject-tests/about/content-structure.html", "supports": ["170-minute Mathematics duration", "approximately 66 multiple-choice questions", "no separately timed sections", "computer delivery since September 2023"]},
+    {"title": "ETS Strategies and Tips for the GRE Subject Tests", "url": "https://www.ets.org/gre/test-takers/subject-tests/prepare/strategies-tips.html", "supports": ["mark and review", "skip and change answers", "question status list", "no incorrect-answer deduction", "no breaks", "timing continues on test-center breaks"]},
+    {"title": "ETS 2026–27 GRE Information Bulletin", "url": "https://www.ets.org/content/dam/ets-org/pdfs/gre/gre-info-bulletin.pdf", "supports": ["pages 12–13: no Subject Test calculator", "page 14: report or cancel scores decision", "page 15: 200–990 scale and later official release"]},
+    {"title": "ETS GRE Mathematics Practice Book, Form GR3768", "url": "https://www.ets.org/content/dam/ets-org/pdfs/gre/practice-book-math.pdf", "supports": ["66 questions and 170 minutes", "one answer per item", "correct-only scoring", "answer key", "form-specific score conversion"]},
+    {"title": "ETS GRE Guide to the Use of Scores", "url": "https://www.ets.org/content/dam/ets-org/pdfs/gre/gre-guide-to-the-use-of-scores.pdf", "supports": ["number correct converted through equating", "equating adjusts for edition difficulty"]},
+    {"title": "Historical ETS Mathematics Test (Rescaled) Practice Book, hosted by Western Oregon University", "url": "https://wou.edu/math/files/2015/05/MathGRE.pdf", "supports": ["historical quarter-point deduction", "nearest-integer rounding", "October 2001 rescaling and non-comparability with older scores"]},
+    {"title": "ETS GRE student presentation (General Test visual reference)", "url": "https://www.ets.org/content/dam/ets-india/pdfs/gre/gre-student-presentation.pdf", "supports": ["page 15 review layout", "sortable Number, Status, Marked columns", "Return and Go to Question controls"]}
+  ]
+}
